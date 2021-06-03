@@ -1,0 +1,1125 @@
+{
+  "meta": {},
+  "data": {
+    "pages": [
+      {
+        "id": 8932,
+        "slug": "home",
+        "title": "Home",
+        "author": "Aaron Hans",
+        "date_gmt": "2021-02-03T21:44:55",
+        "link": "https://as-go-covid19-d-001.azurewebsites.net/",
+        "parent": 0,
+        "menu_order": 0
+      }
+    ],
+    "posts": [
+      {
+        "id": 1196,
+        "slug": "404",
+        "title": "404",
+        "author": "Carter Medlin",
+        "date_gmt": "2020-04-13T19:51:57",
+        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/13/404/",
+        "categories": [
+          "error page"
+        ],
+        "tags": [
+          "do-not-crawl",
+          "machine-translated"
+        ]
+      },
+      {
+        "id": 12178,
+        "slug": "410",
+        "title": "410",
+        "author": "Carter Medlin",
+        "date_gmt": "2021-05-06T23:26:50",
+        "link": "https://as-go-covid19-d-001.azurewebsites.net/2021/05/06/410/",
+        "categories": [
+          "error page"
+        ],
+        "tags": [
+          "do-not-crawl",
+          "machine-translated"
+        ]
+      },
+      {
+        "id": 12339,
+        "slug": "410-page",
+        "title": "410 page",
+        "author": "Michael Sullivan",
+        "date_gmt": "2021-05-12T17:55:01",
+        "link": "https://as-go-covid19-d-001.azurewebsites.net/2021/05/12/410-page/",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [
+          "do-not-crawl"
+        ]
+      },
+      {
+        "id": 1205,
+        "slug": "500",
+        "title": "500",
+        "author": "Carter Medlin",
+        "date_gmt": "2020-04-13T19:59:22",
+        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/13/500/",
+        "categories": [
+          "error page"
+        ],
+        "tags": [
+          "do-not-crawl",
+          "machine-translated"
+        ]
+      },
+      {
+        "id": 725,
+        "slug": "business-and-employers",
+        "title": "Businesses and employers",
+        "author": "angieq",
+        "date_gmt": "2020-04-02T17:33:49",
+        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/02/business-and-employers/",
+        "categories": [
+          "business and employers"
+        ],
+        "tags": [
+          "translate"
+        ]
+      },
+      {
+        "id": 1364,
+        "slug": "cali-working",
+        "title": "cali working",
+        "author": "Aaron Hans",
+        "date_gmt": "2020-04-14T23:39:12",
+        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/14/cali-working/",
+        "categories": [
+          "cali working"
+        ],
+        "tags": [
+          "fragment",
+          "translate"
+        ]
+      },
+      {
+        "id": 8906,
+        "slug": "charts-sandbox",
+        "title": "Charts Sandbox (test page)",
+        "author": "James Bumgardner",
+        "date_gmt": "2021-02-03T16:39:08",
+        "link": "https://as-go-covid19-d-001.azurewebsites.net/2021/02/03/charts-sandbox/",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [
+          "do-not-crawl",
+          "staging-only"
+        ]
+      },
+      {
+        "id": 6125,
+        "slug": "common-page-labels",
+        "title": "common-page-labels",
+        "author": "Carter Medlin",
+        "date_gmt": "2020-09-21T17:20:03",
+        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/09/21/common-page-labels/",
+        "categories": [
+          "footer data"
+        ],
+        "tags": [
+          "table-data",
+          "translate"
+        ]
+      },
+      {
+        "id": 3186,
+        "slug": "contact-tracing",
+        "title": "Contact tracing",
+        "author": "editor3",
+        "date_gmt": "2020-05-13T00:04:47",
+        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/05/13/contact-tracing/",
+        "categories": [
+          "contact tracing"
+        ],
+        "tags": [
+          "translate"
+        ]
+      },
+      {
+        "id": 3305,
+        "slug": "contracts",
+        "title": "Released COVID-19 Response Contracts",
+        "author": "Liz Nobriga",
+        "date_gmt": "2020-05-15T02:25:43",
+        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/05/15/contracts/",
+        "categories": [
+          "contracts"
+        ],
+        "tags": [
+          "translate"
+        ]
+      },
+      {
+        "id": 4397,
+        "slug": "data-and-tools",
+        "title": "Data and tools",
+        "author": "editor3",
+        "date_gmt": "2020-06-25T01:42:13",
+        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/06/25/data-and-tools/",
+        "categories": [
+          "data and tools"
+        ],
+        "tags": []
+      },
+      {
+        "id": 2040,
+        "slug": "discrimination",
+        "title": "Fighting discrimination",
+        "author": "Peggy Gartin",
+        "date_gmt": "2020-04-24T23:34:16",
+        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/24/discrimination/",
+        "categories": [
+          "discrimination"
+        ],
+        "tags": [
+          "translate"
+        ]
+      },
+      {
+        "id": 7661,
+        "slug": "distance-learning",
+        "title": "Distance learning resources for educators",
+        "author": "editor3",
+        "date_gmt": "2020-12-14T19:00:17",
+        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/12/14/distance-learning/",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [
+          "translate"
+        ]
+      },
+      {
+        "id": 1557,
+        "slug": "do-dont",
+        "title": "do, don&#8217;t english",
+        "author": "Aaron Hans",
+        "date_gmt": "2020-04-17T16:33:09",
+        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/17/do-dont/",
+        "categories": [
+          "do and do not"
+        ],
+        "tags": [
+          "table-data"
+        ]
+      },
+      {
+        "id": 1723,
+        "slug": "do-dont-ar",
+        "title": "do don&#8217;t arabic",
+        "author": "Aaron Hans",
+        "date_gmt": "2020-04-21T00:08:37",
+        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/21/do-dont-ar/",
+        "categories": [
+          "do and do not"
+        ],
+        "tags": [
+          "lang-ar",
+          "table-data"
+        ]
+      },
+      {
+        "id": 1561,
+        "slug": "do-dont-es",
+        "title": "do, don&#8217;t spanish",
+        "author": "Aaron Hans",
+        "date_gmt": "2020-04-17T16:36:54",
+        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/17/do-dont-es/",
+        "categories": [
+          "do and do not"
+        ],
+        "tags": [
+          "lang-es",
+          "table-data"
+        ]
+      },
+      {
+        "id": 1838,
+        "slug": "do-dont-ko",
+        "title": "do don&#8217;t ko",
+        "author": "Aaron Hans",
+        "date_gmt": "2020-04-21T21:37:53",
+        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/21/do-dont-ko/",
+        "categories": [
+          "do and do not"
+        ],
+        "tags": [
+          "lang-ko",
+          "table-data"
+        ]
+      },
+      {
+        "id": 1836,
+        "slug": "do-dont-tl",
+        "title": "do don&#8217;t tl",
+        "author": "Aaron Hans",
+        "date_gmt": "2020-04-21T21:37:13",
+        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/21/do-dont-tl/",
+        "categories": [
+          "do and do not"
+        ],
+        "tags": [
+          "lang-tl",
+          "table-data"
+        ]
+      },
+      {
+        "id": 1834,
+        "slug": "do-dont-vi",
+        "title": "do don&#8217;t vi",
+        "author": "Aaron Hans",
+        "date_gmt": "2020-04-21T21:36:29",
+        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/21/do-dont-vi/",
+        "categories": [
+          "do and do not"
+        ],
+        "tags": [
+          "lang-vi",
+          "table-data"
+        ]
+      },
+      {
+        "id": 1840,
+        "slug": "do-dont-zh-hans",
+        "title": "do don&#8217;t zh hans",
+        "author": "Aaron Hans",
+        "date_gmt": "2020-04-21T21:38:34",
+        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/21/do-dont-zh-hans/",
+        "categories": [
+          "do and do not"
+        ],
+        "tags": [
+          "lang-zh-Hans",
+          "table-data"
+        ]
+      },
+      {
+        "id": 1842,
+        "slug": "do-dont-zh-hant",
+        "title": "do don&#8217;t zh hant",
+        "author": "Aaron Hans",
+        "date_gmt": "2020-04-21T21:39:03",
+        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/21/do-dont-zh-hant/",
+        "categories": [
+          "do and do not"
+        ],
+        "tags": [
+          "lang-zh-Hant",
+          "table-data"
+        ]
+      },
+      {
+        "id": 36,
+        "slug": "education",
+        "title": "Education",
+        "author": "Aaron Hans",
+        "date_gmt": "2020-03-13T21:09:39",
+        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/03/13/education/",
+        "categories": [
+          "education"
+        ],
+        "tags": [
+          "staging-only",
+          "translate"
+        ]
+      },
+      {
+        "id": 11659,
+        "slug": "emergency-broadband",
+        "title": "Emergency Broadband Benefit",
+        "author": "Dave Guarino",
+        "date_gmt": "2021-04-19T21:07:23",
+        "link": "https://as-go-covid19-d-001.azurewebsites.net/2021/04/19/emergency-broadband/",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": []
+      },
+      {
+        "id": 6363,
+        "slug": "equity",
+        "title": "California’s commitment to health equity",
+        "author": "editor3",
+        "date_gmt": "2020-10-14T21:32:53",
+        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/10/14/equity/",
+        "categories": [
+          "health equity"
+        ],
+        "tags": [
+          "translate"
+        ]
+      },
+      {
+        "id": 2258,
+        "slug": "essential-workforce",
+        "title": "Essential workforce",
+        "author": "Peggy Gartin",
+        "date_gmt": "2020-04-28T21:18:37",
+        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/28/essential-workforce/",
+        "categories": [
+          "essential jobs"
+        ],
+        "tags": [
+          "translate"
+        ]
+      },
+      {
+        "id": 1419,
+        "slug": "find-services",
+        "title": "find services",
+        "author": "Aaron Hans",
+        "date_gmt": "2020-04-15T19:24:26",
+        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/15/find-services/",
+        "categories": [
+          "homepage find services"
+        ],
+        "tags": [
+          "fragment",
+          "translate"
+        ]
+      },
+      {
+        "id": 1437,
+        "slug": "food-resources",
+        "title": "Food and food assistance",
+        "author": "Liz Nobriga",
+        "date_gmt": "2020-04-15T23:58:36",
+        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/15/food-resources/",
+        "categories": [
+          "getting food"
+        ],
+        "tags": [
+          "translate"
+        ]
+      },
+      {
+        "id": 606,
+        "slug": "get-financial-help",
+        "title": "Get financial help",
+        "author": "angieq",
+        "date_gmt": "2020-03-25T20:19:47",
+        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/03/25/get-financial-help/",
+        "categories": [
+          "get financial help"
+        ],
+        "tags": [
+          "translate"
+        ]
+      },
+      {
+        "id": 54,
+        "slug": "get-local-information",
+        "title": "Local info and alerts",
+        "author": "Peggy Gartin",
+        "date_gmt": "2020-03-13T22:27:00",
+        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/03/13/get-local-information/",
+        "categories": [
+          "local information"
+        ],
+        "tags": [
+          "translate"
+        ]
+      },
+      {
+        "id": 6198,
+        "slug": "get-tested",
+        "title": "Testing",
+        "author": "editor3",
+        "date_gmt": "2020-09-24T01:33:16",
+        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/09/24/get-tested/",
+        "categories": [
+          "testing and treatment"
+        ],
+        "tags": [
+          "translate"
+        ]
+      },
+      {
+        "id": 5237,
+        "slug": "guidance-languages",
+        "title": "Industry guidance in other languages",
+        "author": "Peggy Gartin",
+        "date_gmt": "2020-08-04T23:34:11",
+        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/08/04/guidance-languages/",
+        "categories": [
+          "Industry guidance"
+        ],
+        "tags": [
+          "date"
+        ]
+      },
+      {
+        "id": 1378,
+        "slug": "guide-immigrant-californians",
+        "title": "Help for immigrants",
+        "author": "Michael Sullivan",
+        "date_gmt": "2020-04-15T14:58:44",
+        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/15/guide-immigrant-californians/",
+        "categories": [
+          "guide immigrant californians"
+        ],
+        "tags": [
+          "translate"
+        ]
+      },
+      {
+        "id": 5984,
+        "slug": "help-for-seniors",
+        "title": "Help for older adults",
+        "author": "editor3",
+        "date_gmt": "2020-09-14T19:06:01",
+        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/09/14/help-for-seniors/",
+        "categories": [
+          "help for seniors"
+        ],
+        "tags": [
+          "translate"
+        ]
+      },
+      {
+        "id": 6340,
+        "slug": "holidays",
+        "title": "Holidays and COVID-19",
+        "author": "Peggy Gartin",
+        "date_gmt": "2020-10-05T23:09:59",
+        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/10/05/holidays/",
+        "categories": [
+          "holidays"
+        ],
+        "tags": [
+          "translate"
+        ]
+      },
+      {
+        "id": 1372,
+        "slug": "home-header",
+        "title": "home header",
+        "author": "Aaron Hans",
+        "date_gmt": "2020-04-14T23:57:21",
+        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/14/home-header/",
+        "categories": [
+          "home header"
+        ],
+        "tags": [
+          "fragment",
+          "translate"
+        ]
+      },
+      {
+        "id": 10787,
+        "slug": "homepage-featured",
+        "title": "Homepage featured",
+        "author": "Peggy Gartin",
+        "date_gmt": "2021-03-29T19:19:42",
+        "link": "https://as-go-covid19-d-001.azurewebsites.net/2021/03/29/homepage-featured/",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [
+          "fragment",
+          "translate"
+        ]
+      },
+      {
+        "id": 10977,
+        "slug": "homepage-labels",
+        "title": "homepage labels",
+        "author": "Aaron Hans",
+        "date_gmt": "2021-04-02T17:05:03",
+        "link": "https://as-go-covid19-d-001.azurewebsites.net/2021/04/02/homepage-labels/",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [
+          "table-data",
+          "translate"
+        ]
+      },
+      {
+        "id": 4213,
+        "slug": "hotel-rooms-for-california-healthcare-workers",
+        "title": "Hotel rooms for California healthcare workers",
+        "author": "Liz Nobriga",
+        "date_gmt": "2020-06-16T18:55:29",
+        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/06/16/hotel-rooms-for-california-healthcare-workers/",
+        "categories": [
+          "hotel rooms for CA healthcare workers"
+        ],
+        "tags": [
+          "translate"
+        ]
+      },
+      {
+        "id": 679,
+        "slug": "hotline",
+        "title": "COVID-19 Hotline",
+        "author": "editor3",
+        "date_gmt": "2020-03-31T19:13:59",
+        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/03/31/hotline/",
+        "categories": [
+          "hotline"
+        ],
+        "tags": [
+          "translate"
+        ]
+      },
+      {
+        "id": 699,
+        "slug": "housing-and-homelessness",
+        "title": "Housing and homelessness",
+        "author": "editor3",
+        "date_gmt": "2020-04-02T05:39:39",
+        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/02/housing-and-homelessness/",
+        "categories": [
+          "housing and homelessness"
+        ],
+        "tags": [
+          "translate"
+        ]
+      },
+      {
+        "id": 4992,
+        "slug": "housing-for-agricultural-workers",
+        "title": "Housing for agricultural workers",
+        "author": "Peggy Gartin",
+        "date_gmt": "2020-07-23T22:39:39",
+        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/07/23/housing-for-agricultural-workers/",
+        "categories": [
+          "housing for agricultural workers"
+        ],
+        "tags": [
+          "translate"
+        ]
+      },
+      {
+        "id": 3075,
+        "slug": "industry-guidance",
+        "title": "Industry guidance to reduce risk",
+        "author": "Liz Nobriga",
+        "date_gmt": "2020-05-12T05:18:52",
+        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/05/12/industry-guidance/",
+        "categories": [
+          "Industry guidance"
+        ],
+        "tags": [
+          "translate"
+        ]
+      },
+      {
+        "id": 5265,
+        "slug": "industry-guidance-in-other-languages-links-fragment",
+        "title": "Industry guidance in other languages (links fragment)",
+        "author": "Peggy Gartin",
+        "date_gmt": "2020-08-05T18:03:42",
+        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/08/05/industry-guidance-in-other-languages-links-fragment/",
+        "categories": [
+          "Industry guidance"
+        ],
+        "tags": [
+          "fragment"
+        ]
+      },
+      {
+        "id": 10891,
+        "slug": "industry-guidance-search",
+        "title": "Industry Guidance to reduce risk (v2)",
+        "author": "Chach Sikes",
+        "date_gmt": "2021-03-31T01:57:15",
+        "link": "https://as-go-covid19-d-001.azurewebsites.net/2021/03/31/industry-guidance-search/",
+        "categories": [
+          "Industry guidance"
+        ],
+        "tags": [
+          "do-not-crawl",
+          "staging-only"
+        ]
+      },
+      {
+        "id": 2997,
+        "slug": "masks-and-ppe",
+        "title": "Masks",
+        "author": "editor3",
+        "date_gmt": "2020-05-11T16:40:15",
+        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/05/11/masks-and-ppe/",
+        "categories": [
+          "masks and PPE"
+        ],
+        "tags": [
+          "translate"
+        ]
+      },
+      {
+        "id": 7484,
+        "slug": "menu-links",
+        "title": "Menu Links",
+        "author": "Michael Sullivan",
+        "date_gmt": "2020-12-07T20:41:27",
+        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/12/07/menu-links/",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [
+          "table-data",
+          "translate"
+        ]
+      },
+      {
+        "id": 4363,
+        "slug": "more-ways-to-help",
+        "title": "More ways to help",
+        "author": "Peggy Gartin",
+        "date_gmt": "2020-06-23T20:57:47",
+        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/06/23/more-ways-to-help/",
+        "categories": [
+          "more ways to help"
+        ],
+        "tags": [
+          "translate"
+        ]
+      },
+      {
+        "id": 1392,
+        "slug": "new",
+        "title": "new",
+        "author": "Peggy Gartin",
+        "date_gmt": "2020-04-15T16:23:16",
+        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/15/new/",
+        "categories": [
+          "homepage new"
+        ],
+        "tags": [
+          "fragment",
+          "translate"
+        ]
+      },
+      {
+        "id": 6044,
+        "slug": "notify-privacy",
+        "title": "CA Notify",
+        "author": "Michael Sullivan",
+        "date_gmt": "2020-09-17T20:19:12",
+        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/09/17/notify-privacy/",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [
+          "do-not-crawl"
+        ]
+      },
+      {
+        "id": 1933,
+        "slug": "page-redirect-table",
+        "title": "Page Redirect Table",
+        "author": "Carter Medlin",
+        "date_gmt": "2020-04-23T16:26:23",
+        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/23/page-redirect-table/",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [
+          "table-data"
+        ]
+      },
+      {
+        "id": 5143,
+        "slug": "people-want-to-know",
+        "title": "People want to know",
+        "author": "Peggy Gartin",
+        "date_gmt": "2020-07-30T17:59:19",
+        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/07/30/people-want-to-know/",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [
+          "table-data"
+        ]
+      },
+      {
+        "id": 5591,
+        "slug": "reopening-matrix-data",
+        "title": "reopening matrix data",
+        "author": "Aaron Hans",
+        "date_gmt": "2020-08-27T13:59:13",
+        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/08/27/reopening-matrix-data/",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [
+          "table-data",
+          "translate"
+        ]
+      },
+      {
+        "id": 5567,
+        "slug": "reopening-roadmap-activity-data",
+        "title": "What&#8217;s open data",
+        "author": "Peggy Gartin",
+        "date_gmt": "2020-08-26T12:27:02",
+        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/08/26/reopening-roadmap-activity-data/",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [
+          "table-data",
+          "translate"
+        ]
+      },
+      {
+        "id": 839,
+        "slug": "resources-for-emotional-support-and-well-being",
+        "title": "Resources for emotional support and well-being",
+        "author": "editor3",
+        "date_gmt": "2020-04-07T02:12:34",
+        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/07/resources-for-emotional-support-and-well-being/",
+        "categories": [
+          "resources for emotional support"
+        ],
+        "tags": [
+          "translate"
+        ]
+      },
+      {
+        "id": 7402,
+        "slug": "rsho",
+        "title": "RSHO",
+        "author": "Peggy Gartin",
+        "date_gmt": "2020-12-05T19:42:38",
+        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/12/05/rsho/",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [
+          "do-not-crawl",
+          "table-data"
+        ]
+      },
+      {
+        "id": 5563,
+        "slug": "safer-economy",
+        "title": "Blueprint for a Safer Economy",
+        "author": "editor3",
+        "date_gmt": "2020-08-26T05:25:37",
+        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/08/26/safer-economy/",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [
+          "translate"
+        ]
+      },
+      {
+        "id": 7535,
+        "slug": "safer-economy-lang",
+        "title": "safer-economy-lang",
+        "author": "James Bumgardner",
+        "date_gmt": "2020-12-08T22:40:30",
+        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/12/08/safer-economy-lang/",
+        "categories": [
+          "Roadmap"
+        ],
+        "tags": [
+          "table-data",
+          "translate"
+        ]
+      },
+      {
+        "id": 6854,
+        "slug": "sample",
+        "title": "Examples",
+        "author": "Konstantin Koryaka",
+        "date_gmt": "2020-11-12T22:39:44",
+        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/11/12/sample/",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [
+          "do-not-crawl",
+          "staging-only"
+        ]
+      },
+      {
+        "id": 6422,
+        "slug": "schools-may-reopen-in-these-counties",
+        "title": "Schools may reopen in these counties",
+        "author": "Aaron Hans",
+        "date_gmt": "2020-10-13T15:54:36",
+        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/10/13/schools-may-reopen-in-these-counties/",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [
+          "table-data",
+          "translate"
+        ]
+      },
+      {
+        "id": 4164,
+        "slug": "search",
+        "title": "Search",
+        "author": "Carter Medlin",
+        "date_gmt": "2020-06-15T19:04:21",
+        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/06/15/search/",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [
+          "do-not-crawl",
+          "translate"
+        ]
+      },
+      {
+        "id": 4279,
+        "slug": "sign-up-for-county-alerts",
+        "title": "Local alerts",
+        "author": "Peggy Gartin",
+        "date_gmt": "2020-06-17T22:22:32",
+        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/06/17/sign-up-for-county-alerts/",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [
+          "translate"
+        ]
+      },
+      {
+        "id": 11040,
+        "slug": "state-dashboard",
+        "title": "Tracking COVID-19 in California",
+        "author": "Michael Sullivan",
+        "date_gmt": "2021-04-05T16:30:05",
+        "link": "https://as-go-covid19-d-001.azurewebsites.net/2021/04/05/state-dashboard/",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": []
+      },
+      {
+        "id": 432,
+        "slug": "stay-home-except-for-essential-needs",
+        "title": "About COVID-19 restrictions",
+        "author": "Peggy Gartin",
+        "date_gmt": "2020-03-20T01:01:15",
+        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/03/20/stay-home-except-for-essential-needs/",
+        "categories": [
+          "stay home"
+        ],
+        "tags": [
+          "translate"
+        ]
+      },
+      {
+        "id": 621,
+        "slug": "symptoms-and-risks",
+        "title": "Symptoms and risks",
+        "author": "editor3",
+        "date_gmt": "2020-03-25T21:28:08",
+        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/03/25/symptoms-and-risks/",
+        "categories": [
+          "symptoms and risks"
+        ],
+        "tags": [
+          "translate"
+        ]
+      },
+      {
+        "id": 5483,
+        "slug": "tableau-testing",
+        "title": "TEST UPDATE &#8211; COVID-19 transmission has increased in areas of the state, requiring dimming of reopening.",
+        "author": "Aaron Hans",
+        "date_gmt": "2020-08-20T18:54:34",
+        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/08/20/tableau-testing/",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [
+          "do-not-crawl",
+          "staging-only"
+        ]
+      },
+      {
+        "id": 4228,
+        "slug": "translate",
+        "title": "Translate this website",
+        "author": "Michael Sullivan",
+        "date_gmt": "2020-06-16T20:19:45",
+        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/06/16/translate/",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [
+          "translate"
+        ]
+      },
+      {
+        "id": 7858,
+        "slug": "travel",
+        "title": "Travel",
+        "author": "Peggy Gartin",
+        "date_gmt": "2020-12-21T18:26:53",
+        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/12/21/travel/",
+        "categories": [
+          "travel"
+        ],
+        "tags": [
+          "translate"
+        ]
+      },
+      {
+        "id": 6518,
+        "slug": "updates-section-homepage",
+        "title": "updates section homepage",
+        "author": "Peggy Gartin",
+        "date_gmt": "2020-10-19T19:47:18",
+        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/10/19/updates-section-homepage/",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [
+          "do-not-crawl",
+          "table-data",
+          "translate"
+        ]
+      },
+      {
+        "id": 5932,
+        "slug": "v1-state-dashboard",
+        "title": "Tracking COVID-19 in California (old)",
+        "author": "Michael Sullivan",
+        "date_gmt": "2020-09-10T17:13:43",
+        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/09/10/v1-state-dashboard/",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [
+          "do-not-crawl",
+          "staging-only"
+        ]
+      },
+      {
+        "id": 8386,
+        "slug": "v2-state-dashboard",
+        "title": "Tracking COVID-19 in California (v2)",
+        "author": "Michael Sullivan",
+        "date_gmt": "2021-01-12T19:06:17",
+        "link": "https://as-go-covid19-d-001.azurewebsites.net/2021/01/12/v2-state-dashboard/",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [
+          "do-not-crawl",
+          "staging-only"
+        ]
+      },
+      {
+        "id": 11214,
+        "slug": "vaccination-progress-data",
+        "title": "Vaccination progress data",
+        "author": "Peggy Gartin",
+        "date_gmt": "2021-04-08T20:51:30",
+        "link": "https://as-go-covid19-d-001.azurewebsites.net/2021/04/08/vaccination-progress-data/",
+        "categories": [
+          "vaccines"
+        ],
+        "tags": [
+          "translate"
+        ]
+      },
+      {
+        "id": 7006,
+        "slug": "vaccines",
+        "title": "Vaccines",
+        "author": "editor3",
+        "date_gmt": "2020-11-17T15:07:35",
+        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/11/17/vaccines/",
+        "categories": [
+          "vaccines"
+        ],
+        "tags": [
+          "translate"
+        ]
+      },
+      {
+        "id": 8655,
+        "slug": "vaccines-live-chat-test",
+        "title": "Vaccines Live Chat Testing",
+        "author": "Chach Sikes",
+        "date_gmt": "2021-01-22T16:13:49",
+        "link": "https://as-go-covid19-d-001.azurewebsites.net/2021/01/22/vaccines-live-chat-test/",
+        "categories": [
+          "vaccines"
+        ],
+        "tags": [
+          "do-not-crawl"
+        ]
+      },
+      {
+        "id": 12592,
+        "slug": "vax-for-the-win",
+        "title": "Vax for the Win",
+        "author": "Peggy Gartin",
+        "date_gmt": "2021-05-23T17:03:11",
+        "link": "https://as-go-covid19-d-001.azurewebsites.net/2021/05/23/vax-for-the-win/",
+        "categories": [
+          "Vax for the Win"
+        ],
+        "tags": [
+          "translate"
+        ]
+      },
+      {
+        "id": 7482,
+        "slug": "video-section",
+        "title": "Video Section",
+        "author": "Michael Sullivan",
+        "date_gmt": "2020-12-07T20:09:53",
+        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/12/07/video-section/",
+        "categories": [
+          "Uncategorized"
+        ],
+        "tags": [
+          "table-data",
+          "translate"
+        ]
+      },
+      {
+        "id": 3930,
+        "slug": "what-is-open-where",
+        "title": "What&#8217;s open?",
+        "author": "Aaron Hans",
+        "date_gmt": "2020-06-04T21:14:45",
+        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/06/04/what-is-open-where/",
+        "categories": [
+          "whats open"
+        ],
+        "tags": [
+          "do-not-crawl"
+        ]
+      },
+      {
+        "id": 722,
+        "slug": "workers",
+        "title": "Workers",
+        "author": "Liz Nobriga",
+        "date_gmt": "2020-04-02T17:29:35",
+        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/02/workers/",
+        "categories": [
+          "workers"
+        ],
+        "tags": [
+          "translate"
+        ]
+      }
+    ]
+  }
+}
