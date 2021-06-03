@@ -1,17 +1,22 @@
 {
-  "id": 4164,
-  "slug": "search",
-  "title": "Search",
-  "author": "Carter Medlin",
-  "date_gmt": "2020-06-15T19:04:21",
-  "modified_gmt": "2020-06-16T03:46:57",
-  "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/06/15/search/",
-  "excerpt": "<p>Search the Covid19 website.</p>\n",
-  "categories": [
-    "Uncategorized"
-  ],
-  "tags": [
-    "do-not-crawl",
-    "translate"
-  ]
+  "meta": {},
+  "data": {
+    "id": 4164,
+    "slug": "search",
+    "title": "Search",
+    "author": "Carter Medlin",
+    "date_gmt": "2020-06-15T19:04:21",
+    "modified_gmt": "2020-06-16T03:46:57",
+    "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/06/15/search/",
+    "file_path_html": "posts/search.html",
+    "file_path_json": "posts/search.json",
+    "excerpt": "<p>Search the Covid19 website.</p>\n",
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [
+      "do-not-crawl",
+      "translate"
+    ]
+  }
 }

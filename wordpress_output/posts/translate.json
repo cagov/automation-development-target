@@ -1,16 +1,21 @@
 {
-  "id": 4228,
-  "slug": "translate",
-  "title": "Translate this website",
-  "author": "Michael Sullivan",
-  "date_gmt": "2020-06-16T20:19:45",
-  "modified_gmt": "2021-04-01T18:19:36",
-  "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/06/16/translate/",
-  "excerpt": "<p>Information about how to use Google Translate.</p>\n",
-  "categories": [
-    "Uncategorized"
-  ],
-  "tags": [
-    "translate"
-  ]
+  "meta": {},
+  "data": {
+    "id": 4228,
+    "slug": "translate",
+    "title": "Translate this website",
+    "author": "Michael Sullivan",
+    "date_gmt": "2020-06-16T20:19:45",
+    "modified_gmt": "2021-04-01T18:19:36",
+    "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/06/16/translate/",
+    "file_path_html": "posts/translate.html",
+    "file_path_json": "posts/translate.json",
+    "excerpt": "<p>Information about how to use Google Translate.</p>\n",
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [
+      "translate"
+    ]
+  }
 }

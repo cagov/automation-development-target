@@ -8,11 +8,11 @@
         "title": "Home",
         "author": "Aaron Hans",
         "date_gmt": "2021-02-03T21:44:55",
-        "link": "https://as-go-covid19-d-001.azurewebsites.net/",
-        "parent": 0,
-        "menu_order": 0,
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/",
         "file_path_html": "pages/home.html",
-        "file_path_json": "pages/home.json"
+        "file_path_json": "pages/home.json",
+        "parent": 0,
+        "menu_order": 0
       }
     ],
     "posts": [
@@ -22,16 +22,16 @@
         "title": "404",
         "author": "Carter Medlin",
         "date_gmt": "2020-04-13T19:51:57",
-        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/13/404/",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/13/404/",
+        "file_path_html": "posts/404.html",
+        "file_path_json": "posts/404.json",
         "categories": [
           "error page"
         ],
         "tags": [
           "do-not-crawl",
           "machine-translated"
-        ],
-        "file_path_html": "posts/404.html",
-        "file_path_json": "posts/404.json"
+        ]
       },
       {
         "id": 12178,
@@ -39,16 +39,16 @@
         "title": "410",
         "author": "Carter Medlin",
         "date_gmt": "2021-05-06T23:26:50",
-        "link": "https://as-go-covid19-d-001.azurewebsites.net/2021/05/06/410/",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2021/05/06/410/",
+        "file_path_html": "posts/410.html",
+        "file_path_json": "posts/410.json",
         "categories": [
           "error page"
         ],
         "tags": [
           "do-not-crawl",
           "machine-translated"
-        ],
-        "file_path_html": "posts/410.html",
-        "file_path_json": "posts/410.json"
+        ]
       },
       {
         "id": 12339,
@@ -56,15 +56,15 @@
         "title": "410 page",
         "author": "Michael Sullivan",
         "date_gmt": "2021-05-12T17:55:01",
-        "link": "https://as-go-covid19-d-001.azurewebsites.net/2021/05/12/410-page/",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2021/05/12/410-page/",
+        "file_path_html": "posts/410-page.html",
+        "file_path_json": "posts/410-page.json",
         "categories": [
           "Uncategorized"
         ],
         "tags": [
           "do-not-crawl"
-        ],
-        "file_path_html": "posts/410-page.html",
-        "file_path_json": "posts/410-page.json"
+        ]
       },
       {
         "id": 1205,
@@ -72,16 +72,16 @@
         "title": "500",
         "author": "Carter Medlin",
         "date_gmt": "2020-04-13T19:59:22",
-        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/13/500/",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/13/500/",
+        "file_path_html": "posts/500.html",
+        "file_path_json": "posts/500.json",
         "categories": [
           "error page"
         ],
         "tags": [
           "do-not-crawl",
           "machine-translated"
-        ],
-        "file_path_html": "posts/500.html",
-        "file_path_json": "posts/500.json"
+        ]
       },
       {
         "id": 725,
@@ -89,15 +89,15 @@
         "title": "Businesses and employers",
         "author": "angieq",
         "date_gmt": "2020-04-02T17:33:49",
-        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/02/business-and-employers/",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/02/business-and-employers/",
+        "file_path_html": "posts/business-and-employers.html",
+        "file_path_json": "posts/business-and-employers.json",
         "categories": [
           "business and employers"
         ],
         "tags": [
           "translate"
-        ],
-        "file_path_html": "posts/business-and-employers.html",
-        "file_path_json": "posts/business-and-employers.json"
+        ]
       },
       {
         "id": 1364,
@@ -105,16 +105,16 @@
         "title": "cali working",
         "author": "Aaron Hans",
         "date_gmt": "2020-04-14T23:39:12",
-        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/14/cali-working/",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/14/cali-working/",
+        "file_path_html": "posts/cali-working.html",
+        "file_path_json": "posts/cali-working.json",
         "categories": [
           "cali working"
         ],
         "tags": [
           "fragment",
           "translate"
-        ],
-        "file_path_html": "posts/cali-working.html",
-        "file_path_json": "posts/cali-working.json"
+        ]
       },
       {
         "id": 8906,
@@ -122,16 +122,16 @@
         "title": "Charts Sandbox (test page)",
         "author": "James Bumgardner",
         "date_gmt": "2021-02-03T16:39:08",
-        "link": "https://as-go-covid19-d-001.azurewebsites.net/2021/02/03/charts-sandbox/",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2021/02/03/charts-sandbox/",
+        "file_path_html": "posts/charts-sandbox.html",
+        "file_path_json": "posts/charts-sandbox.json",
         "categories": [
           "Uncategorized"
         ],
         "tags": [
           "do-not-crawl",
           "staging-only"
-        ],
-        "file_path_html": "posts/charts-sandbox.html",
-        "file_path_json": "posts/charts-sandbox.json"
+        ]
       },
       {
         "id": 6125,
@@ -139,16 +139,16 @@
         "title": "common-page-labels",
         "author": "Carter Medlin",
         "date_gmt": "2020-09-21T17:20:03",
-        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/09/21/common-page-labels/",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/09/21/common-page-labels/",
+        "file_path_html": "posts/common-page-labels.html",
+        "file_path_json": "posts/common-page-labels.json",
         "categories": [
           "footer data"
         ],
         "tags": [
           "table-data",
           "translate"
-        ],
-        "file_path_html": "posts/common-page-labels.html",
-        "file_path_json": "posts/common-page-labels.json"
+        ]
       },
       {
         "id": 3186,
@@ -156,15 +156,15 @@
         "title": "Contact tracing",
         "author": "editor3",
         "date_gmt": "2020-05-13T00:04:47",
-        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/05/13/contact-tracing/",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/05/13/contact-tracing/",
+        "file_path_html": "posts/contact-tracing.html",
+        "file_path_json": "posts/contact-tracing.json",
         "categories": [
           "contact tracing"
         ],
         "tags": [
           "translate"
-        ],
-        "file_path_html": "posts/contact-tracing.html",
-        "file_path_json": "posts/contact-tracing.json"
+        ]
       },
       {
         "id": 3305,
@@ -172,15 +172,15 @@
         "title": "Released COVID-19 Response Contracts",
         "author": "Liz Nobriga",
         "date_gmt": "2020-05-15T02:25:43",
-        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/05/15/contracts/",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/05/15/contracts/",
+        "file_path_html": "posts/contracts.html",
+        "file_path_json": "posts/contracts.json",
         "categories": [
           "contracts"
         ],
         "tags": [
           "translate"
-        ],
-        "file_path_html": "posts/contracts.html",
-        "file_path_json": "posts/contracts.json"
+        ]
       },
       {
         "id": 4397,
@@ -188,13 +188,13 @@
         "title": "Data and tools",
         "author": "editor3",
         "date_gmt": "2020-06-25T01:42:13",
-        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/06/25/data-and-tools/",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/06/25/data-and-tools/",
+        "file_path_html": "posts/data-and-tools.html",
+        "file_path_json": "posts/data-and-tools.json",
         "categories": [
           "data and tools"
         ],
-        "tags": [],
-        "file_path_html": "posts/data-and-tools.html",
-        "file_path_json": "posts/data-and-tools.json"
+        "tags": []
       },
       {
         "id": 2040,
@@ -202,15 +202,15 @@
         "title": "Fighting discrimination",
         "author": "Peggy Gartin",
         "date_gmt": "2020-04-24T23:34:16",
-        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/24/discrimination/",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/24/discrimination/",
+        "file_path_html": "posts/discrimination.html",
+        "file_path_json": "posts/discrimination.json",
         "categories": [
           "discrimination"
         ],
         "tags": [
           "translate"
-        ],
-        "file_path_html": "posts/discrimination.html",
-        "file_path_json": "posts/discrimination.json"
+        ]
       },
       {
         "id": 7661,
@@ -218,15 +218,15 @@
         "title": "Distance learning resources for educators",
         "author": "editor3",
         "date_gmt": "2020-12-14T19:00:17",
-        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/12/14/distance-learning/",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/12/14/distance-learning/",
+        "file_path_html": "posts/distance-learning.html",
+        "file_path_json": "posts/distance-learning.json",
         "categories": [
           "Uncategorized"
         ],
         "tags": [
           "translate"
-        ],
-        "file_path_html": "posts/distance-learning.html",
-        "file_path_json": "posts/distance-learning.json"
+        ]
       },
       {
         "id": 1557,
@@ -234,15 +234,15 @@
         "title": "do, don&#8217;t english",
         "author": "Aaron Hans",
         "date_gmt": "2020-04-17T16:33:09",
-        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/17/do-dont/",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/17/do-dont/",
+        "file_path_html": "posts/do-dont.html",
+        "file_path_json": "posts/do-dont.json",
         "categories": [
           "do and do not"
         ],
         "tags": [
           "table-data"
-        ],
-        "file_path_html": "posts/do-dont.html",
-        "file_path_json": "posts/do-dont.json"
+        ]
       },
       {
         "id": 1723,
@@ -250,16 +250,16 @@
         "title": "do don&#8217;t arabic",
         "author": "Aaron Hans",
         "date_gmt": "2020-04-21T00:08:37",
-        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/21/do-dont-ar/",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/21/do-dont-ar/",
+        "file_path_html": "posts/do-dont-ar.html",
+        "file_path_json": "posts/do-dont-ar.json",
         "categories": [
           "do and do not"
         ],
         "tags": [
           "lang-ar",
           "table-data"
-        ],
-        "file_path_html": "posts/do-dont-ar.html",
-        "file_path_json": "posts/do-dont-ar.json"
+        ]
       },
       {
         "id": 1561,
@@ -267,16 +267,16 @@
         "title": "do, don&#8217;t spanish",
         "author": "Aaron Hans",
         "date_gmt": "2020-04-17T16:36:54",
-        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/17/do-dont-es/",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/17/do-dont-es/",
+        "file_path_html": "posts/do-dont-es.html",
+        "file_path_json": "posts/do-dont-es.json",
         "categories": [
           "do and do not"
         ],
         "tags": [
           "lang-es",
           "table-data"
-        ],
-        "file_path_html": "posts/do-dont-es.html",
-        "file_path_json": "posts/do-dont-es.json"
+        ]
       },
       {
         "id": 1838,
@@ -284,16 +284,16 @@
         "title": "do don&#8217;t ko",
         "author": "Aaron Hans",
         "date_gmt": "2020-04-21T21:37:53",
-        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/21/do-dont-ko/",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/21/do-dont-ko/",
+        "file_path_html": "posts/do-dont-ko.html",
+        "file_path_json": "posts/do-dont-ko.json",
         "categories": [
           "do and do not"
         ],
         "tags": [
           "lang-ko",
           "table-data"
-        ],
-        "file_path_html": "posts/do-dont-ko.html",
-        "file_path_json": "posts/do-dont-ko.json"
+        ]
       },
       {
         "id": 1836,
@@ -301,16 +301,16 @@
         "title": "do don&#8217;t tl",
         "author": "Aaron Hans",
         "date_gmt": "2020-04-21T21:37:13",
-        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/21/do-dont-tl/",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/21/do-dont-tl/",
+        "file_path_html": "posts/do-dont-tl.html",
+        "file_path_json": "posts/do-dont-tl.json",
         "categories": [
           "do and do not"
         ],
         "tags": [
           "lang-tl",
           "table-data"
-        ],
-        "file_path_html": "posts/do-dont-tl.html",
-        "file_path_json": "posts/do-dont-tl.json"
+        ]
       },
       {
         "id": 1834,
@@ -318,16 +318,16 @@
         "title": "do don&#8217;t vi",
         "author": "Aaron Hans",
         "date_gmt": "2020-04-21T21:36:29",
-        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/21/do-dont-vi/",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/21/do-dont-vi/",
+        "file_path_html": "posts/do-dont-vi.html",
+        "file_path_json": "posts/do-dont-vi.json",
         "categories": [
           "do and do not"
         ],
         "tags": [
           "lang-vi",
           "table-data"
-        ],
-        "file_path_html": "posts/do-dont-vi.html",
-        "file_path_json": "posts/do-dont-vi.json"
+        ]
       },
       {
         "id": 1840,
@@ -335,16 +335,16 @@
         "title": "do don&#8217;t zh hans",
         "author": "Aaron Hans",
         "date_gmt": "2020-04-21T21:38:34",
-        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/21/do-dont-zh-hans/",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/21/do-dont-zh-hans/",
+        "file_path_html": "posts/do-dont-zh-hans.html",
+        "file_path_json": "posts/do-dont-zh-hans.json",
         "categories": [
           "do and do not"
         ],
         "tags": [
           "lang-zh-Hans",
           "table-data"
-        ],
-        "file_path_html": "posts/do-dont-zh-hans.html",
-        "file_path_json": "posts/do-dont-zh-hans.json"
+        ]
       },
       {
         "id": 1842,
@@ -352,16 +352,16 @@
         "title": "do don&#8217;t zh hant",
         "author": "Aaron Hans",
         "date_gmt": "2020-04-21T21:39:03",
-        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/21/do-dont-zh-hant/",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/21/do-dont-zh-hant/",
+        "file_path_html": "posts/do-dont-zh-hant.html",
+        "file_path_json": "posts/do-dont-zh-hant.json",
         "categories": [
           "do and do not"
         ],
         "tags": [
           "lang-zh-Hant",
           "table-data"
-        ],
-        "file_path_html": "posts/do-dont-zh-hant.html",
-        "file_path_json": "posts/do-dont-zh-hant.json"
+        ]
       },
       {
         "id": 36,
@@ -369,16 +369,16 @@
         "title": "Education",
         "author": "Aaron Hans",
         "date_gmt": "2020-03-13T21:09:39",
-        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/03/13/education/",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/03/13/education/",
+        "file_path_html": "posts/education.html",
+        "file_path_json": "posts/education.json",
         "categories": [
           "education"
         ],
         "tags": [
           "staging-only",
           "translate"
-        ],
-        "file_path_html": "posts/education.html",
-        "file_path_json": "posts/education.json"
+        ]
       },
       {
         "id": 11659,
@@ -386,13 +386,13 @@
         "title": "Emergency Broadband Benefit",
         "author": "Dave Guarino",
         "date_gmt": "2021-04-19T21:07:23",
-        "link": "https://as-go-covid19-d-001.azurewebsites.net/2021/04/19/emergency-broadband/",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2021/04/19/emergency-broadband/",
+        "file_path_html": "posts/emergency-broadband.html",
+        "file_path_json": "posts/emergency-broadband.json",
         "categories": [
           "Uncategorized"
         ],
-        "tags": [],
-        "file_path_html": "posts/emergency-broadband.html",
-        "file_path_json": "posts/emergency-broadband.json"
+        "tags": []
       },
       {
         "id": 6363,
@@ -400,15 +400,15 @@
         "title": "California’s commitment to health equity",
         "author": "editor3",
         "date_gmt": "2020-10-14T21:32:53",
-        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/10/14/equity/",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/10/14/equity/",
+        "file_path_html": "posts/equity.html",
+        "file_path_json": "posts/equity.json",
         "categories": [
           "health equity"
         ],
         "tags": [
           "translate"
-        ],
-        "file_path_html": "posts/equity.html",
-        "file_path_json": "posts/equity.json"
+        ]
       },
       {
         "id": 2258,
@@ -416,15 +416,15 @@
         "title": "Essential workforce",
         "author": "Peggy Gartin",
         "date_gmt": "2020-04-28T21:18:37",
-        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/28/essential-workforce/",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/28/essential-workforce/",
+        "file_path_html": "posts/essential-workforce.html",
+        "file_path_json": "posts/essential-workforce.json",
         "categories": [
           "essential jobs"
         ],
         "tags": [
           "translate"
-        ],
-        "file_path_html": "posts/essential-workforce.html",
-        "file_path_json": "posts/essential-workforce.json"
+        ]
       },
       {
         "id": 1419,
@@ -432,16 +432,16 @@
         "title": "find services",
         "author": "Aaron Hans",
         "date_gmt": "2020-04-15T19:24:26",
-        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/15/find-services/",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/15/find-services/",
+        "file_path_html": "posts/find-services.html",
+        "file_path_json": "posts/find-services.json",
         "categories": [
           "homepage find services"
         ],
         "tags": [
           "fragment",
           "translate"
-        ],
-        "file_path_html": "posts/find-services.html",
-        "file_path_json": "posts/find-services.json"
+        ]
       },
       {
         "id": 1437,
@@ -449,15 +449,15 @@
         "title": "Food and food assistance",
         "author": "Liz Nobriga",
         "date_gmt": "2020-04-15T23:58:36",
-        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/15/food-resources/",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/15/food-resources/",
+        "file_path_html": "posts/food-resources.html",
+        "file_path_json": "posts/food-resources.json",
         "categories": [
           "getting food"
         ],
         "tags": [
           "translate"
-        ],
-        "file_path_html": "posts/food-resources.html",
-        "file_path_json": "posts/food-resources.json"
+        ]
       },
       {
         "id": 606,
@@ -465,15 +465,15 @@
         "title": "Get financial help",
         "author": "angieq",
         "date_gmt": "2020-03-25T20:19:47",
-        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/03/25/get-financial-help/",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/03/25/get-financial-help/",
+        "file_path_html": "posts/get-financial-help.html",
+        "file_path_json": "posts/get-financial-help.json",
         "categories": [
           "get financial help"
         ],
         "tags": [
           "translate"
-        ],
-        "file_path_html": "posts/get-financial-help.html",
-        "file_path_json": "posts/get-financial-help.json"
+        ]
       },
       {
         "id": 54,
@@ -481,15 +481,15 @@
         "title": "Local info and alerts",
         "author": "Peggy Gartin",
         "date_gmt": "2020-03-13T22:27:00",
-        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/03/13/get-local-information/",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/03/13/get-local-information/",
+        "file_path_html": "posts/get-local-information.html",
+        "file_path_json": "posts/get-local-information.json",
         "categories": [
           "local information"
         ],
         "tags": [
           "translate"
-        ],
-        "file_path_html": "posts/get-local-information.html",
-        "file_path_json": "posts/get-local-information.json"
+        ]
       },
       {
         "id": 6198,
@@ -497,15 +497,15 @@
         "title": "Testing",
         "author": "editor3",
         "date_gmt": "2020-09-24T01:33:16",
-        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/09/24/get-tested/",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/09/24/get-tested/",
+        "file_path_html": "posts/get-tested.html",
+        "file_path_json": "posts/get-tested.json",
         "categories": [
           "testing and treatment"
         ],
         "tags": [
           "translate"
-        ],
-        "file_path_html": "posts/get-tested.html",
-        "file_path_json": "posts/get-tested.json"
+        ]
       },
       {
         "id": 5237,
@@ -513,15 +513,15 @@
         "title": "Industry guidance in other languages",
         "author": "Peggy Gartin",
         "date_gmt": "2020-08-04T23:34:11",
-        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/08/04/guidance-languages/",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/08/04/guidance-languages/",
+        "file_path_html": "posts/guidance-languages.html",
+        "file_path_json": "posts/guidance-languages.json",
         "categories": [
           "Industry guidance"
         ],
         "tags": [
           "date"
-        ],
-        "file_path_html": "posts/guidance-languages.html",
-        "file_path_json": "posts/guidance-languages.json"
+        ]
       },
       {
         "id": 1378,
@@ -529,15 +529,15 @@
         "title": "Help for immigrants",
         "author": "Michael Sullivan",
         "date_gmt": "2020-04-15T14:58:44",
-        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/15/guide-immigrant-californians/",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/15/guide-immigrant-californians/",
+        "file_path_html": "posts/guide-immigrant-californians.html",
+        "file_path_json": "posts/guide-immigrant-californians.json",
         "categories": [
           "guide immigrant californians"
         ],
         "tags": [
           "translate"
-        ],
-        "file_path_html": "posts/guide-immigrant-californians.html",
-        "file_path_json": "posts/guide-immigrant-californians.json"
+        ]
       },
       {
         "id": 5984,
@@ -545,15 +545,15 @@
         "title": "Help for older adults",
         "author": "editor3",
         "date_gmt": "2020-09-14T19:06:01",
-        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/09/14/help-for-seniors/",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/09/14/help-for-seniors/",
+        "file_path_html": "posts/help-for-seniors.html",
+        "file_path_json": "posts/help-for-seniors.json",
         "categories": [
           "help for seniors"
         ],
         "tags": [
           "translate"
-        ],
-        "file_path_html": "posts/help-for-seniors.html",
-        "file_path_json": "posts/help-for-seniors.json"
+        ]
       },
       {
         "id": 6340,
@@ -561,15 +561,15 @@
         "title": "Holidays and COVID-19",
         "author": "Peggy Gartin",
         "date_gmt": "2020-10-05T23:09:59",
-        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/10/05/holidays/",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/10/05/holidays/",
+        "file_path_html": "posts/holidays.html",
+        "file_path_json": "posts/holidays.json",
         "categories": [
           "holidays"
         ],
         "tags": [
           "translate"
-        ],
-        "file_path_html": "posts/holidays.html",
-        "file_path_json": "posts/holidays.json"
+        ]
       },
       {
         "id": 1372,
@@ -577,16 +577,16 @@
         "title": "home header",
         "author": "Aaron Hans",
         "date_gmt": "2020-04-14T23:57:21",
-        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/14/home-header/",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/14/home-header/",
+        "file_path_html": "posts/home-header.html",
+        "file_path_json": "posts/home-header.json",
         "categories": [
           "home header"
         ],
         "tags": [
           "fragment",
           "translate"
-        ],
-        "file_path_html": "posts/home-header.html",
-        "file_path_json": "posts/home-header.json"
+        ]
       },
       {
         "id": 10787,
@@ -594,16 +594,16 @@
         "title": "Homepage featured",
         "author": "Peggy Gartin",
         "date_gmt": "2021-03-29T19:19:42",
-        "link": "https://as-go-covid19-d-001.azurewebsites.net/2021/03/29/homepage-featured/",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2021/03/29/homepage-featured/",
+        "file_path_html": "posts/homepage-featured.html",
+        "file_path_json": "posts/homepage-featured.json",
         "categories": [
           "Uncategorized"
         ],
         "tags": [
           "fragment",
           "translate"
-        ],
-        "file_path_html": "posts/homepage-featured.html",
-        "file_path_json": "posts/homepage-featured.json"
+        ]
       },
       {
         "id": 10977,
@@ -611,16 +611,16 @@
         "title": "homepage labels",
         "author": "Aaron Hans",
         "date_gmt": "2021-04-02T17:05:03",
-        "link": "https://as-go-covid19-d-001.azurewebsites.net/2021/04/02/homepage-labels/",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2021/04/02/homepage-labels/",
+        "file_path_html": "posts/homepage-labels.html",
+        "file_path_json": "posts/homepage-labels.json",
         "categories": [
           "Uncategorized"
         ],
         "tags": [
           "table-data",
           "translate"
-        ],
-        "file_path_html": "posts/homepage-labels.html",
-        "file_path_json": "posts/homepage-labels.json"
+        ]
       },
       {
         "id": 4213,
@@ -628,15 +628,15 @@
         "title": "Hotel rooms for California healthcare workers",
         "author": "Liz Nobriga",
         "date_gmt": "2020-06-16T18:55:29",
-        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/06/16/hotel-rooms-for-california-healthcare-workers/",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/06/16/hotel-rooms-for-california-healthcare-workers/",
+        "file_path_html": "posts/hotel-rooms-for-california-healthcare-workers.html",
+        "file_path_json": "posts/hotel-rooms-for-california-healthcare-workers.json",
         "categories": [
           "hotel rooms for CA healthcare workers"
         ],
         "tags": [
           "translate"
-        ],
-        "file_path_html": "posts/hotel-rooms-for-california-healthcare-workers.html",
-        "file_path_json": "posts/hotel-rooms-for-california-healthcare-workers.json"
+        ]
       },
       {
         "id": 679,
@@ -644,15 +644,15 @@
         "title": "COVID-19 Hotline",
         "author": "editor3",
         "date_gmt": "2020-03-31T19:13:59",
-        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/03/31/hotline/",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/03/31/hotline/",
+        "file_path_html": "posts/hotline.html",
+        "file_path_json": "posts/hotline.json",
         "categories": [
           "hotline"
         ],
         "tags": [
           "translate"
-        ],
-        "file_path_html": "posts/hotline.html",
-        "file_path_json": "posts/hotline.json"
+        ]
       },
       {
         "id": 699,
@@ -660,15 +660,15 @@
         "title": "Housing and homelessness",
         "author": "editor3",
         "date_gmt": "2020-04-02T05:39:39",
-        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/02/housing-and-homelessness/",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/02/housing-and-homelessness/",
+        "file_path_html": "posts/housing-and-homelessness.html",
+        "file_path_json": "posts/housing-and-homelessness.json",
         "categories": [
           "housing and homelessness"
         ],
         "tags": [
           "translate"
-        ],
-        "file_path_html": "posts/housing-and-homelessness.html",
-        "file_path_json": "posts/housing-and-homelessness.json"
+        ]
       },
       {
         "id": 4992,
@@ -676,15 +676,15 @@
         "title": "Housing for agricultural workers",
         "author": "Peggy Gartin",
         "date_gmt": "2020-07-23T22:39:39",
-        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/07/23/housing-for-agricultural-workers/",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/07/23/housing-for-agricultural-workers/",
+        "file_path_html": "posts/housing-for-agricultural-workers.html",
+        "file_path_json": "posts/housing-for-agricultural-workers.json",
         "categories": [
           "housing for agricultural workers"
         ],
         "tags": [
           "translate"
-        ],
-        "file_path_html": "posts/housing-for-agricultural-workers.html",
-        "file_path_json": "posts/housing-for-agricultural-workers.json"
+        ]
       },
       {
         "id": 3075,
@@ -692,15 +692,15 @@
         "title": "Industry guidance to reduce risk",
         "author": "Liz Nobriga",
         "date_gmt": "2020-05-12T05:18:52",
-        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/05/12/industry-guidance/",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/05/12/industry-guidance/",
+        "file_path_html": "posts/industry-guidance.html",
+        "file_path_json": "posts/industry-guidance.json",
         "categories": [
           "Industry guidance"
         ],
         "tags": [
           "translate"
-        ],
-        "file_path_html": "posts/industry-guidance.html",
-        "file_path_json": "posts/industry-guidance.json"
+        ]
       },
       {
         "id": 5265,
@@ -708,15 +708,15 @@
         "title": "Industry guidance in other languages (links fragment)",
         "author": "Peggy Gartin",
         "date_gmt": "2020-08-05T18:03:42",
-        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/08/05/industry-guidance-in-other-languages-links-fragment/",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/08/05/industry-guidance-in-other-languages-links-fragment/",
+        "file_path_html": "posts/industry-guidance-in-other-languages-links-fragment.html",
+        "file_path_json": "posts/industry-guidance-in-other-languages-links-fragment.json",
         "categories": [
           "Industry guidance"
         ],
         "tags": [
           "fragment"
-        ],
-        "file_path_html": "posts/industry-guidance-in-other-languages-links-fragment.html",
-        "file_path_json": "posts/industry-guidance-in-other-languages-links-fragment.json"
+        ]
       },
       {
         "id": 10891,
@@ -724,16 +724,16 @@
         "title": "Industry Guidance to reduce risk (v2)",
         "author": "Chach Sikes",
         "date_gmt": "2021-03-31T01:57:15",
-        "link": "https://as-go-covid19-d-001.azurewebsites.net/2021/03/31/industry-guidance-search/",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2021/03/31/industry-guidance-search/",
+        "file_path_html": "posts/industry-guidance-search.html",
+        "file_path_json": "posts/industry-guidance-search.json",
         "categories": [
           "Industry guidance"
         ],
         "tags": [
           "do-not-crawl",
           "staging-only"
-        ],
-        "file_path_html": "posts/industry-guidance-search.html",
-        "file_path_json": "posts/industry-guidance-search.json"
+        ]
       },
       {
         "id": 2997,
@@ -741,15 +741,15 @@
         "title": "Masks",
         "author": "editor3",
         "date_gmt": "2020-05-11T16:40:15",
-        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/05/11/masks-and-ppe/",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/05/11/masks-and-ppe/",
+        "file_path_html": "posts/masks-and-ppe.html",
+        "file_path_json": "posts/masks-and-ppe.json",
         "categories": [
           "masks and PPE"
         ],
         "tags": [
           "translate"
-        ],
-        "file_path_html": "posts/masks-and-ppe.html",
-        "file_path_json": "posts/masks-and-ppe.json"
+        ]
       },
       {
         "id": 7484,
@@ -757,16 +757,16 @@
         "title": "Menu Links",
         "author": "Michael Sullivan",
         "date_gmt": "2020-12-07T20:41:27",
-        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/12/07/menu-links/",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/12/07/menu-links/",
+        "file_path_html": "posts/menu-links.html",
+        "file_path_json": "posts/menu-links.json",
         "categories": [
           "Uncategorized"
         ],
         "tags": [
           "table-data",
           "translate"
-        ],
-        "file_path_html": "posts/menu-links.html",
-        "file_path_json": "posts/menu-links.json"
+        ]
       },
       {
         "id": 4363,
@@ -774,15 +774,15 @@
         "title": "More ways to help",
         "author": "Peggy Gartin",
         "date_gmt": "2020-06-23T20:57:47",
-        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/06/23/more-ways-to-help/",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/06/23/more-ways-to-help/",
+        "file_path_html": "posts/more-ways-to-help.html",
+        "file_path_json": "posts/more-ways-to-help.json",
         "categories": [
           "more ways to help"
         ],
         "tags": [
           "translate"
-        ],
-        "file_path_html": "posts/more-ways-to-help.html",
-        "file_path_json": "posts/more-ways-to-help.json"
+        ]
       },
       {
         "id": 1392,
@@ -790,16 +790,16 @@
         "title": "new",
         "author": "Peggy Gartin",
         "date_gmt": "2020-04-15T16:23:16",
-        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/15/new/",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/15/new/",
+        "file_path_html": "posts/new.html",
+        "file_path_json": "posts/new.json",
         "categories": [
           "homepage new"
         ],
         "tags": [
           "fragment",
           "translate"
-        ],
-        "file_path_html": "posts/new.html",
-        "file_path_json": "posts/new.json"
+        ]
       },
       {
         "id": 6044,
@@ -807,15 +807,15 @@
         "title": "CA Notify",
         "author": "Michael Sullivan",
         "date_gmt": "2020-09-17T20:19:12",
-        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/09/17/notify-privacy/",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/09/17/notify-privacy/",
+        "file_path_html": "posts/notify-privacy.html",
+        "file_path_json": "posts/notify-privacy.json",
         "categories": [
           "Uncategorized"
         ],
         "tags": [
           "do-not-crawl"
-        ],
-        "file_path_html": "posts/notify-privacy.html",
-        "file_path_json": "posts/notify-privacy.json"
+        ]
       },
       {
         "id": 1933,
@@ -823,15 +823,15 @@
         "title": "Page Redirect Table",
         "author": "Carter Medlin",
         "date_gmt": "2020-04-23T16:26:23",
-        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/23/page-redirect-table/",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/23/page-redirect-table/",
+        "file_path_html": "posts/page-redirect-table.html",
+        "file_path_json": "posts/page-redirect-table.json",
         "categories": [
           "Uncategorized"
         ],
         "tags": [
           "table-data"
-        ],
-        "file_path_html": "posts/page-redirect-table.html",
-        "file_path_json": "posts/page-redirect-table.json"
+        ]
       },
       {
         "id": 5143,
@@ -839,15 +839,15 @@
         "title": "People want to know",
         "author": "Peggy Gartin",
         "date_gmt": "2020-07-30T17:59:19",
-        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/07/30/people-want-to-know/",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/07/30/people-want-to-know/",
+        "file_path_html": "posts/people-want-to-know.html",
+        "file_path_json": "posts/people-want-to-know.json",
         "categories": [
           "Uncategorized"
         ],
         "tags": [
           "table-data"
-        ],
-        "file_path_html": "posts/people-want-to-know.html",
-        "file_path_json": "posts/people-want-to-know.json"
+        ]
       },
       {
         "id": 5591,
@@ -855,16 +855,16 @@
         "title": "reopening matrix data",
         "author": "Aaron Hans",
         "date_gmt": "2020-08-27T13:59:13",
-        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/08/27/reopening-matrix-data/",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/08/27/reopening-matrix-data/",
+        "file_path_html": "posts/reopening-matrix-data.html",
+        "file_path_json": "posts/reopening-matrix-data.json",
         "categories": [
           "Uncategorized"
         ],
         "tags": [
           "table-data",
           "translate"
-        ],
-        "file_path_html": "posts/reopening-matrix-data.html",
-        "file_path_json": "posts/reopening-matrix-data.json"
+        ]
       },
       {
         "id": 5567,
@@ -872,16 +872,16 @@
         "title": "What&#8217;s open data",
         "author": "Peggy Gartin",
         "date_gmt": "2020-08-26T12:27:02",
-        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/08/26/reopening-roadmap-activity-data/",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/08/26/reopening-roadmap-activity-data/",
+        "file_path_html": "posts/reopening-roadmap-activity-data.html",
+        "file_path_json": "posts/reopening-roadmap-activity-data.json",
         "categories": [
           "Uncategorized"
         ],
         "tags": [
           "table-data",
           "translate"
-        ],
-        "file_path_html": "posts/reopening-roadmap-activity-data.html",
-        "file_path_json": "posts/reopening-roadmap-activity-data.json"
+        ]
       },
       {
         "id": 839,
@@ -889,15 +889,15 @@
         "title": "Resources for emotional support and well-being",
         "author": "editor3",
         "date_gmt": "2020-04-07T02:12:34",
-        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/07/resources-for-emotional-support-and-well-being/",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/07/resources-for-emotional-support-and-well-being/",
+        "file_path_html": "posts/resources-for-emotional-support-and-well-being.html",
+        "file_path_json": "posts/resources-for-emotional-support-and-well-being.json",
         "categories": [
           "resources for emotional support"
         ],
         "tags": [
           "translate"
-        ],
-        "file_path_html": "posts/resources-for-emotional-support-and-well-being.html",
-        "file_path_json": "posts/resources-for-emotional-support-and-well-being.json"
+        ]
       },
       {
         "id": 7402,
@@ -905,16 +905,16 @@
         "title": "RSHO",
         "author": "Peggy Gartin",
         "date_gmt": "2020-12-05T19:42:38",
-        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/12/05/rsho/",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/12/05/rsho/",
+        "file_path_html": "posts/rsho.html",
+        "file_path_json": "posts/rsho.json",
         "categories": [
           "Uncategorized"
         ],
         "tags": [
           "do-not-crawl",
           "table-data"
-        ],
-        "file_path_html": "posts/rsho.html",
-        "file_path_json": "posts/rsho.json"
+        ]
       },
       {
         "id": 5563,
@@ -922,15 +922,15 @@
         "title": "Blueprint for a Safer Economy",
         "author": "editor3",
         "date_gmt": "2020-08-26T05:25:37",
-        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/08/26/safer-economy/",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/08/26/safer-economy/",
+        "file_path_html": "posts/safer-economy.html",
+        "file_path_json": "posts/safer-economy.json",
         "categories": [
           "Uncategorized"
         ],
         "tags": [
           "translate"
-        ],
-        "file_path_html": "posts/safer-economy.html",
-        "file_path_json": "posts/safer-economy.json"
+        ]
       },
       {
         "id": 7535,
@@ -938,16 +938,16 @@
         "title": "safer-economy-lang",
         "author": "James Bumgardner",
         "date_gmt": "2020-12-08T22:40:30",
-        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/12/08/safer-economy-lang/",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/12/08/safer-economy-lang/",
+        "file_path_html": "posts/safer-economy-lang.html",
+        "file_path_json": "posts/safer-economy-lang.json",
         "categories": [
           "Roadmap"
         ],
         "tags": [
           "table-data",
           "translate"
-        ],
-        "file_path_html": "posts/safer-economy-lang.html",
-        "file_path_json": "posts/safer-economy-lang.json"
+        ]
       },
       {
         "id": 6854,
@@ -955,16 +955,16 @@
         "title": "Examples",
         "author": "Konstantin Koryaka",
         "date_gmt": "2020-11-12T22:39:44",
-        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/11/12/sample/",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/11/12/sample/",
+        "file_path_html": "posts/sample.html",
+        "file_path_json": "posts/sample.json",
         "categories": [
           "Uncategorized"
         ],
         "tags": [
           "do-not-crawl",
           "staging-only"
-        ],
-        "file_path_html": "posts/sample.html",
-        "file_path_json": "posts/sample.json"
+        ]
       },
       {
         "id": 6422,
@@ -972,16 +972,16 @@
         "title": "Schools may reopen in these counties",
         "author": "Aaron Hans",
         "date_gmt": "2020-10-13T15:54:36",
-        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/10/13/schools-may-reopen-in-these-counties/",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/10/13/schools-may-reopen-in-these-counties/",
+        "file_path_html": "posts/schools-may-reopen-in-these-counties.html",
+        "file_path_json": "posts/schools-may-reopen-in-these-counties.json",
         "categories": [
           "Uncategorized"
         ],
         "tags": [
           "table-data",
           "translate"
-        ],
-        "file_path_html": "posts/schools-may-reopen-in-these-counties.html",
-        "file_path_json": "posts/schools-may-reopen-in-these-counties.json"
+        ]
       },
       {
         "id": 4164,
@@ -989,16 +989,16 @@
         "title": "Search",
         "author": "Carter Medlin",
         "date_gmt": "2020-06-15T19:04:21",
-        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/06/15/search/",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/06/15/search/",
+        "file_path_html": "posts/search.html",
+        "file_path_json": "posts/search.json",
         "categories": [
           "Uncategorized"
         ],
         "tags": [
           "do-not-crawl",
           "translate"
-        ],
-        "file_path_html": "posts/search.html",
-        "file_path_json": "posts/search.json"
+        ]
       },
       {
         "id": 4279,
@@ -1006,15 +1006,15 @@
         "title": "Local alerts",
         "author": "Peggy Gartin",
         "date_gmt": "2020-06-17T22:22:32",
-        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/06/17/sign-up-for-county-alerts/",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/06/17/sign-up-for-county-alerts/",
+        "file_path_html": "posts/sign-up-for-county-alerts.html",
+        "file_path_json": "posts/sign-up-for-county-alerts.json",
         "categories": [
           "Uncategorized"
         ],
         "tags": [
           "translate"
-        ],
-        "file_path_html": "posts/sign-up-for-county-alerts.html",
-        "file_path_json": "posts/sign-up-for-county-alerts.json"
+        ]
       },
       {
         "id": 11040,
@@ -1022,13 +1022,13 @@
         "title": "Tracking COVID-19 in California",
         "author": "Michael Sullivan",
         "date_gmt": "2021-04-05T16:30:05",
-        "link": "https://as-go-covid19-d-001.azurewebsites.net/2021/04/05/state-dashboard/",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2021/04/05/state-dashboard/",
+        "file_path_html": "posts/state-dashboard.html",
+        "file_path_json": "posts/state-dashboard.json",
         "categories": [
           "Uncategorized"
         ],
-        "tags": [],
-        "file_path_html": "posts/state-dashboard.html",
-        "file_path_json": "posts/state-dashboard.json"
+        "tags": []
       },
       {
         "id": 432,
@@ -1036,15 +1036,15 @@
         "title": "About COVID-19 restrictions",
         "author": "Peggy Gartin",
         "date_gmt": "2020-03-20T01:01:15",
-        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/03/20/stay-home-except-for-essential-needs/",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/03/20/stay-home-except-for-essential-needs/",
+        "file_path_html": "posts/stay-home-except-for-essential-needs.html",
+        "file_path_json": "posts/stay-home-except-for-essential-needs.json",
         "categories": [
           "stay home"
         ],
         "tags": [
           "translate"
-        ],
-        "file_path_html": "posts/stay-home-except-for-essential-needs.html",
-        "file_path_json": "posts/stay-home-except-for-essential-needs.json"
+        ]
       },
       {
         "id": 621,
@@ -1052,15 +1052,15 @@
         "title": "Symptoms and risks",
         "author": "editor3",
         "date_gmt": "2020-03-25T21:28:08",
-        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/03/25/symptoms-and-risks/",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/03/25/symptoms-and-risks/",
+        "file_path_html": "posts/symptoms-and-risks.html",
+        "file_path_json": "posts/symptoms-and-risks.json",
         "categories": [
           "symptoms and risks"
         ],
         "tags": [
           "translate"
-        ],
-        "file_path_html": "posts/symptoms-and-risks.html",
-        "file_path_json": "posts/symptoms-and-risks.json"
+        ]
       },
       {
         "id": 5483,
@@ -1068,16 +1068,16 @@
         "title": "TEST UPDATE &#8211; COVID-19 transmission has increased in areas of the state, requiring dimming of reopening.",
         "author": "Aaron Hans",
         "date_gmt": "2020-08-20T18:54:34",
-        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/08/20/tableau-testing/",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/08/20/tableau-testing/",
+        "file_path_html": "posts/tableau-testing.html",
+        "file_path_json": "posts/tableau-testing.json",
         "categories": [
           "Uncategorized"
         ],
         "tags": [
           "do-not-crawl",
           "staging-only"
-        ],
-        "file_path_html": "posts/tableau-testing.html",
-        "file_path_json": "posts/tableau-testing.json"
+        ]
       },
       {
         "id": 4228,
@@ -1085,15 +1085,15 @@
         "title": "Translate this website",
         "author": "Michael Sullivan",
         "date_gmt": "2020-06-16T20:19:45",
-        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/06/16/translate/",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/06/16/translate/",
+        "file_path_html": "posts/translate.html",
+        "file_path_json": "posts/translate.json",
         "categories": [
           "Uncategorized"
         ],
         "tags": [
           "translate"
-        ],
-        "file_path_html": "posts/translate.html",
-        "file_path_json": "posts/translate.json"
+        ]
       },
       {
         "id": 7858,
@@ -1101,15 +1101,15 @@
         "title": "Travel",
         "author": "Peggy Gartin",
         "date_gmt": "2020-12-21T18:26:53",
-        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/12/21/travel/",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/12/21/travel/",
+        "file_path_html": "posts/travel.html",
+        "file_path_json": "posts/travel.json",
         "categories": [
           "travel"
         ],
         "tags": [
           "translate"
-        ],
-        "file_path_html": "posts/travel.html",
-        "file_path_json": "posts/travel.json"
+        ]
       },
       {
         "id": 6518,
@@ -1117,7 +1117,9 @@
         "title": "updates section homepage",
         "author": "Peggy Gartin",
         "date_gmt": "2020-10-19T19:47:18",
-        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/10/19/updates-section-homepage/",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/10/19/updates-section-homepage/",
+        "file_path_html": "posts/updates-section-homepage.html",
+        "file_path_json": "posts/updates-section-homepage.json",
         "categories": [
           "Uncategorized"
         ],
@@ -1125,9 +1127,7 @@
           "do-not-crawl",
           "table-data",
           "translate"
-        ],
-        "file_path_html": "posts/updates-section-homepage.html",
-        "file_path_json": "posts/updates-section-homepage.json"
+        ]
       },
       {
         "id": 5932,
@@ -1135,16 +1135,16 @@
         "title": "Tracking COVID-19 in California (old)",
         "author": "Michael Sullivan",
         "date_gmt": "2020-09-10T17:13:43",
-        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/09/10/v1-state-dashboard/",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/09/10/v1-state-dashboard/",
+        "file_path_html": "posts/v1-state-dashboard.html",
+        "file_path_json": "posts/v1-state-dashboard.json",
         "categories": [
           "Uncategorized"
         ],
         "tags": [
           "do-not-crawl",
           "staging-only"
-        ],
-        "file_path_html": "posts/v1-state-dashboard.html",
-        "file_path_json": "posts/v1-state-dashboard.json"
+        ]
       },
       {
         "id": 8386,
@@ -1152,16 +1152,16 @@
         "title": "Tracking COVID-19 in California (v2)",
         "author": "Michael Sullivan",
         "date_gmt": "2021-01-12T19:06:17",
-        "link": "https://as-go-covid19-d-001.azurewebsites.net/2021/01/12/v2-state-dashboard/",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2021/01/12/v2-state-dashboard/",
+        "file_path_html": "posts/v2-state-dashboard.html",
+        "file_path_json": "posts/v2-state-dashboard.json",
         "categories": [
           "Uncategorized"
         ],
         "tags": [
           "do-not-crawl",
           "staging-only"
-        ],
-        "file_path_html": "posts/v2-state-dashboard.html",
-        "file_path_json": "posts/v2-state-dashboard.json"
+        ]
       },
       {
         "id": 11214,
@@ -1169,15 +1169,15 @@
         "title": "Vaccination progress data",
         "author": "Peggy Gartin",
         "date_gmt": "2021-04-08T20:51:30",
-        "link": "https://as-go-covid19-d-001.azurewebsites.net/2021/04/08/vaccination-progress-data/",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2021/04/08/vaccination-progress-data/",
+        "file_path_html": "posts/vaccination-progress-data.html",
+        "file_path_json": "posts/vaccination-progress-data.json",
         "categories": [
           "vaccines"
         ],
         "tags": [
           "translate"
-        ],
-        "file_path_html": "posts/vaccination-progress-data.html",
-        "file_path_json": "posts/vaccination-progress-data.json"
+        ]
       },
       {
         "id": 7006,
@@ -1185,15 +1185,15 @@
         "title": "Vaccines",
         "author": "editor3",
         "date_gmt": "2020-11-17T15:07:35",
-        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/11/17/vaccines/",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/11/17/vaccines/",
+        "file_path_html": "posts/vaccines.html",
+        "file_path_json": "posts/vaccines.json",
         "categories": [
           "vaccines"
         ],
         "tags": [
           "translate"
-        ],
-        "file_path_html": "posts/vaccines.html",
-        "file_path_json": "posts/vaccines.json"
+        ]
       },
       {
         "id": 8655,
@@ -1201,15 +1201,15 @@
         "title": "Vaccines Live Chat Testing",
         "author": "Chach Sikes",
         "date_gmt": "2021-01-22T16:13:49",
-        "link": "https://as-go-covid19-d-001.azurewebsites.net/2021/01/22/vaccines-live-chat-test/",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2021/01/22/vaccines-live-chat-test/",
+        "file_path_html": "posts/vaccines-live-chat-test.html",
+        "file_path_json": "posts/vaccines-live-chat-test.json",
         "categories": [
           "vaccines"
         ],
         "tags": [
           "do-not-crawl"
-        ],
-        "file_path_html": "posts/vaccines-live-chat-test.html",
-        "file_path_json": "posts/vaccines-live-chat-test.json"
+        ]
       },
       {
         "id": 12592,
@@ -1217,15 +1217,15 @@
         "title": "Vax for the Win",
         "author": "Peggy Gartin",
         "date_gmt": "2021-05-23T17:03:11",
-        "link": "https://as-go-covid19-d-001.azurewebsites.net/2021/05/23/vax-for-the-win/",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2021/05/23/vax-for-the-win/",
+        "file_path_html": "posts/vax-for-the-win.html",
+        "file_path_json": "posts/vax-for-the-win.json",
         "categories": [
           "Vax for the Win"
         ],
         "tags": [
           "translate"
-        ],
-        "file_path_html": "posts/vax-for-the-win.html",
-        "file_path_json": "posts/vax-for-the-win.json"
+        ]
       },
       {
         "id": 7482,
@@ -1233,16 +1233,16 @@
         "title": "Video Section",
         "author": "Michael Sullivan",
         "date_gmt": "2020-12-07T20:09:53",
-        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/12/07/video-section/",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/12/07/video-section/",
+        "file_path_html": "posts/video-section.html",
+        "file_path_json": "posts/video-section.json",
         "categories": [
           "Uncategorized"
         ],
         "tags": [
           "table-data",
           "translate"
-        ],
-        "file_path_html": "posts/video-section.html",
-        "file_path_json": "posts/video-section.json"
+        ]
       },
       {
         "id": 3930,
@@ -1250,15 +1250,15 @@
         "title": "What&#8217;s open?",
         "author": "Aaron Hans",
         "date_gmt": "2020-06-04T21:14:45",
-        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/06/04/what-is-open-where/",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/06/04/what-is-open-where/",
+        "file_path_html": "posts/what-is-open-where.html",
+        "file_path_json": "posts/what-is-open-where.json",
         "categories": [
           "whats open"
         ],
         "tags": [
           "do-not-crawl"
-        ],
-        "file_path_html": "posts/what-is-open-where.html",
-        "file_path_json": "posts/what-is-open-where.json"
+        ]
       },
       {
         "id": 722,
@@ -1266,15 +1266,15 @@
         "title": "Workers",
         "author": "Liz Nobriga",
         "date_gmt": "2020-04-02T17:29:35",
-        "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/02/workers/",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/02/workers/",
+        "file_path_html": "posts/workers.html",
+        "file_path_json": "posts/workers.json",
         "categories": [
           "workers"
         ],
         "tags": [
           "translate"
-        ],
-        "file_path_html": "posts/workers.html",
-        "file_path_json": "posts/workers.json"
+        ]
       }
     ]
   }

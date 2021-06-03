@@ -1,16 +1,21 @@
 {
-  "id": 4213,
-  "slug": "hotel-rooms-for-california-healthcare-workers",
-  "title": "Hotel rooms for California healthcare workers",
-  "author": "Liz Nobriga",
-  "date_gmt": "2020-06-16T18:55:29",
-  "modified_gmt": "2021-05-14T23:57:29",
-  "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/06/16/hotel-rooms-for-california-healthcare-workers/",
-  "excerpt": "<p>Program ending on June 15, 2021 The Hotel rooms for healthcare workers program will be discontinued on June 15, 2021 for all facilities, except those located in Riverside, Imperial, and San Diego counties. Existing hotel reservations with a check-out date on or before June 15, 2021 will be honored. Read the program phase-out memo for [&hellip;]</p>\n",
-  "categories": [
-    "hotel rooms for CA healthcare workers"
-  ],
-  "tags": [
-    "translate"
-  ]
+  "meta": {},
+  "data": {
+    "id": 4213,
+    "slug": "hotel-rooms-for-california-healthcare-workers",
+    "title": "Hotel rooms for California healthcare workers",
+    "author": "Liz Nobriga",
+    "date_gmt": "2020-06-16T18:55:29",
+    "modified_gmt": "2021-05-14T23:57:29",
+    "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/06/16/hotel-rooms-for-california-healthcare-workers/",
+    "file_path_html": "posts/hotel-rooms-for-california-healthcare-workers.html",
+    "file_path_json": "posts/hotel-rooms-for-california-healthcare-workers.json",
+    "excerpt": "<p>Program ending on June 15, 2021 The Hotel rooms for healthcare workers program will be discontinued on June 15, 2021 for all facilities, except those located in Riverside, Imperial, and San Diego counties. Existing hotel reservations with a check-out date on or before June 15, 2021 will be honored. Read the program phase-out memo for [&hellip;]</p>\n",
+    "categories": [
+      "hotel rooms for CA healthcare workers"
+    ],
+    "tags": [
+      "translate"
+    ]
+  }
 }
