@@ -1,17 +1,22 @@
 {
-  "id": 7535,
-  "slug": "safer-economy-lang",
-  "title": "safer-economy-lang",
-  "author": "James Bumgardner",
-  "date_gmt": "2020-12-08T22:40:30",
-  "modified_gmt": "2021-05-10T20:33:59",
-  "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/12/08/safer-economy-lang/",
-  "excerpt": "<p>This table is used to to get the text fields for the search box on Safer Economy. https://covid19.ca.gov/safer-economy/ _id value title Find what may be open near you activityLabel Activity activityPlaceholder Enter a business or activity countyLabel County or tier level countyPlaceholder Enter a county or tier level buttonText Get status clearText Clear seeGuidanceText See [&hellip;]</p>\n",
-  "categories": [
-    "Roadmap"
-  ],
-  "tags": [
-    "table-data",
-    "translate"
-  ]
+  "meta": {},
+  "data": {
+    "id": 7535,
+    "slug": "safer-economy-lang",
+    "title": "safer-economy-lang",
+    "author": "James Bumgardner",
+    "date_gmt": "2020-12-08T22:40:30",
+    "modified_gmt": "2021-05-10T20:33:59",
+    "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/12/08/safer-economy-lang/",
+    "file_path_html": "posts/safer-economy-lang.html",
+    "file_path_json": "posts/safer-economy-lang.json",
+    "excerpt": "<p>This table is used to to get the text fields for the search box on Safer Economy. https://covid19.ca.gov/safer-economy/ _id value title Find what may be open near you activityLabel Activity activityPlaceholder Enter a business or activity countyLabel County or tier level countyPlaceholder Enter a county or tier level buttonText Get status clearText Clear seeGuidanceText See [&hellip;]</p>\n",
+    "categories": [
+      "Roadmap"
+    ],
+    "tags": [
+      "table-data",
+      "translate"
+    ]
+  }
 }

@@ -1,17 +1,22 @@
 {
-  "id": 7402,
-  "slug": "rsho",
-  "title": "RSHO",
-  "author": "Peggy Gartin",
-  "date_gmt": "2020-12-05T19:42:38",
-  "modified_gmt": "2021-01-25T19:18:45",
-  "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/12/05/rsho/",
-  "excerpt": "<p>region</p>\n",
-  "categories": [
-    "Uncategorized"
-  ],
-  "tags": [
-    "do-not-crawl",
-    "table-data"
-  ]
+  "meta": {},
+  "data": {
+    "id": 7402,
+    "slug": "rsho",
+    "title": "RSHO",
+    "author": "Peggy Gartin",
+    "date_gmt": "2020-12-05T19:42:38",
+    "modified_gmt": "2021-01-25T19:18:45",
+    "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/12/05/rsho/",
+    "file_path_html": "posts/rsho.html",
+    "file_path_json": "posts/rsho.json",
+    "excerpt": "<p>region</p>\n",
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [
+      "do-not-crawl",
+      "table-data"
+    ]
+  }
 }

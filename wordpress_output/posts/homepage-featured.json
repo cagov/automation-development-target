@@ -1,17 +1,22 @@
 {
-  "id": 10787,
-  "slug": "homepage-featured",
-  "title": "Homepage featured",
-  "author": "Peggy Gartin",
-  "date_gmt": "2021-03-29T19:19:42",
-  "modified_gmt": "2021-04-03T01:09:17",
-  "link": "https://as-go-covid19-d-001.azurewebsites.net/2021/03/29/homepage-featured/",
-  "excerpt": "<p>Get vaccinated See what&#8217;s open in your county Find your county tier</p>\n",
-  "categories": [
-    "Uncategorized"
-  ],
-  "tags": [
-    "fragment",
-    "translate"
-  ]
+  "meta": {},
+  "data": {
+    "id": 10787,
+    "slug": "homepage-featured",
+    "title": "Homepage featured",
+    "author": "Peggy Gartin",
+    "date_gmt": "2021-03-29T19:19:42",
+    "modified_gmt": "2021-04-03T01:09:17",
+    "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2021/03/29/homepage-featured/",
+    "file_path_html": "posts/homepage-featured.html",
+    "file_path_json": "posts/homepage-featured.json",
+    "excerpt": "<p>Get vaccinated See what&#8217;s open in your county Find your county tier</p>\n",
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [
+      "fragment",
+      "translate"
+    ]
+  }
 }

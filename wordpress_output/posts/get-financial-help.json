@@ -1,16 +1,21 @@
 {
-  "id": 606,
-  "slug": "get-financial-help",
-  "title": "Get financial help",
-  "author": "angieq",
-  "date_gmt": "2020-03-25T20:19:47",
-  "modified_gmt": "2021-05-24T21:20:10",
-  "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/03/25/get-financial-help/",
-  "excerpt": "<p>Find financial help if you are affected by coronavirus / COVID-19 in California. Unemployment insurance, paid family leave, disability insurance, statewide moratorium on evictions, mortgage relief, and forbearance.</p>\n",
-  "categories": [
-    "get financial help"
-  ],
-  "tags": [
-    "translate"
-  ]
+  "meta": {},
+  "data": {
+    "id": 606,
+    "slug": "get-financial-help",
+    "title": "Get financial help",
+    "author": "angieq",
+    "date_gmt": "2020-03-25T20:19:47",
+    "modified_gmt": "2021-05-24T21:20:10",
+    "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/03/25/get-financial-help/",
+    "file_path_html": "posts/get-financial-help.html",
+    "file_path_json": "posts/get-financial-help.json",
+    "excerpt": "<p>Find financial help if you are affected by coronavirus / COVID-19 in California. Unemployment insurance, paid family leave, disability insurance, statewide moratorium on evictions, mortgage relief, and forbearance.</p>\n",
+    "categories": [
+      "get financial help"
+    ],
+    "tags": [
+      "translate"
+    ]
+  }
 }

@@ -1,16 +1,21 @@
 {
-  "id": 2997,
-  "slug": "masks-and-ppe",
-  "title": "Masks",
-  "author": "editor3",
-  "date_gmt": "2020-05-11T16:40:15",
-  "modified_gmt": "2021-05-17T19:29:25",
-  "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/05/11/masks-and-ppe/",
-  "excerpt": "<p>California will align its mask guidance with CDC’s on June 15, 2021 California will keep existing mask guidance in place until June 15 when it aims to fully reopen the economy. After that, the state plans to allow fully-vaccinated Californians to go without a mask in most indoor settings. You will still have the option [&hellip;]</p>\n",
-  "categories": [
-    "masks and PPE"
-  ],
-  "tags": [
-    "translate"
-  ]
+  "meta": {},
+  "data": {
+    "id": 2997,
+    "slug": "masks-and-ppe",
+    "title": "Masks",
+    "author": "editor3",
+    "date_gmt": "2020-05-11T16:40:15",
+    "modified_gmt": "2021-05-17T19:29:25",
+    "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/05/11/masks-and-ppe/",
+    "file_path_html": "posts/masks-and-ppe.html",
+    "file_path_json": "posts/masks-and-ppe.json",
+    "excerpt": "<p>California will align its mask guidance with CDC’s on June 15, 2021 California will keep existing mask guidance in place until June 15 when it aims to fully reopen the economy. After that, the state plans to allow fully-vaccinated Californians to go without a mask in most indoor settings. You will still have the option [&hellip;]</p>\n",
+    "categories": [
+      "masks and PPE"
+    ],
+    "tags": [
+      "translate"
+    ]
+  }
 }

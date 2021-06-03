@@ -1,17 +1,22 @@
 {
-  "id": 1840,
-  "slug": "do-dont-zh-hans",
-  "title": "do don&#8217;t zh hans",
-  "author": "Aaron Hans",
-  "date_gmt": "2020-04-21T21:38:34",
-  "modified_gmt": "2020-04-21T22:25:22",
-  "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/21/do-dont-zh-hans/",
-  "excerpt": "<p>used on the homepage Headers 应做之事 勿做之事 do donot 待在家中 外出（必不可少的活动除外） 避免接触外人 握手 用肥皂和水洗手至少 20 秒钟 摸脸 用纸巾遮住咳嗽或喷嚏 不打电话就去看医生 清洁和消毒常摸的东西和表面 囤积口罩或手套 外出时要保持 6 英尺的安全社交距离</p>\n",
-  "categories": [
-    "do and do not"
-  ],
-  "tags": [
-    "lang-zh-Hans",
-    "table-data"
-  ]
+  "meta": {},
+  "data": {
+    "id": 1840,
+    "slug": "do-dont-zh-hans",
+    "title": "do don&#8217;t zh hans",
+    "author": "Aaron Hans",
+    "date_gmt": "2020-04-21T21:38:34",
+    "modified_gmt": "2020-04-21T22:25:22",
+    "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/21/do-dont-zh-hans/",
+    "file_path_html": "posts/do-dont-zh-hans.html",
+    "file_path_json": "posts/do-dont-zh-hans.json",
+    "excerpt": "<p>used on the homepage Headers 应做之事 勿做之事 do donot 待在家中 外出（必不可少的活动除外） 避免接触外人 握手 用肥皂和水洗手至少 20 秒钟 摸脸 用纸巾遮住咳嗽或喷嚏 不打电话就去看医生 清洁和消毒常摸的东西和表面 囤积口罩或手套 外出时要保持 6 英尺的安全社交距离</p>\n",
+    "categories": [
+      "do and do not"
+    ],
+    "tags": [
+      "lang-zh-Hans",
+      "table-data"
+    ]
+  }
 }
