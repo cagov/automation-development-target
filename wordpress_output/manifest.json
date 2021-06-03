@@ -10,7 +10,9 @@
         "date_gmt": "2021-02-03T21:44:55",
         "link": "https://as-go-covid19-d-001.azurewebsites.net/",
         "parent": 0,
-        "menu_order": 0
+        "menu_order": 0,
+        "file_path_html": "pages/home.html",
+        "file_path_json": "pages/home.json"
       }
     ],
     "posts": [
@@ -27,7 +29,9 @@
         "tags": [
           "do-not-crawl",
           "machine-translated"
-        ]
+        ],
+        "file_path_html": "posts/404.html",
+        "file_path_json": "posts/404.json"
       },
       {
         "id": 12178,
@@ -42,7 +46,9 @@
         "tags": [
           "do-not-crawl",
           "machine-translated"
-        ]
+        ],
+        "file_path_html": "posts/410.html",
+        "file_path_json": "posts/410.json"
       },
       {
         "id": 12339,
@@ -56,7 +62,9 @@
         ],
         "tags": [
           "do-not-crawl"
-        ]
+        ],
+        "file_path_html": "posts/410-page.html",
+        "file_path_json": "posts/410-page.json"
       },
       {
         "id": 1205,
@@ -71,7 +79,9 @@
         "tags": [
           "do-not-crawl",
           "machine-translated"
-        ]
+        ],
+        "file_path_html": "posts/500.html",
+        "file_path_json": "posts/500.json"
       },
       {
         "id": 725,
@@ -85,7 +95,9 @@
         ],
         "tags": [
           "translate"
-        ]
+        ],
+        "file_path_html": "posts/business-and-employers.html",
+        "file_path_json": "posts/business-and-employers.json"
       },
       {
         "id": 1364,
@@ -100,7 +112,9 @@
         "tags": [
           "fragment",
           "translate"
-        ]
+        ],
+        "file_path_html": "posts/cali-working.html",
+        "file_path_json": "posts/cali-working.json"
       },
       {
         "id": 8906,
@@ -115,7 +129,9 @@
         "tags": [
           "do-not-crawl",
           "staging-only"
-        ]
+        ],
+        "file_path_html": "posts/charts-sandbox.html",
+        "file_path_json": "posts/charts-sandbox.json"
       },
       {
         "id": 6125,
@@ -130,7 +146,9 @@
         "tags": [
           "table-data",
           "translate"
-        ]
+        ],
+        "file_path_html": "posts/common-page-labels.html",
+        "file_path_json": "posts/common-page-labels.json"
       },
       {
         "id": 3186,
@@ -144,7 +162,9 @@
         ],
         "tags": [
           "translate"
-        ]
+        ],
+        "file_path_html": "posts/contact-tracing.html",
+        "file_path_json": "posts/contact-tracing.json"
       },
       {
         "id": 3305,
@@ -158,7 +178,9 @@
         ],
         "tags": [
           "translate"
-        ]
+        ],
+        "file_path_html": "posts/contracts.html",
+        "file_path_json": "posts/contracts.json"
       },
       {
         "id": 4397,
@@ -170,7 +192,9 @@
         "categories": [
           "data and tools"
         ],
-        "tags": []
+        "tags": [],
+        "file_path_html": "posts/data-and-tools.html",
+        "file_path_json": "posts/data-and-tools.json"
       },
       {
         "id": 2040,
@@ -184,7 +208,9 @@
         ],
         "tags": [
           "translate"
-        ]
+        ],
+        "file_path_html": "posts/discrimination.html",
+        "file_path_json": "posts/discrimination.json"
       },
       {
         "id": 7661,
@@ -198,7 +224,9 @@
         ],
         "tags": [
           "translate"
-        ]
+        ],
+        "file_path_html": "posts/distance-learning.html",
+        "file_path_json": "posts/distance-learning.json"
       },
       {
         "id": 1557,
@@ -212,7 +240,9 @@
         ],
         "tags": [
           "table-data"
-        ]
+        ],
+        "file_path_html": "posts/do-dont.html",
+        "file_path_json": "posts/do-dont.json"
       },
       {
         "id": 1723,
@@ -227,7 +257,9 @@
         "tags": [
           "lang-ar",
           "table-data"
-        ]
+        ],
+        "file_path_html": "posts/do-dont-ar.html",
+        "file_path_json": "posts/do-dont-ar.json"
       },
       {
         "id": 1561,
@@ -242,7 +274,9 @@
         "tags": [
           "lang-es",
           "table-data"
-        ]
+        ],
+        "file_path_html": "posts/do-dont-es.html",
+        "file_path_json": "posts/do-dont-es.json"
       },
       {
         "id": 1838,
@@ -257,7 +291,9 @@
         "tags": [
           "lang-ko",
           "table-data"
-        ]
+        ],
+        "file_path_html": "posts/do-dont-ko.html",
+        "file_path_json": "posts/do-dont-ko.json"
       },
       {
         "id": 1836,
@@ -272,7 +308,9 @@
         "tags": [
           "lang-tl",
           "table-data"
-        ]
+        ],
+        "file_path_html": "posts/do-dont-tl.html",
+        "file_path_json": "posts/do-dont-tl.json"
       },
       {
         "id": 1834,
@@ -287,7 +325,9 @@
         "tags": [
           "lang-vi",
           "table-data"
-        ]
+        ],
+        "file_path_html": "posts/do-dont-vi.html",
+        "file_path_json": "posts/do-dont-vi.json"
       },
       {
         "id": 1840,
@@ -302,7 +342,9 @@
         "tags": [
           "lang-zh-Hans",
           "table-data"
-        ]
+        ],
+        "file_path_html": "posts/do-dont-zh-hans.html",
+        "file_path_json": "posts/do-dont-zh-hans.json"
       },
       {
         "id": 1842,
@@ -317,7 +359,9 @@
         "tags": [
           "lang-zh-Hant",
           "table-data"
-        ]
+        ],
+        "file_path_html": "posts/do-dont-zh-hant.html",
+        "file_path_json": "posts/do-dont-zh-hant.json"
       },
       {
         "id": 36,
@@ -332,7 +376,9 @@
         "tags": [
           "staging-only",
           "translate"
-        ]
+        ],
+        "file_path_html": "posts/education.html",
+        "file_path_json": "posts/education.json"
       },
       {
         "id": 11659,
@@ -344,7 +390,9 @@
         "categories": [
           "Uncategorized"
         ],
-        "tags": []
+        "tags": [],
+        "file_path_html": "posts/emergency-broadband.html",
+        "file_path_json": "posts/emergency-broadband.json"
       },
       {
         "id": 6363,
@@ -358,7 +406,9 @@
         ],
         "tags": [
           "translate"
-        ]
+        ],
+        "file_path_html": "posts/equity.html",
+        "file_path_json": "posts/equity.json"
       },
       {
         "id": 2258,
@@ -372,7 +422,9 @@
         ],
         "tags": [
           "translate"
-        ]
+        ],
+        "file_path_html": "posts/essential-workforce.html",
+        "file_path_json": "posts/essential-workforce.json"
       },
       {
         "id": 1419,
@@ -387,7 +439,9 @@
         "tags": [
           "fragment",
           "translate"
-        ]
+        ],
+        "file_path_html": "posts/find-services.html",
+        "file_path_json": "posts/find-services.json"
       },
       {
         "id": 1437,
@@ -401,7 +455,9 @@
         ],
         "tags": [
           "translate"
-        ]
+        ],
+        "file_path_html": "posts/food-resources.html",
+        "file_path_json": "posts/food-resources.json"
       },
       {
         "id": 606,
@@ -415,7 +471,9 @@
         ],
         "tags": [
           "translate"
-        ]
+        ],
+        "file_path_html": "posts/get-financial-help.html",
+        "file_path_json": "posts/get-financial-help.json"
       },
       {
         "id": 54,
@@ -429,7 +487,9 @@
         ],
         "tags": [
           "translate"
-        ]
+        ],
+        "file_path_html": "posts/get-local-information.html",
+        "file_path_json": "posts/get-local-information.json"
       },
       {
         "id": 6198,
@@ -443,7 +503,9 @@
         ],
         "tags": [
           "translate"
-        ]
+        ],
+        "file_path_html": "posts/get-tested.html",
+        "file_path_json": "posts/get-tested.json"
       },
       {
         "id": 5237,
@@ -457,7 +519,9 @@
         ],
         "tags": [
           "date"
-        ]
+        ],
+        "file_path_html": "posts/guidance-languages.html",
+        "file_path_json": "posts/guidance-languages.json"
       },
       {
         "id": 1378,
@@ -471,7 +535,9 @@
         ],
         "tags": [
           "translate"
-        ]
+        ],
+        "file_path_html": "posts/guide-immigrant-californians.html",
+        "file_path_json": "posts/guide-immigrant-californians.json"
       },
       {
         "id": 5984,
@@ -485,7 +551,9 @@
         ],
         "tags": [
           "translate"
-        ]
+        ],
+        "file_path_html": "posts/help-for-seniors.html",
+        "file_path_json": "posts/help-for-seniors.json"
       },
       {
         "id": 6340,
@@ -499,7 +567,9 @@
         ],
         "tags": [
           "translate"
-        ]
+        ],
+        "file_path_html": "posts/holidays.html",
+        "file_path_json": "posts/holidays.json"
       },
       {
         "id": 1372,
@@ -514,7 +584,9 @@
         "tags": [
           "fragment",
           "translate"
-        ]
+        ],
+        "file_path_html": "posts/home-header.html",
+        "file_path_json": "posts/home-header.json"
       },
       {
         "id": 10787,
@@ -529,7 +601,9 @@
         "tags": [
           "fragment",
           "translate"
-        ]
+        ],
+        "file_path_html": "posts/homepage-featured.html",
+        "file_path_json": "posts/homepage-featured.json"
       },
       {
         "id": 10977,
@@ -544,7 +618,9 @@
         "tags": [
           "table-data",
           "translate"
-        ]
+        ],
+        "file_path_html": "posts/homepage-labels.html",
+        "file_path_json": "posts/homepage-labels.json"
       },
       {
         "id": 4213,
@@ -558,7 +634,9 @@
         ],
         "tags": [
           "translate"
-        ]
+        ],
+        "file_path_html": "posts/hotel-rooms-for-california-healthcare-workers.html",
+        "file_path_json": "posts/hotel-rooms-for-california-healthcare-workers.json"
       },
       {
         "id": 679,
@@ -572,7 +650,9 @@
         ],
         "tags": [
           "translate"
-        ]
+        ],
+        "file_path_html": "posts/hotline.html",
+        "file_path_json": "posts/hotline.json"
       },
       {
         "id": 699,
@@ -586,7 +666,9 @@
         ],
         "tags": [
           "translate"
-        ]
+        ],
+        "file_path_html": "posts/housing-and-homelessness.html",
+        "file_path_json": "posts/housing-and-homelessness.json"
       },
       {
         "id": 4992,
@@ -600,7 +682,9 @@
         ],
         "tags": [
           "translate"
-        ]
+        ],
+        "file_path_html": "posts/housing-for-agricultural-workers.html",
+        "file_path_json": "posts/housing-for-agricultural-workers.json"
       },
       {
         "id": 3075,
@@ -614,7 +698,9 @@
         ],
         "tags": [
           "translate"
-        ]
+        ],
+        "file_path_html": "posts/industry-guidance.html",
+        "file_path_json": "posts/industry-guidance.json"
       },
       {
         "id": 5265,
@@ -628,7 +714,9 @@
         ],
         "tags": [
           "fragment"
-        ]
+        ],
+        "file_path_html": "posts/industry-guidance-in-other-languages-links-fragment.html",
+        "file_path_json": "posts/industry-guidance-in-other-languages-links-fragment.json"
       },
       {
         "id": 10891,
@@ -643,7 +731,9 @@
         "tags": [
           "do-not-crawl",
           "staging-only"
-        ]
+        ],
+        "file_path_html": "posts/industry-guidance-search.html",
+        "file_path_json": "posts/industry-guidance-search.json"
       },
       {
         "id": 2997,
@@ -657,7 +747,9 @@
         ],
         "tags": [
           "translate"
-        ]
+        ],
+        "file_path_html": "posts/masks-and-ppe.html",
+        "file_path_json": "posts/masks-and-ppe.json"
       },
       {
         "id": 7484,
@@ -672,7 +764,9 @@
         "tags": [
           "table-data",
           "translate"
-        ]
+        ],
+        "file_path_html": "posts/menu-links.html",
+        "file_path_json": "posts/menu-links.json"
       },
       {
         "id": 4363,
@@ -686,7 +780,9 @@
         ],
         "tags": [
           "translate"
-        ]
+        ],
+        "file_path_html": "posts/more-ways-to-help.html",
+        "file_path_json": "posts/more-ways-to-help.json"
       },
       {
         "id": 1392,
@@ -701,7 +797,9 @@
         "tags": [
           "fragment",
           "translate"
-        ]
+        ],
+        "file_path_html": "posts/new.html",
+        "file_path_json": "posts/new.json"
       },
       {
         "id": 6044,
@@ -715,7 +813,9 @@
         ],
         "tags": [
           "do-not-crawl"
-        ]
+        ],
+        "file_path_html": "posts/notify-privacy.html",
+        "file_path_json": "posts/notify-privacy.json"
       },
       {
         "id": 1933,
@@ -729,7 +829,9 @@
         ],
         "tags": [
           "table-data"
-        ]
+        ],
+        "file_path_html": "posts/page-redirect-table.html",
+        "file_path_json": "posts/page-redirect-table.json"
       },
       {
         "id": 5143,
@@ -743,7 +845,9 @@
         ],
         "tags": [
           "table-data"
-        ]
+        ],
+        "file_path_html": "posts/people-want-to-know.html",
+        "file_path_json": "posts/people-want-to-know.json"
       },
       {
         "id": 5591,
@@ -758,7 +862,9 @@
         "tags": [
           "table-data",
           "translate"
-        ]
+        ],
+        "file_path_html": "posts/reopening-matrix-data.html",
+        "file_path_json": "posts/reopening-matrix-data.json"
       },
       {
         "id": 5567,
@@ -773,7 +879,9 @@
         "tags": [
           "table-data",
           "translate"
-        ]
+        ],
+        "file_path_html": "posts/reopening-roadmap-activity-data.html",
+        "file_path_json": "posts/reopening-roadmap-activity-data.json"
       },
       {
         "id": 839,
@@ -787,7 +895,9 @@
         ],
         "tags": [
           "translate"
-        ]
+        ],
+        "file_path_html": "posts/resources-for-emotional-support-and-well-being.html",
+        "file_path_json": "posts/resources-for-emotional-support-and-well-being.json"
       },
       {
         "id": 7402,
@@ -802,7 +912,9 @@
         "tags": [
           "do-not-crawl",
           "table-data"
-        ]
+        ],
+        "file_path_html": "posts/rsho.html",
+        "file_path_json": "posts/rsho.json"
       },
       {
         "id": 5563,
@@ -816,7 +928,9 @@
         ],
         "tags": [
           "translate"
-        ]
+        ],
+        "file_path_html": "posts/safer-economy.html",
+        "file_path_json": "posts/safer-economy.json"
       },
       {
         "id": 7535,
@@ -831,7 +945,9 @@
         "tags": [
           "table-data",
           "translate"
-        ]
+        ],
+        "file_path_html": "posts/safer-economy-lang.html",
+        "file_path_json": "posts/safer-economy-lang.json"
       },
       {
         "id": 6854,
@@ -846,7 +962,9 @@
         "tags": [
           "do-not-crawl",
           "staging-only"
-        ]
+        ],
+        "file_path_html": "posts/sample.html",
+        "file_path_json": "posts/sample.json"
       },
       {
         "id": 6422,
@@ -861,7 +979,9 @@
         "tags": [
           "table-data",
           "translate"
-        ]
+        ],
+        "file_path_html": "posts/schools-may-reopen-in-these-counties.html",
+        "file_path_json": "posts/schools-may-reopen-in-these-counties.json"
       },
       {
         "id": 4164,
@@ -876,7 +996,9 @@
         "tags": [
           "do-not-crawl",
           "translate"
-        ]
+        ],
+        "file_path_html": "posts/search.html",
+        "file_path_json": "posts/search.json"
       },
       {
         "id": 4279,
@@ -890,7 +1012,9 @@
         ],
         "tags": [
           "translate"
-        ]
+        ],
+        "file_path_html": "posts/sign-up-for-county-alerts.html",
+        "file_path_json": "posts/sign-up-for-county-alerts.json"
       },
       {
         "id": 11040,
@@ -902,7 +1026,9 @@
         "categories": [
           "Uncategorized"
         ],
-        "tags": []
+        "tags": [],
+        "file_path_html": "posts/state-dashboard.html",
+        "file_path_json": "posts/state-dashboard.json"
       },
       {
         "id": 432,
@@ -916,7 +1042,9 @@
         ],
         "tags": [
           "translate"
-        ]
+        ],
+        "file_path_html": "posts/stay-home-except-for-essential-needs.html",
+        "file_path_json": "posts/stay-home-except-for-essential-needs.json"
       },
       {
         "id": 621,
@@ -930,7 +1058,9 @@
         ],
         "tags": [
           "translate"
-        ]
+        ],
+        "file_path_html": "posts/symptoms-and-risks.html",
+        "file_path_json": "posts/symptoms-and-risks.json"
       },
       {
         "id": 5483,
@@ -945,7 +1075,9 @@
         "tags": [
           "do-not-crawl",
           "staging-only"
-        ]
+        ],
+        "file_path_html": "posts/tableau-testing.html",
+        "file_path_json": "posts/tableau-testing.json"
       },
       {
         "id": 4228,
@@ -959,7 +1091,9 @@
         ],
         "tags": [
           "translate"
-        ]
+        ],
+        "file_path_html": "posts/translate.html",
+        "file_path_json": "posts/translate.json"
       },
       {
         "id": 7858,
@@ -973,7 +1107,9 @@
         ],
         "tags": [
           "translate"
-        ]
+        ],
+        "file_path_html": "posts/travel.html",
+        "file_path_json": "posts/travel.json"
       },
       {
         "id": 6518,
@@ -989,7 +1125,9 @@
           "do-not-crawl",
           "table-data",
           "translate"
-        ]
+        ],
+        "file_path_html": "posts/updates-section-homepage.html",
+        "file_path_json": "posts/updates-section-homepage.json"
       },
       {
         "id": 5932,
@@ -1004,7 +1142,9 @@
         "tags": [
           "do-not-crawl",
           "staging-only"
-        ]
+        ],
+        "file_path_html": "posts/v1-state-dashboard.html",
+        "file_path_json": "posts/v1-state-dashboard.json"
       },
       {
         "id": 8386,
@@ -1019,7 +1159,9 @@
         "tags": [
           "do-not-crawl",
           "staging-only"
-        ]
+        ],
+        "file_path_html": "posts/v2-state-dashboard.html",
+        "file_path_json": "posts/v2-state-dashboard.json"
       },
       {
         "id": 11214,
@@ -1033,7 +1175,9 @@
         ],
         "tags": [
           "translate"
-        ]
+        ],
+        "file_path_html": "posts/vaccination-progress-data.html",
+        "file_path_json": "posts/vaccination-progress-data.json"
       },
       {
         "id": 7006,
@@ -1047,7 +1191,9 @@
         ],
         "tags": [
           "translate"
-        ]
+        ],
+        "file_path_html": "posts/vaccines.html",
+        "file_path_json": "posts/vaccines.json"
       },
       {
         "id": 8655,
@@ -1061,7 +1207,9 @@
         ],
         "tags": [
           "do-not-crawl"
-        ]
+        ],
+        "file_path_html": "posts/vaccines-live-chat-test.html",
+        "file_path_json": "posts/vaccines-live-chat-test.json"
       },
       {
         "id": 12592,
@@ -1075,7 +1223,9 @@
         ],
         "tags": [
           "translate"
-        ]
+        ],
+        "file_path_html": "posts/vax-for-the-win.html",
+        "file_path_json": "posts/vax-for-the-win.json"
       },
       {
         "id": 7482,
@@ -1090,7 +1240,9 @@
         "tags": [
           "table-data",
           "translate"
-        ]
+        ],
+        "file_path_html": "posts/video-section.html",
+        "file_path_json": "posts/video-section.json"
       },
       {
         "id": 3930,
@@ -1104,7 +1256,9 @@
         ],
         "tags": [
           "do-not-crawl"
-        ]
+        ],
+        "file_path_html": "posts/what-is-open-where.html",
+        "file_path_json": "posts/what-is-open-where.json"
       },
       {
         "id": 722,
@@ -1118,7 +1272,9 @@
         ],
         "tags": [
           "translate"
-        ]
+        ],
+        "file_path_html": "posts/workers.html",
+        "file_path_json": "posts/workers.json"
       }
     ]
   }
