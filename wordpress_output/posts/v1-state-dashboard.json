@@ -1,5 +1,7 @@
 {
-  "meta": {},
+  "meta": {
+    "created_date": "2020-09-10T17:13:43"
+  },
   "data": {
     "id": 5932,
     "slug": "v1-state-dashboard",
