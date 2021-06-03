@@ -1,16 +1,18 @@
 {
-  "meta": {},
+  "meta": {
+    "created_date": "2020-04-23T16:26:23"
+  },
   "data": {
     "id": 1933,
     "slug": "page-redirect-table",
     "title": "Page Redirect Table",
     "author": "Carter Medlin",
     "date_gmt": "2020-04-23T16:26:23",
-    "modified_gmt": "2021-06-03T16:17:07",
+    "modified_gmt": "2021-06-03T18:13:48",
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/23/page-redirect-table/",
     "file_path_html": "posts/page-redirect-table.html",
     "file_path_json": "posts/page-redirect-table.json",
-    "excerpt": "<p>Use this table to inform the system that page redirects should happen. Leave &#8220;replacement_url&#8221; blank if the page is permanently removed, and has no direct replacement. Keep leading slashes (/) for relative links. Keep trailing slashes (/) for folders. Put &#8220;https://&#8221; in front of absolute links. original_url replacement_url /v1-state-dashboard/ /state-dashboard/ /v2-state-dashboard/ /state-dashboard/ /v3-state-dashboard/ /state-dashboard/ /charts-sandbox/ [&hellip;]</p>\n",
+    "excerpt": "<p>Use this table to inform the system that page redirects should happen. Leave &#8220;replacement_url&#8221; blank if the page is permanently removed, and has no direct replacement. Keep leading slashes (/) for relative links. Keep trailing slashes (/) for folders. Put &#8220;https://&#8221; in front of absolute links. original_url replacement_url /v1-state-dashboard/ /state-dashboard/ /v2-state-dashboard/ /state-dashboard/ /v3-state-dashboard/ /state-dashboard/ /v4-state-dashboard/ [&hellip;]</p>\n",
     "categories": [
       "Uncategorized"
     ],

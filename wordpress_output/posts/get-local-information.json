@@ -1,5 +1,7 @@
 {
-  "meta": {},
+  "meta": {
+    "created_date": "2020-03-13T22:27:00"
+  },
   "data": {
     "id": 54,
     "slug": "get-local-information",
