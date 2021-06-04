@@ -1,6 +1,10 @@
 {
   "meta": {
-    "created_date": "2020-09-14T19:06:01"
+    "created_date": "2020-09-14T19:06:01",
+    "updated_date": "2021-06-04T16:02:02",
+    "api_version": "v2",
+    "process_source": "https://github.com/cagov/cron",
+    "refresh_frequency": "as needed"
   },
   "data": {
     "id": 5984,
@@ -8,7 +12,7 @@
     "title": "Help for older adults",
     "author": "editor3",
     "date_gmt": "2020-09-14T19:06:01",
-    "modified_gmt": "2021-05-25T18:11:46",
+    "modified_gmt": "2021-06-04T16:02:02",
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/09/14/help-for-seniors/",
     "file_path_html": "posts/help-for-seniors.html",
     "file_path_json": "posts/help-for-seniors.json",
