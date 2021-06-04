@@ -1,6 +1,10 @@
 {
   "meta": {
-    "created_date": "2020-04-14T23:39:12"
+    "created_date": "2020-04-14T23:39:12",
+    "updated_date": "2020-07-10T23:58:07",
+    "api_version": "v2",
+    "process_source": "https://github.com/cagov/cron",
+    "refresh_frequency": "as needed"
   },
   "data": {
     "id": 1364,

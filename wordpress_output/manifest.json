@@ -556,22 +556,6 @@
         ]
       },
       {
-        "id": 6340,
-        "slug": "holidays",
-        "title": "Holidays and COVID-19",
-        "author": "Peggy Gartin",
-        "date_gmt": "2020-10-05T23:09:59",
-        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/10/05/holidays/",
-        "file_path_html": "posts/holidays.html",
-        "file_path_json": "posts/holidays.json",
-        "categories": [
-          "holidays"
-        ],
-        "tags": [
-          "translate"
-        ]
-      },
-      {
         "id": 1372,
         "slug": "home-header",
         "title": "home header",
