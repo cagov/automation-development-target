@@ -1,5 +1,11 @@
 {
-  "meta": {},
+  "meta": {
+    "created_date": "",
+    "updated_date": "",
+    "api_version": "v2",
+    "process_source": "https://github.com/cagov/cron",
+    "refresh_frequency": "as needed"
+  },
   "data": {
     "pages": [
       {
