@@ -3,7 +3,11 @@
     "created_date": "2021-05-06T23:26:50",
     "updated_date": "2021-05-26T21:39:35",
     "api_version": "v2",
-    "process_source": "https://github.com/cagov/cron",
+    "process": {
+      "source_code": "https://github.com/cagov/cron",
+      "source_data": "https://as-go-covid19-d-001.azurewebsites.net",
+      "deployment_target": "https://github.com/cagov/automation-development-target/tree/main/wordpress_output"
+    },
     "refresh_frequency": "as needed"
   },
   "data": {
