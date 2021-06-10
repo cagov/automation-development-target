@@ -3,7 +3,6 @@
     "api_version": "v2",
     "process": {
       "source_code": "https://github.com/cagov/cron",
-      "source_data": "https://as-go-covid19-d-001.azurewebsites.net",
       "deployment_target": "https://github.com/cagov/automation-development-target/tree/main/wordpress_output"
     },
     "refresh_frequency": "as needed"
@@ -1168,6 +1167,7 @@
           "vaccines"
         ],
         "tags": [
+          "staging-only",
           "translate"
         ]
       },
@@ -1200,6 +1200,7 @@
           "Vax for the Win"
         ],
         "tags": [
+          "staging-only",
           "translate"
         ]
       },

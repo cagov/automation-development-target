@@ -1,11 +1,10 @@
 {
   "meta": {
     "created_date": "2021-04-08T20:51:30",
-    "updated_date": "2021-06-09T03:21:59",
+    "updated_date": "2021-06-10T22:04:24",
     "api_version": "v2",
     "process": {
       "source_code": "https://github.com/cagov/cron",
-      "source_data": "https://as-go-covid19-d-001.azurewebsites.net",
       "deployment_target": "https://github.com/cagov/automation-development-target/tree/main/wordpress_output"
     },
     "refresh_frequency": "as needed"
@@ -16,7 +15,7 @@
     "title": "Vaccination progress data",
     "author": "Peggy Gartin",
     "date_gmt": "2021-04-08T20:51:30",
-    "modified_gmt": "2021-06-09T03:21:59",
+    "modified_gmt": "2021-06-10T22:04:24",
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2021/04/08/vaccination-progress-data/",
     "file_path_html": "posts/vaccination-progress-data.html",
     "file_path_json": "posts/vaccination-progress-data.json",
