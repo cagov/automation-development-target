@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2020-04-23T16:26:23",
-    "updated_date": "2021-06-04T00:05:47",
+    "updated_date": "2021-06-09T19:25:57",
     "api_version": "v2",
     "process": {
       "source_code": "https://github.com/cagov/cron",
@@ -16,7 +16,7 @@
     "title": "Page Redirect Table",
     "author": "Carter Medlin",
     "date_gmt": "2020-04-23T16:26:23",
-    "modified_gmt": "2021-06-04T00:05:47",
+    "modified_gmt": "2021-06-09T19:25:57",
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/23/page-redirect-table/",
     "file_path_html": "posts/page-redirect-table.html",
     "file_path_json": "posts/page-redirect-table.json",

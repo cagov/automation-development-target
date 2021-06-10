@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2020-10-19T19:47:18",
-    "updated_date": "2021-06-01T20:20:53",
+    "updated_date": "2021-06-05T00:35:52",
     "api_version": "v2",
     "process": {
       "source_code": "https://github.com/cagov/cron",
@@ -16,11 +16,11 @@
     "title": "updates section homepage",
     "author": "Peggy Gartin",
     "date_gmt": "2020-10-19T19:47:18",
-    "modified_gmt": "2021-06-01T20:20:53",
+    "modified_gmt": "2021-06-05T00:35:52",
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/10/19/updates-section-homepage/",
     "file_path_html": "posts/updates-section-homepage.html",
     "file_path_json": "posts/updates-section-homepage.json",
-    "excerpt": "<p>News title News content Link text link URL Get vaccinated and you could win $1.5 million! Getting your COVID-19 vaccine is not just the right thing to do — here in California, it&#8217;s rewarding. The Vax for the Win incentive program is giving vaccinated Californians a chance to win up to $1.5 million! Not vaxed? [&hellip;]</p>\n",
+    "excerpt": "<p>News title News content Link text link URL Vaccinated in California? You&#8217;re entered to win No matter when you were vaccinated for COVID-19, you’re automatically entered to win up to $1.5 million in California’s Vax for the Win. No entry form required! Giveaways start Friday June 4, when 15 people will win $50,000 each. Get [&hellip;]</p>\n",
     "categories": [
       "Uncategorized"
     ],

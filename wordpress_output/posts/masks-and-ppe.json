@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2020-05-11T16:40:15",
-    "updated_date": "2021-05-17T19:29:25",
+    "updated_date": "2021-06-09T21:43:35",
     "api_version": "v2",
     "process": {
       "source_code": "https://github.com/cagov/cron",
@@ -16,11 +16,11 @@
     "title": "Masks",
     "author": "editor3",
     "date_gmt": "2020-05-11T16:40:15",
-    "modified_gmt": "2021-05-17T19:29:25",
+    "modified_gmt": "2021-06-09T21:43:35",
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/05/11/masks-and-ppe/",
     "file_path_html": "posts/masks-and-ppe.html",
     "file_path_json": "posts/masks-and-ppe.json",
-    "excerpt": "<p>California will align its mask guidance with CDC’s on June 15, 2021 California will keep existing mask guidance in place until June 15 when it aims to fully reopen the economy. After that, the state plans to allow fully-vaccinated Californians to go without a mask in most indoor settings. You will still have the option [&hellip;]</p>\n",
+    "excerpt": "<p>California to align its mask guidance with CDC’s effective June 15, 2021 California issued Guidance for the Use of Face Coverings to align with CDC recommendations. This guidance provides information about where masks may still be required or recommended. Our goal is to prevent transmission to people with a higher risk of infection, those with [&hellip;]</p>\n",
     "categories": [
       "masks and PPE"
     ],

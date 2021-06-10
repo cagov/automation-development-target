@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2020-12-07T20:09:53",
-    "updated_date": "2021-06-04T15:48:56",
+    "updated_date": "2021-06-04T23:54:59",
     "api_version": "v2",
     "process": {
       "source_code": "https://github.com/cagov/cron",
@@ -16,11 +16,11 @@
     "title": "Video Section",
     "author": "Michael Sullivan",
     "date_gmt": "2020-12-07T20:09:53",
-    "modified_gmt": "2021-06-04T15:48:56",
+    "modified_gmt": "2021-06-04T23:54:59",
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/12/07/video-section/",
     "file_path_html": "posts/video-section.html",
     "file_path_json": "posts/video-section.json",
-    "excerpt": "<p>Active Video Title Description VideoURL VideoID ImageURL ImageALT ButtonText ButtonURL Let&#8217;s get you there It’s all right for it to take whatever it takes for you to be ready. Let’s get you there. Let’s get to immunity. https://youtu.be/eyhaxTinO8c eyhaxTinO8c https://files.covid19.ca.gov/img/lets-get-you-there.jpg Let&#8217;s get you there Visit Vaccinate ALL 58 https://vaccinateall58.com X Live June 4 at 10:00 [&hellip;]</p>\n",
+    "excerpt": "<p>Active Video Title Description VideoURL VideoID ImageURL ImageALT ButtonText ButtonURL X Let&#8217;s get you there It’s all right for it to take whatever it takes for you to be ready. Let’s get you there. Let’s get to immunity. https://youtu.be/eyhaxTinO8c eyhaxTinO8c https://files.covid19.ca.gov/img/lets-get-you-there.jpg Let&#8217;s get you there Visit Vaccinate ALL 58 https://vaccinateall58.com Live June 4 at 10:00 [&hellip;]</p>\n",
     "categories": [
       "Uncategorized"
     ],

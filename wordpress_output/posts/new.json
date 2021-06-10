@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2020-04-15T16:23:16",
-    "updated_date": "2021-06-01T20:20:57",
+    "updated_date": "2021-06-09T21:43:59",
     "api_version": "v2",
     "process": {
       "source_code": "https://github.com/cagov/cron",
@@ -16,11 +16,11 @@
     "title": "new",
     "author": "Peggy Gartin",
     "date_gmt": "2020-04-15T16:23:16",
-    "modified_gmt": "2021-06-01T20:20:57",
+    "modified_gmt": "2021-06-09T21:43:59",
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/15/new/",
     "file_path_html": "posts/new.html",
     "file_path_json": "posts/new.json",
-    "excerpt": "<p>Vaccinated in California? You&#8217;re entered to win No matter when you were vaccinated for COVID-19, you’re automatically entered to win up to $1.5 million in California’s Vax for the Win. No entry form required! Giveaways start Friday June 4, when 15 people will win $50,000 each. Get the details</p>\n",
+    "excerpt": "<p>California to align its mask guidance with CDC’s effective June 15, 2021 California issued Guidance for the Use of Face Coverings to align with CDC recommendations. This guidance provides information about where masks may still be required or recommended. Learn more</p>\n",
     "categories": [
       "homepage new"
     ],

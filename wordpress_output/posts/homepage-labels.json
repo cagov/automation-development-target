@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2021-04-02T17:05:03",
-    "updated_date": "2021-06-02T21:21:40",
+    "updated_date": "2021-06-07T19:56:58",
     "api_version": "v2",
     "process": {
       "source_code": "https://github.com/cagov/cron",
@@ -16,7 +16,7 @@
     "title": "homepage labels",
     "author": "Aaron Hans",
     "date_gmt": "2021-04-02T17:05:03",
-    "modified_gmt": "2021-06-02T21:21:40",
+    "modified_gmt": "2021-06-07T19:56:58",
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2021/04/02/homepage-labels/",
     "file_path_html": "posts/homepage-labels.html",
     "file_path_json": "posts/homepage-labels.json",

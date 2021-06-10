@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2020-04-07T02:12:34",
-    "updated_date": "2021-06-02T17:58:42",
+    "updated_date": "2021-06-09T00:37:54",
     "api_version": "v2",
     "process": {
       "source_code": "https://github.com/cagov/cron",
@@ -16,7 +16,7 @@
     "title": "Resources for emotional support and well-being",
     "author": "editor3",
     "date_gmt": "2020-04-07T02:12:34",
-    "modified_gmt": "2021-06-02T17:58:42",
+    "modified_gmt": "2021-06-09T00:37:54",
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/07/resources-for-emotional-support-and-well-being/",
     "file_path_html": "posts/resources-for-emotional-support-and-well-being.html",
     "file_path_json": "posts/resources-for-emotional-support-and-well-being.json",

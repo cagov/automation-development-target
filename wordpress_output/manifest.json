@@ -104,7 +104,7 @@
           "business and employers"
         ],
         "tags": [
-          "translate"
+          "staging-only"
         ]
       },
       {
@@ -486,7 +486,7 @@
       {
         "id": 54,
         "slug": "get-local-information",
-        "title": "Local info and alerts",
+        "title": "Hotlines and local info",
         "author": "Peggy Gartin",
         "date_gmt": "2020-03-13T22:27:00",
         "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/03/13/get-local-information/",
@@ -757,22 +757,6 @@
         ],
         "tags": [
           "table-data",
-          "translate"
-        ]
-      },
-      {
-        "id": 4363,
-        "slug": "more-ways-to-help",
-        "title": "More ways to help",
-        "author": "Peggy Gartin",
-        "date_gmt": "2020-06-23T20:57:47",
-        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/06/23/more-ways-to-help/",
-        "file_path_html": "posts/more-ways-to-help.html",
-        "file_path_json": "posts/more-ways-to-help.json",
-        "categories": [
-          "more ways to help"
-        ],
-        "tags": [
           "translate"
         ]
       },
