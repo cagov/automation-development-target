@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2020-04-15T16:23:16",
-    "updated_date": "2021-06-09T21:43:59",
+    "updated_date": "2021-06-11T21:09:45",
     "api_version": "v2",
     "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
     "process": {
@@ -17,13 +17,13 @@
     "title": "new",
     "author": "Peggy Gartin",
     "date": "2020-04-15T16:23:16",
-    "modified": "2021-06-09T21:43:59",
+    "modified": "2021-06-11T21:09:45",
     "date_gmt": "2020-04-15T16:23:16",
-    "modified_gmt": "2021-06-09T21:43:59",
+    "modified_gmt": "2021-06-11T21:09:45",
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/15/new/",
     "file_path_html": "posts/new.html",
     "file_path_json": "posts/new.json",
-    "excerpt": "<p>California to align its mask guidance with CDC’s effective June 15, 2021 California issued Guidance for the Use of Face Coverings to align with CDC recommendations. This guidance provides information about where masks may still be required or recommended. Learn more</p>\n",
+    "excerpt": "<p>Governor to end COVID-19 restrictions on activities and businesses June 15 The California economy will fully reopen on Tuesday – no more physical distancing, no more capacity limits on businesses, no more county tiers, and relaxed mask guidance. Find out more</p>\n",
     "categories": [
       "homepage new"
     ],

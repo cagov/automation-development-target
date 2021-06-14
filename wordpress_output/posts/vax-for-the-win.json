@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2021-05-23T17:03:11",
-    "updated_date": "2021-06-10T22:30:51",
+    "updated_date": "2021-06-14T15:39:18",
     "api_version": "v2",
     "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
     "process": {
@@ -17,13 +17,13 @@
     "title": "Vax for the Win",
     "author": "Peggy Gartin",
     "date": "2021-05-23T17:03:11",
-    "modified": "2021-06-10T22:30:51",
+    "modified": "2021-06-14T15:39:18",
     "date_gmt": "2021-05-23T17:03:11",
-    "modified_gmt": "2021-06-10T22:30:51",
+    "modified_gmt": "2021-06-14T15:39:18",
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2021/05/23/vax-for-the-win/",
     "file_path_html": "posts/vax-for-the-win.html",
     "file_path_json": "posts/vax-for-the-win.json",
-    "excerpt": "<p>Countdown to reopening June 15 days hrs min sec Vax for the Win California’s vaccine incentive program Get vaccinated, get rewarded Are you already vaccinated or about to be? Great! You’ll have a chance at winning $50,000 or a grand prize of $1.5 million! Not yet vaccinated against COVID-19? Get vaccinated as soon as possible [&hellip;]</p>\n",
+    "excerpt": "<p>Countdown to reopening June 15 days hrs min sec Vax for the Win California’s vaccine incentive program Get vaccinated, get rewarded Are you already vaccinated or about to be? Great! You’ll have a chance at winning a dream vacation, $50,000 or a grand prize of $1.5 million! Not yet vaccinated against COVID-19? Get vaccinated as [&hellip;]</p>\n",
     "categories": [
       "Vax for the Win"
     ],

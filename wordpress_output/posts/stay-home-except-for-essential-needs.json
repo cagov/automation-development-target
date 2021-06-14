@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2020-03-20T01:01:15",
-    "updated_date": "2021-06-01T21:19:21",
+    "updated_date": "2021-06-11T21:09:05",
     "api_version": "v2",
     "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
     "process": {
@@ -17,9 +17,9 @@
     "title": "About COVID-19 restrictions",
     "author": "Peggy Gartin",
     "date": "2020-03-20T01:01:15",
-    "modified": "2021-06-01T21:19:21",
+    "modified": "2021-06-11T21:09:05",
     "date_gmt": "2020-03-20T01:01:15",
-    "modified_gmt": "2021-06-01T21:19:21",
+    "modified_gmt": "2021-06-11T21:09:05",
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/03/20/stay-home-except-for-essential-needs/",
     "file_path_html": "posts/stay-home-except-for-essential-needs.html",
     "file_path_json": "posts/stay-home-except-for-essential-needs.json",

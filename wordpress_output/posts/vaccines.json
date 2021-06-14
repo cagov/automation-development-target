@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2020-11-17T15:07:35",
-    "updated_date": "2021-06-10T18:34:57",
+    "updated_date": "2021-06-14T15:47:22",
     "api_version": "v2",
     "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
     "process": {
@@ -17,9 +17,9 @@
     "title": "Vaccines",
     "author": "editor3",
     "date": "2020-11-17T15:07:35",
-    "modified": "2021-06-10T18:34:57",
+    "modified": "2021-06-14T15:47:22",
     "date_gmt": "2020-11-17T15:07:35",
-    "modified_gmt": "2021-06-10T18:34:57",
+    "modified_gmt": "2021-06-14T15:47:22",
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/11/17/vaccines/",
     "file_path_html": "posts/vaccines.html",
     "file_path_json": "posts/vaccines.json",

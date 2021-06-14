@@ -100,7 +100,7 @@
       {
         "id": 725,
         "slug": "business-and-employers",
-        "title": "Businesses and employers",
+        "title": "Workers and businesses",
         "author": "angieq",
         "date": "2020-04-02T17:33:49",
         "date_gmt": "2020-04-02T17:33:49",
@@ -392,6 +392,24 @@
         "tags": [
           "lang-zh-Hant",
           "table-data"
+        ]
+      },
+      {
+        "id": 13038,
+        "slug": "dream-vacations-terms",
+        "title": "Vax for the Win &#8211; Dream Vacations",
+        "author": "Peggy Gartin",
+        "date": "2021-06-14T15:24:09",
+        "date_gmt": "2021-06-14T15:24:09",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2021/06/14/dream-vacations-terms/",
+        "file_path_html": "posts/dream-vacations-terms.html",
+        "file_path_json": "posts/dream-vacations-terms.json",
+        "categories": [
+          "Vax for the Win"
+        ],
+        "tags": [
+          "staging-only",
+          "translate"
         ]
       },
       {
@@ -950,7 +968,7 @@
       {
         "id": 5563,
         "slug": "safer-economy",
-        "title": "Blueprint for a Safer Economy",
+        "title": "Safely reopening",
         "author": "editor3",
         "date": "2020-08-26T05:25:37",
         "date_gmt": "2020-08-26T05:25:37",
@@ -961,7 +979,7 @@
           "Uncategorized"
         ],
         "tags": [
-          "translate"
+          "staging-only"
         ]
       },
       {
