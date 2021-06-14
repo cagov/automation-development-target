@@ -804,6 +804,7 @@
           "masks and PPE"
         ],
         "tags": [
+          "staging-only",
           "translate"
         ]
       },
