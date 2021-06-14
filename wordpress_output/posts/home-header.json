@@ -23,13 +23,13 @@
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/14/home-header/",
     "file_path_html": "posts/home-header.html",
     "file_path_json": "posts/home-header.json",
-    "excerpt": "<p>N/A</p>\n",
     "categories": [
       "home header"
     ],
     "tags": [
       "fragment",
       "translate"
-    ]
+    ],
+    "excerpt": "<p>N/A</p>\n"
   }
 }

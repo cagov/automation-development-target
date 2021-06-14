@@ -23,12 +23,12 @@
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/06/17/sign-up-for-county-alerts/",
     "file_path_html": "posts/sign-up-for-county-alerts.html",
     "file_path_json": "posts/sign-up-for-county-alerts.json",
-    "excerpt": "<p>Sign up for local emergency alerts.</p>\n",
     "categories": [
       "Uncategorized"
     ],
     "tags": [
       "translate"
-    ]
+    ],
+    "excerpt": "<p>Sign up for local emergency alerts.</p>\n"
   }
 }

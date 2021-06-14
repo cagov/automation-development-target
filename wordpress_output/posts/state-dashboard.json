@@ -23,12 +23,12 @@
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2021/04/05/state-dashboard/",
     "file_path_html": "posts/state-dashboard.html",
     "file_path_json": "posts/state-dashboard.json",
-    "excerpt": "<p>Update for {{_varStatDate_}} As of {{_varStatDateNoYear_}}, California has {{_varStatTotalCases_}} confirmed cases of COVID-19, resulting in {{_varStatTotalDeaths_}} deaths. Cases {{_varStatTotalCases_}} total {{_varStatTotalCasesToday_}} today {{_varStatNewCasesPer100k_}} new cases per 100K Deaths {{_varStatTotalDeaths_}} total {{_varStatTotalDeathsToday_}} today {{_varStatNewDeathsPer100k_}} new deaths per 100K Tests {{_varStatTested_}} total {{_varStatTestedDaily_}} today {{_varStatLatestPositivityPct_}}% test positivity Vaccines Administered {{_varStatVaccines_}} total {# {{_varStatVaccinesDaily_}} today {{_varStatVaccinesDailyPct_}}% increase #} [&hellip;]</p>\n",
     "categories": [
       "Uncategorized"
     ],
     "tags": [
       "staging-only"
-    ]
+    ],
+    "excerpt": "<p>Update for {{_varStatDate_}} As of {{_varStatDateNoYear_}}, California has {{_varStatTotalCases_}} confirmed cases of COVID-19, resulting in {{_varStatTotalDeaths_}} deaths. Cases {{_varStatTotalCases_}} total {{_varStatTotalCasesToday_}} today {{_varStatNewCasesPer100k_}} new cases per 100K Deaths {{_varStatTotalDeaths_}} total {{_varStatTotalDeathsToday_}} today {{_varStatNewDeathsPer100k_}} new deaths per 100K Tests {{_varStatTested_}} total {{_varStatTestedDaily_}} today {{_varStatLatestPositivityPct_}}% test positivity Vaccines Administered {{_varStatVaccines_}} total {# {{_varStatVaccinesDaily_}} today {{_varStatVaccinesDailyPct_}}% increase #} [&hellip;]</p>\n"
   }
 }

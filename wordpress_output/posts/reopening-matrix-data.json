@@ -23,13 +23,13 @@
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/08/27/reopening-matrix-data/",
     "file_path_html": "posts/reopening-matrix-data.html",
     "file_path_json": "posts/reopening-matrix-data.json",
-    "excerpt": "<p>This data is used to populate the matrix on this page&#8230;https://covid19.ca.gov/safer-economy/Every column without a &#8220;_&#8221; will be translated. Table1: Less than 2 million people vaccinated in HPI Quartile 1 County tier colorLabel _Color label New cases Positive tests description Positive-heq Minimal Yellow Yellow Less than 1.0 daily new cases (per 100k)* Less than 2.0% positive [&hellip;]</p>\n",
     "categories": [
       "Uncategorized"
     ],
     "tags": [
       "table-data",
       "translate"
-    ]
+    ],
+    "excerpt": "<p>This data is used to populate the matrix on this page&#8230;https://covid19.ca.gov/safer-economy/Every column without a &#8220;_&#8221; will be translated. Table1: Less than 2 million people vaccinated in HPI Quartile 1 County tier colorLabel _Color label New cases Positive tests description Positive-heq Minimal Yellow Yellow Less than 1.0 daily new cases (per 100k)* Less than 2.0% positive [&hellip;]</p>\n"
   }
 }

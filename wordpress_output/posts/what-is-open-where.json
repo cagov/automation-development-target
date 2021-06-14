@@ -23,12 +23,12 @@
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/06/04/what-is-open-where/",
     "file_path_html": "posts/what-is-open-where.html",
     "file_path_json": "posts/what-is-open-where.json",
-    "excerpt": "<p>Open businesses vary by county. See what&#8217;s open or closed in your area.</p>\n",
     "categories": [
       "whats open"
     ],
     "tags": [
       "do-not-crawl"
-    ]
+    ],
+    "excerpt": "<p>Open businesses vary by county. See what&#8217;s open or closed in your area.</p>\n"
   }
 }

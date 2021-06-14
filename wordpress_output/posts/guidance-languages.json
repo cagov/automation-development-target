@@ -23,12 +23,12 @@
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/08/04/guidance-languages/",
     "file_path_html": "posts/guidance-languages.html",
     "file_path_json": "posts/guidance-languages.json",
-    "excerpt": "<p>The industry guidance below has been translated into Arabic, Armenian, simplified Chinese, traditional Chinese, Hmong, Khmer, Korean, Punjabi, Russian, Spanish, Tagalog, Thai, and Vietnamese.</p>\n",
     "categories": [
       "Industry guidance"
     ],
     "tags": [
       "date"
-    ]
+    ],
+    "excerpt": "<p>The industry guidance below has been translated into Arabic, Armenian, simplified Chinese, traditional Chinese, Hmong, Khmer, Korean, Punjabi, Russian, Spanish, Tagalog, Thai, and Vietnamese.</p>\n"
   }
 }

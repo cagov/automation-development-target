@@ -23,7 +23,6 @@
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/10/19/updates-section-homepage/",
     "file_path_html": "posts/updates-section-homepage.html",
     "file_path_json": "posts/updates-section-homepage.json",
-    "excerpt": "<p>News title News content Link text link URL Governor to end COVID-19 restrictions on activities and businesses June 15 The California economy will fully reopen on Tuesday – no more physical distancing, no more capacity limits on businesses, no more county tiers, and relaxed mask guidance. Find out more https://covid19.ca.gov/stay-home-except-for-essential-needs/ California to align its mask [&hellip;]</p>\n",
     "categories": [
       "Uncategorized"
     ],
@@ -31,6 +30,7 @@
       "do-not-crawl",
       "table-data",
       "translate"
-    ]
+    ],
+    "excerpt": "<p>News title News content Link text link URL Governor to end COVID-19 restrictions on activities and businesses June 15 The California economy will fully reopen on Tuesday – no more physical distancing, no more capacity limits on businesses, no more county tiers, and relaxed mask guidance. Find out more https://covid19.ca.gov/stay-home-except-for-essential-needs/ California to align its mask [&hellip;]</p>\n"
   }
 }
