@@ -823,6 +823,7 @@
           "Uncategorized"
         ],
         "tags": [
+          "staging-only",
           "table-data",
           "translate"
         ]
