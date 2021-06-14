@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2021-06-14T15:24:09",
-    "updated_date": "2021-06-14T15:29:10",
+    "updated_date": "2021-06-14T16:09:23",
     "api_version": "v2",
     "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
     "process": {
@@ -17,9 +17,9 @@
     "title": "Vax for the Win &#8211; Dream Vacations",
     "author": "Peggy Gartin",
     "date": "2021-06-14T15:24:09",
-    "modified": "2021-06-14T15:29:10",
+    "modified": "2021-06-14T16:09:23",
     "date_gmt": "2021-06-14T15:24:09",
-    "modified_gmt": "2021-06-14T15:29:10",
+    "modified_gmt": "2021-06-14T16:09:23",
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2021/06/14/dream-vacations-terms/",
     "file_path_html": "posts/dream-vacations-terms.html",
     "file_path_json": "posts/dream-vacations-terms.json",
@@ -28,7 +28,6 @@
       "Vax for the Win"
     ],
     "tags": [
-      "staging-only",
       "translate"
     ]
   }
