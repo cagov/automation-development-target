@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2021-05-23T17:03:11",
-    "updated_date": "2021-06-14T16:18:02",
+    "updated_date": "2021-06-14T21:43:35",
     "api_version": "v2",
     "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
     "process": {
@@ -17,9 +17,9 @@
     "title": "Vax for the Win",
     "author": "Peggy Gartin",
     "date": "2021-05-23T17:03:11",
-    "modified": "2021-06-14T16:18:02",
+    "modified": "2021-06-14T21:43:35",
     "date_gmt": "2021-05-23T17:03:11",
-    "modified_gmt": "2021-06-14T16:18:02",
+    "modified_gmt": "2021-06-14T21:43:35",
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2021/05/23/vax-for-the-win/",
     "file_path_html": "posts/vax-for-the-win.html",
     "file_path_json": "posts/vax-for-the-win.json",
@@ -28,6 +28,7 @@
       "Vax for the Win"
     ],
     "tags": [
+      "staging-only",
       "translate"
     ]
   }
