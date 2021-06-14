@@ -1084,7 +1084,9 @@
         "categories": [
           "Uncategorized"
         ],
-        "tags": []
+        "tags": [
+          "staging-only"
+        ]
       },
       {
         "id": 432,
