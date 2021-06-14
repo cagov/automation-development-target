@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2020-12-07T20:41:27",
-    "updated_date": "2021-06-14T21:29:52",
+    "updated_date": "2021-06-14T22:24:00",
     "api_version": "v2",
     "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
     "process": {
@@ -17,20 +17,19 @@
     "title": "Menu Links",
     "author": "Michael Sullivan",
     "date": "2020-12-07T20:41:27",
-    "modified": "2021-06-14T21:29:52",
+    "modified": "2021-06-14T22:24:00",
     "date_gmt": "2020-12-07T20:41:27",
-    "modified_gmt": "2021-06-14T21:29:52",
+    "modified_gmt": "2021-06-14T22:24:00",
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/12/07/menu-links/",
     "file_path_html": "posts/menu-links.html",
     "file_path_json": "posts/menu-links.json",
-    "excerpt": "<p>Use this to set up the menu structure. _section_index label 1 Fighting COVID-19 2 Reopening California 3 Services 4 California&#8217;s response Sections _section_index label _slug_or_url 1 Vaccines vaccines 1 Vax for the Win vax-for-the-win 1 Testing get-tested 1 Tracking COVID-19 in California state-dashboard 1 Vaccination progress data vaccination-progress-data 1 Masks masks-and-ppe 1 Contact tracing contact-tracing [&hellip;]</p>\n",
+    "excerpt": "<p>Use this to set up the menu structure. _section_index label 1 Reopening California 2 Fighting COVID-19 3 California&#8217;s response 4 Services Sections _section_index label _slug_or_url 1 Reopening California reopening-california 1 Travel travel 2 Vaccines vaccines 2 Vax for the Win vax-for-the-win 2 Testing get-tested 2 Tracking COVID-19 in California state-dashboard 2 Vaccination progress data vaccination-progress-data [&hellip;]</p>\n",
     "categories": [
       "Uncategorized"
     ],
     "tags": [
       "staging-only",
-      "table-data",
-      "translate"
+      "table-data"
     ]
   }
 }
