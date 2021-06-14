@@ -648,6 +648,7 @@
         ],
         "tags": [
           "fragment",
+          "staging-only",
           "translate"
         ]
       },
