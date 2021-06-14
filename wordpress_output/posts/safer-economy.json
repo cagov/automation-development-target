@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2020-08-26T05:25:37",
-    "updated_date": "2021-06-14T22:46:01",
+    "updated_date": "2021-06-14T23:13:30",
     "api_version": "v2",
     "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
     "process": {
@@ -17,9 +17,9 @@
     "title": "Safely reopening",
     "author": "editor3",
     "date": "2020-08-26T05:25:37",
-    "modified": "2021-06-14T22:46:01",
+    "modified": "2021-06-14T23:13:30",
     "date_gmt": "2020-08-26T05:25:37",
-    "modified_gmt": "2021-06-14T22:46:01",
+    "modified_gmt": "2021-06-14T23:13:30",
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/08/26/safer-economy/",
     "file_path_html": "posts/safer-economy.html",
     "file_path_json": "posts/safer-economy.json",
