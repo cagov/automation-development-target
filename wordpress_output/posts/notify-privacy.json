@@ -23,12 +23,12 @@
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/09/17/notify-privacy/",
     "file_path_html": "posts/notify-privacy.html",
     "file_path_json": "posts/notify-privacy.json",
+    "excerpt": "<p>Privacy Policy Effective as of December 10, 2020 This Privacy Policy describes how the California Department of Public Health (CDPH) protects the privacy of people using the new exposure notification system – CA Notify. The policy explains how the data collected through CA Notify is stored and processed, and the choices available to the users [&hellip;]</p>\n",
     "categories": [
       "Uncategorized"
     ],
     "tags": [
       "do-not-crawl"
-    ],
-    "excerpt": "<p>Privacy Policy Effective as of December 10, 2020 This Privacy Policy describes how the California Department of Public Health (CDPH) protects the privacy of people using the new exposure notification system – CA Notify. The policy explains how the data collected through CA Notify is stored and processed, and the choices available to the users [&hellip;]</p>\n"
+    ]
   }
 }

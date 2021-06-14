@@ -23,12 +23,12 @@
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/15/food-resources/",
     "file_path_html": "posts/food-resources.html",
     "file_path_json": "posts/food-resources.json",
+    "excerpt": "<p>The coronavirus / COVID-19 outbreak has made it harder for Californians to get and afford groceries and prepared meals. This page lists food benefits and programs available to individuals, families, and seniors, including food stamps, school meals, and home delivery of prepared meals.</p>\n",
     "categories": [
       "getting food"
     ],
     "tags": [
       "translate"
-    ],
-    "excerpt": "<p>The coronavirus / COVID-19 outbreak has made it harder for Californians to get and afford groceries and prepared meals. This page lists food benefits and programs available to individuals, families, and seniors, including food stamps, school meals, and home delivery of prepared meals.</p>\n"
+    ]
   }
 }

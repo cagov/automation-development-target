@@ -23,13 +23,13 @@
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/14/cali-working/",
     "file_path_html": "posts/cali-working.html",
     "file_path_json": "posts/cali-working.json",
+    "excerpt": "<p>California is working around the clock to respond to COVID-19 See CA State actions</p>\n",
     "categories": [
       "cali working"
     ],
     "tags": [
       "fragment",
       "translate"
-    ],
-    "excerpt": "<p>California is working around the clock to respond to COVID-19 See CA State actions</p>\n"
+    ]
   }
 }

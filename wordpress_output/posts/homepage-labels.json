@@ -23,13 +23,13 @@
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2021/04/02/homepage-labels/",
     "file_path_html": "posts/homepage-labels.html",
     "file_path_json": "posts/homepage-labels.json",
+    "excerpt": "<p>strings used on the homepage _id text varLatestNews From the Governor’s Office varViewMoreNews View more news varStatsHeader Tracking COVID-19 in CA varTotalCases Cases varTotalDeaths Deaths varTestsReported Tests varPercentIncrease % increase varStateSummary State data varVaccination Vaccination progress varHealthEquity Health equity varHeroTitle Your actions save lives varHeroP1 Get vaxed for the win varHeroP2 Get vaccinated by June [&hellip;]</p>\n",
     "categories": [
       "Uncategorized"
     ],
     "tags": [
       "table-data",
       "translate"
-    ],
-    "excerpt": "<p>strings used on the homepage _id text varLatestNews From the Governor’s Office varViewMoreNews View more news varStatsHeader Tracking COVID-19 in CA varTotalCases Cases varTotalDeaths Deaths varTestsReported Tests varPercentIncrease % increase varStateSummary State data varVaccination Vaccination progress varHealthEquity Health equity varHeroTitle Your actions save lives varHeroP1 Get vaxed for the win varHeroP2 Get vaccinated by June [&hellip;]</p>\n"
+    ]
   }
 }

@@ -23,12 +23,12 @@
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/03/20/stay-home-except-for-essential-needs/",
     "file_path_html": "posts/stay-home-except-for-essential-needs.html",
     "file_path_json": "posts/stay-home-except-for-essential-needs.json",
+    "excerpt": "<p>Current guidance on coronavirus / COVID-19 stay home orders and restrictions in California. </p>\n",
     "categories": [
       "stay home"
     ],
     "tags": [
       "translate"
-    ],
-    "excerpt": "<p>Current guidance on coronavirus / COVID-19 stay home orders and restrictions in California. </p>\n"
+    ]
   }
 }

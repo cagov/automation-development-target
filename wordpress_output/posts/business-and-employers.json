@@ -23,12 +23,12 @@
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/02/business-and-employers/",
     "file_path_html": "posts/business-and-employers.html",
     "file_path_json": "posts/business-and-employers.json",
+    "excerpt": "<p>California is providing broad assistance to small businesses and employers impacted by coronavirus / COVID-19, including tax deferral, loan advances, paycheck protection, debt relief, and tax filing extensions.</p>\n",
     "categories": [
       "business and employers"
     ],
     "tags": [
       "staging-only"
-    ],
-    "excerpt": "<p>California is providing broad assistance to small businesses and employers impacted by coronavirus / COVID-19, including tax deferral, loan advances, paycheck protection, debt relief, and tax filing extensions.</p>\n"
+    ]
   }
 }

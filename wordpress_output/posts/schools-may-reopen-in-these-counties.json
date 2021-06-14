@@ -23,13 +23,13 @@
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/10/13/schools-may-reopen-in-these-counties/",
     "file_path_html": "posts/schools-may-reopen-in-these-counties.html",
     "file_path_json": "posts/schools-may-reopen-in-these-counties.json",
+    "excerpt": "<p>Alpine Mariposa Sierra Humboldt Marin San Mateo Shasta Yolo Alameda Butte Calaveras Imperial Santa Cruz Solano Update these dates as tier data changes TIER_DATE TIER_ENDDATE 2021-6-8 2021-5-29</p>\n",
     "categories": [
       "Uncategorized"
     ],
     "tags": [
       "table-data",
       "translate"
-    ],
-    "excerpt": "<p>Alpine Mariposa Sierra Humboldt Marin San Mateo Shasta Yolo Alameda Butte Calaveras Imperial Santa Cruz Solano Update these dates as tier data changes TIER_DATE TIER_ENDDATE 2021-6-8 2021-5-29</p>\n"
+    ]
   }
 }

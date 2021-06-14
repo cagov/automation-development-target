@@ -23,13 +23,13 @@
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/12/08/safer-economy-lang/",
     "file_path_html": "posts/safer-economy-lang.html",
     "file_path_json": "posts/safer-economy-lang.json",
+    "excerpt": "<p>This table is used to to get the text fields for the search box on Safer Economy. https://covid19.ca.gov/safer-economy/ _id value title Find what may be open near you activityLabel Activity activityPlaceholder Enter a business or activity countyLabel County or tier level countyPlaceholder Enter a county or tier level buttonText Get status clearText Clear seeGuidanceText See [&hellip;]</p>\n",
     "categories": [
       "Roadmap"
     ],
     "tags": [
       "table-data",
       "translate"
-    ],
-    "excerpt": "<p>This table is used to to get the text fields for the search box on Safer Economy. https://covid19.ca.gov/safer-economy/ _id value title Find what may be open near you activityLabel Activity activityPlaceholder Enter a business or activity countyLabel County or tier level countyPlaceholder Enter a county or tier level buttonText Get status clearText Clear seeGuidanceText See [&hellip;]</p>\n"
+    ]
   }
 }

@@ -23,13 +23,13 @@
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/09/21/common-page-labels/",
     "file_path_html": "posts/common-page-labels.html",
     "file_path_json": "posts/common-page-labels.json",
+    "excerpt": "<p>JSON file</p>\n",
     "categories": [
       "footer data"
     ],
     "tags": [
       "table-data",
       "translate"
-    ],
-    "excerpt": "<p>JSON file</p>\n"
+    ]
   }
 }

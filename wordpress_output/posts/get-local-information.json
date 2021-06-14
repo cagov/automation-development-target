@@ -23,12 +23,12 @@
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/03/13/get-local-information/",
     "file_path_html": "posts/get-local-information.html",
     "file_path_json": "posts/get-local-information.json",
+    "excerpt": "<p>Coronavirus / COVID-19 hotlines, websites, and text alerts to help you find timely local info no matter where you are in California.</p>\n",
     "categories": [
       "local information"
     ],
     "tags": [
       "translate"
-    ],
-    "excerpt": "<p>Coronavirus / COVID-19 hotlines, websites, and text alerts to help you find timely local info no matter where you are in California.</p>\n"
+    ]
   }
 }
