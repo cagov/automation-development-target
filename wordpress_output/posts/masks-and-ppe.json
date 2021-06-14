@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2020-05-11T16:40:15",
-    "updated_date": "2021-06-14T20:28:20",
+    "updated_date": "2021-06-14T20:53:18",
     "api_version": "v2",
     "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
     "process": {
@@ -17,13 +17,13 @@
     "title": "Masks",
     "author": "editor3",
     "date": "2020-05-11T16:40:15",
-    "modified": "2021-06-14T20:28:20",
+    "modified": "2021-06-14T20:53:18",
     "date_gmt": "2020-05-11T16:40:15",
-    "modified_gmt": "2021-06-14T20:28:20",
+    "modified_gmt": "2021-06-14T20:53:18",
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/05/11/masks-and-ppe/",
     "file_path_html": "posts/masks-and-ppe.html",
     "file_path_json": "posts/masks-and-ppe.json",
-    "excerpt": "<p>California issued Guidance for the Use of Face Coverings to align with CDC recommendations. This guidance provides information about where masks may still be required or recommended.&nbsp; Masking effectively&nbsp; Read Get the Most out of Masking to learn how a mask can best protect you.</p>\n",
+    "excerpt": "<p>California issued Guidance for the Use of Face Coverings to align with CDC recommendations. This guidance provides information about where masks may still be required or recommended.  Read Get the Most out of Masking to learn how a mask can best protect you.</p>\n",
     "categories": [
       "masks and PPE"
     ],
