@@ -1349,7 +1349,7 @@
           "workers"
         ],
         "tags": [
-          "translate"
+          "staging-only"
         ]
       }
     ]
