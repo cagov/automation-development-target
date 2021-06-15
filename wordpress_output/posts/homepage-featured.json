@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2021-03-29T19:19:42",
-    "updated_date": "2021-06-14T17:40:06",
+    "updated_date": "2021-06-15T16:58:53",
     "api_version": "v2",
     "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
     "process": {
@@ -17,19 +17,18 @@
     "title": "Homepage featured",
     "author": "Peggy Gartin",
     "date": "2021-03-29T19:19:42",
-    "modified": "2021-06-14T17:40:06",
+    "modified": "2021-06-15T16:58:53",
     "date_gmt": "2021-03-29T19:19:42",
-    "modified_gmt": "2021-06-14T17:40:06",
+    "modified_gmt": "2021-06-15T16:58:53",
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2021/03/29/homepage-featured/",
     "file_path_html": "posts/homepage-featured.html",
     "file_path_json": "posts/homepage-featured.json",
-    "excerpt": "<p>Reopening California Vaccines Vax for the Win Masks Travel Education Financial help Food and food assistance Workers and businesses</p>\n",
+    "excerpt": "<p>Safely reopening Vaccines Vax for the Win Masks Travel Education Financial help Food and food assistance Business and employers</p>\n",
     "categories": [
       "Uncategorized"
     ],
     "tags": [
       "fragment",
-      "staging-only",
       "translate"
     ]
   }

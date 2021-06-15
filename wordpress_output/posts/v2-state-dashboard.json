@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2021-01-12T19:06:17",
-    "updated_date": "2021-04-29T21:36:46",
+    "updated_date": "2021-06-15T17:06:45",
     "api_version": "v2",
     "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
     "process": {
@@ -14,12 +14,12 @@
   "data": {
     "id": 8386,
     "slug": "v2-state-dashboard",
-    "title": "Tracking COVID-19 in California (v2)",
+    "title": "Tracking COVID-19 in California (v2 old)",
     "author": "Michael Sullivan",
     "date": "2021-01-12T19:06:17",
-    "modified": "2021-04-29T21:36:46",
+    "modified": "2021-06-15T17:06:45",
     "date_gmt": "2021-01-12T19:06:17",
-    "modified_gmt": "2021-04-29T21:36:46",
+    "modified_gmt": "2021-06-15T17:06:45",
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2021/01/12/v2-state-dashboard/",
     "file_path_html": "posts/v2-state-dashboard.html",
     "file_path_json": "posts/v2-state-dashboard.json",

@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2020-12-21T18:26:53",
-    "updated_date": "2021-04-27T21:00:44",
+    "updated_date": "2021-06-15T16:18:35",
     "api_version": "v2",
     "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
     "process": {
@@ -17,9 +17,9 @@
     "title": "Travel",
     "author": "Peggy Gartin",
     "date": "2020-12-21T18:26:53",
-    "modified": "2021-04-27T21:00:44",
+    "modified": "2021-06-15T16:18:35",
     "date_gmt": "2020-12-21T18:26:53",
-    "modified_gmt": "2021-04-27T21:00:44",
+    "modified_gmt": "2021-06-15T16:18:35",
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/12/21/travel/",
     "file_path_html": "posts/travel.html",
     "file_path_json": "posts/travel.json",

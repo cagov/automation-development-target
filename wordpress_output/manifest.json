@@ -100,7 +100,7 @@
       {
         "id": 725,
         "slug": "business-and-employers",
-        "title": "Workers and businesses",
+        "title": "Businesses and employers",
         "author": "angieq",
         "date": "2020-04-02T17:33:49",
         "date_gmt": "2020-04-02T17:33:49",
@@ -111,7 +111,7 @@
           "business and employers"
         ],
         "tags": [
-          "staging-only"
+          "translate"
         ]
       },
       {
@@ -425,7 +425,6 @@
           "education"
         ],
         "tags": [
-          "staging-only",
           "translate"
         ]
       },
@@ -458,7 +457,7 @@
           "health equity"
         ],
         "tags": [
-          "staging-only"
+          "translate"
         ]
       },
       {
@@ -648,7 +647,6 @@
         ],
         "tags": [
           "fragment",
-          "staging-only",
           "translate"
         ]
       },
@@ -666,7 +664,6 @@
           "Uncategorized"
         ],
         "tags": [
-          "staging-only",
           "table-data",
           "translate"
         ]
@@ -822,7 +819,6 @@
           "Uncategorized"
         ],
         "tags": [
-          "staging-only",
           "table-data",
           "translate"
         ]
@@ -969,19 +965,19 @@
       },
       {
         "id": 5563,
-        "slug": "safer-economy",
-        "title": "Safely reopening",
+        "slug": "safely-reopening",
+        "title": "Safely reopening California",
         "author": "editor3",
         "date": "2020-08-26T05:25:37",
         "date_gmt": "2020-08-26T05:25:37",
-        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/08/26/safer-economy/",
-        "file_path_html": "posts/safer-economy.html",
-        "file_path_json": "posts/safer-economy.json",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/08/26/safely-reopening/",
+        "file_path_html": "posts/safely-reopening.html",
+        "file_path_json": "posts/safely-reopening.json",
         "categories": [
           "Uncategorized"
         ],
         "tags": [
-          "staging-only"
+          "translate"
         ]
       },
       {
@@ -1087,7 +1083,7 @@
           "Uncategorized"
         ],
         "tags": [
-          "staging-only"
+          "translate"
         ]
       },
       {
@@ -1216,7 +1212,7 @@
       {
         "id": 8386,
         "slug": "v2-state-dashboard",
-        "title": "Tracking COVID-19 in California (v2)",
+        "title": "Tracking COVID-19 in California (v2 old)",
         "author": "Michael Sullivan",
         "date": "2021-01-12T19:06:17",
         "date_gmt": "2021-01-12T19:06:17",
@@ -1262,7 +1258,6 @@
           "vaccines"
         ],
         "tags": [
-          "staging-only",
           "translate"
         ]
       },
@@ -1349,7 +1344,7 @@
           "workers"
         ],
         "tags": [
-          "staging-only"
+          "translate"
         ]
       }
     ]
