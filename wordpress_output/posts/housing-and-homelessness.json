@@ -7,7 +7,7 @@
     "process": {
       "source_code": "https://github.com/cagov/cron",
       "source_data": "https://as-go-covid19-d-001.azurewebsites.net",
-      "deployment_target": "https://github.com/cagov/automation-development-target/tree/main/"
+      "deployment_target": "https://github.com/cagov/automation-development-target/tree/main"
     },
     "refresh_frequency": "as needed"
   },
