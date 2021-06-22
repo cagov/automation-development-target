@@ -7,7 +7,7 @@
     "process": {
       "source_code": "https://github.com/cagov/cron",
       "source_data": "https://as-go-covid19-d-001.azurewebsites.net",
-      "deployment_target": "https://github.com/cagov/automation-development-target/tree/main/wordpress_output"
+      "deployment_target": "https://github.com/cagov/automation-development-target/tree/main/undefined"
     },
     "refresh_frequency": "as needed"
   },
@@ -21,8 +21,8 @@
     "date_gmt": "2020-09-24T01:33:16",
     "modified_gmt": "2021-06-17T19:15:28",
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/09/24/get-tested/",
-    "file_path_html": "posts/get-tested.html",
-    "file_path_json": "posts/get-tested.json",
+    "file_path_html": "get-tested.html",
+    "file_path_json": "get-tested.json",
     "excerpt": "<p>Free, confidential COVID-19 testing is available to every Californian that needs it. Find testing locations here.</p>\n",
     "categories": [
       "testing and treatment"

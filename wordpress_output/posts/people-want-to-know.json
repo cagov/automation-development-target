@@ -7,7 +7,7 @@
     "process": {
       "source_code": "https://github.com/cagov/cron",
       "source_data": "https://as-go-covid19-d-001.azurewebsites.net",
-      "deployment_target": "https://github.com/cagov/automation-development-target/tree/main/wordpress_output"
+      "deployment_target": "https://github.com/cagov/automation-development-target/tree/main/undefined"
     },
     "refresh_frequency": "as needed"
   },
@@ -21,8 +21,8 @@
     "date_gmt": "2020-07-30T17:59:19",
     "modified_gmt": "2021-06-01T20:48:28",
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/07/30/people-want-to-know/",
-    "file_path_html": "posts/people-want-to-know.html",
-    "file_path_json": "posts/people-want-to-know.json",
+    "file_path_html": "people-want-to-know.html",
+    "file_path_json": "people-want-to-know.json",
     "excerpt": "<p>Questions and links on homepage text _url What&#8217;s open in my county? safer-economy/ Where can I get a test? testing-and-treatment/ What are the symptoms and risks? symptoms-and-risks/ What do I do about stress? resources-for-emotional-support-and-well-being/#managing-stress text _url Can I travel? travel/ How can I get vaccinated? vaccines/ Can I get financial help? get-financial-help/ What&#8217;s the plan [&hellip;]</p>\n",
     "categories": [
       "Uncategorized"

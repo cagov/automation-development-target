@@ -7,7 +7,7 @@
     "process": {
       "source_code": "https://github.com/cagov/cron",
       "source_data": "https://as-go-covid19-d-001.azurewebsites.net",
-      "deployment_target": "https://github.com/cagov/automation-development-target/tree/main/wordpress_output"
+      "deployment_target": "https://github.com/cagov/automation-development-target/tree/main/undefined"
     },
     "refresh_frequency": "as needed"
   },
@@ -21,8 +21,8 @@
     "date_gmt": "2020-08-20T18:54:34",
     "modified_gmt": "2020-08-21T20:09:42",
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/08/20/tableau-testing/",
-    "file_path_html": "posts/tableau-testing.html",
-    "file_path_json": "posts/tableau-testing.json",
+    "file_path_html": "tableau-testing.html",
+    "file_path_json": "tableau-testing.json",
     "excerpt": "<p>Updated &lt;month&gt; &lt;date&gt;, &lt;year&gt; at &lt;time&gt; Narrative copy to go here&#8230; Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate [&hellip;]</p>\n",
     "categories": [
       "Uncategorized"

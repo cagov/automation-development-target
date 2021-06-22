@@ -7,7 +7,7 @@
     "process": {
       "source_code": "https://github.com/cagov/cron",
       "source_data": "https://as-go-covid19-d-001.azurewebsites.net",
-      "deployment_target": "https://github.com/cagov/automation-development-target/tree/main/wordpress_output"
+      "deployment_target": "https://github.com/cagov/automation-development-target/tree/main/undefined"
     },
     "refresh_frequency": "as needed"
   },
@@ -21,8 +21,8 @@
     "date_gmt": "2020-04-07T02:12:34",
     "modified_gmt": "2021-06-09T00:37:54",
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/07/resources-for-emotional-support-and-well-being/",
-    "file_path_html": "posts/resources-for-emotional-support-and-well-being.html",
-    "file_path_json": "posts/resources-for-emotional-support-and-well-being.json",
+    "file_path_html": "resources-for-emotional-support-and-well-being.html",
+    "file_path_json": "resources-for-emotional-support-and-well-being.json",
     "excerpt": "<p>24-hour help For the Suicide Prevention Lifeline, call 800‑273‑8255 or text 838255 For the Domestic Violence Hotline, 800‑799‑7233 or click Chat Now Call 911 if you or the person you are helping is in immediate danger. The coronavirus (COVID-19) outbreak has changed all of our lives. You may feel anxious, stressed, worried, sad, bored, depressed, [&hellip;]</p>\n",
     "categories": [
       "resources for emotional support"

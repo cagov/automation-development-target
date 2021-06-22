@@ -7,7 +7,7 @@
     "process": {
       "source_code": "https://github.com/cagov/cron",
       "source_data": "https://as-go-covid19-d-001.azurewebsites.net",
-      "deployment_target": "https://github.com/cagov/automation-development-target/tree/main/wordpress_output"
+      "deployment_target": "https://github.com/cagov/automation-development-target/tree/main/undefined"
     },
     "refresh_frequency": "as needed"
   },
@@ -21,8 +21,8 @@
     "date_gmt": "2020-04-13T19:59:22",
     "modified_gmt": "2020-04-20T19:09:26",
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/13/500/",
-    "file_path_html": "posts/500.html",
-    "file_path_json": "posts/500.json",
+    "file_path_html": "500.html",
+    "file_path_json": "500.json",
     "excerpt": "<p>This website is experiencing a temporary problem. Este sitio web está experimentando un problema temporal. 该网站出现暂时性问题。 يواجه هذا الموقع مشكلة مؤقتة. Trang web này đang gặp sự cố tạm thời. 이 웹 사이트에 일시적인 문제가 있습니다.</p>\n",
     "categories": [
       "error page"

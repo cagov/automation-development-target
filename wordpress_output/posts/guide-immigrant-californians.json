@@ -7,7 +7,7 @@
     "process": {
       "source_code": "https://github.com/cagov/cron",
       "source_data": "https://as-go-covid19-d-001.azurewebsites.net",
-      "deployment_target": "https://github.com/cagov/automation-development-target/tree/main/wordpress_output"
+      "deployment_target": "https://github.com/cagov/automation-development-target/tree/main/undefined"
     },
     "refresh_frequency": "as needed"
   },
@@ -21,8 +21,8 @@
     "date_gmt": "2020-04-15T14:58:44",
     "modified_gmt": "2021-05-11T16:18:54",
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/15/guide-immigrant-californians/",
-    "file_path_html": "posts/guide-immigrant-californians.html",
-    "file_path_json": "posts/guide-immigrant-californians.json",
+    "file_path_html": "guide-immigrant-californians.html",
+    "file_path_json": "guide-immigrant-californians.json",
     "excerpt": "<p>If you’re an immigrant living in California, here&#8217;s what you need to know to protect yourself, your family, and your community from coronavirus. Services and public benefits are available to you, some regardless of immigration status. Special assistance for immigrant Californians who do not qualify for other programs is also available.</p>\n",
     "categories": [
       "guide immigrant californians"

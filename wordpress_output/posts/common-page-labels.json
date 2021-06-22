@@ -7,7 +7,7 @@
     "process": {
       "source_code": "https://github.com/cagov/cron",
       "source_data": "https://as-go-covid19-d-001.azurewebsites.net",
-      "deployment_target": "https://github.com/cagov/automation-development-target/tree/main/wordpress_output"
+      "deployment_target": "https://github.com/cagov/automation-development-target/tree/main/undefined"
     },
     "refresh_frequency": "as needed"
   },
@@ -21,8 +21,8 @@
     "date_gmt": "2020-09-21T17:20:03",
     "modified_gmt": "2021-06-21T22:55:44",
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/09/21/common-page-labels/",
-    "file_path_html": "posts/common-page-labels.html",
-    "file_path_json": "posts/common-page-labels.json",
+    "file_path_html": "common-page-labels.html",
+    "file_path_json": "common-page-labels.json",
     "excerpt": "<p>JSON file</p>\n",
     "categories": [
       "footer data"

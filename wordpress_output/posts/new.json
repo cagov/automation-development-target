@@ -7,7 +7,7 @@
     "process": {
       "source_code": "https://github.com/cagov/cron",
       "source_data": "https://as-go-covid19-d-001.azurewebsites.net",
-      "deployment_target": "https://github.com/cagov/automation-development-target/tree/main/wordpress_output"
+      "deployment_target": "https://github.com/cagov/automation-development-target/tree/main/undefined"
     },
     "refresh_frequency": "as needed"
   },
@@ -21,8 +21,8 @@
     "date_gmt": "2020-04-15T16:23:16",
     "modified_gmt": "2021-06-18T17:37:41",
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/15/new/",
-    "file_path_html": "posts/new.html",
-    "file_path_json": "posts/new.json",
+    "file_path_html": "new.html",
+    "file_path_json": "new.json",
     "excerpt": "<p>Get a digital copy of your vaccination record Now you can show digital proof of your vaccination. If you were vaccinated in California, go to Digital COVID-19 Vaccine Record and enter your info to access it. Get your record</p>\n",
     "categories": [
       "homepage new"

@@ -7,7 +7,7 @@
     "process": {
       "source_code": "https://github.com/cagov/cron",
       "source_data": "https://as-go-covid19-d-001.azurewebsites.net",
-      "deployment_target": "https://github.com/cagov/automation-development-target/tree/main/wordpress_output"
+      "deployment_target": "https://github.com/cagov/automation-development-target/tree/main/undefined"
     },
     "refresh_frequency": "as needed"
   },
@@ -21,8 +21,8 @@
     "date_gmt": "2020-12-21T18:26:53",
     "modified_gmt": "2021-06-21T22:59:07",
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/12/21/travel/",
-    "file_path_html": "posts/travel.html",
-    "file_path_json": "posts/travel.json",
+    "file_path_html": "travel.html",
+    "file_path_json": "travel.json",
     "excerpt": "<p>Travel increases your risk of getting COVID-19 and infecting others. For this reason, the California Department of Public Health asks that you limit your travel during the pandemic. Read this page for further details.</p>\n",
     "categories": [
       "travel"

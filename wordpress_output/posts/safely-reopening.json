@@ -7,7 +7,7 @@
     "process": {
       "source_code": "https://github.com/cagov/cron",
       "source_data": "https://as-go-covid19-d-001.azurewebsites.net",
-      "deployment_target": "https://github.com/cagov/automation-development-target/tree/main/wordpress_output"
+      "deployment_target": "https://github.com/cagov/automation-development-target/tree/main/undefined"
     },
     "refresh_frequency": "as needed"
   },
@@ -21,8 +21,8 @@
     "date_gmt": "2020-08-26T05:25:37",
     "modified_gmt": "2021-06-22T20:26:00",
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/08/26/safely-reopening/",
-    "file_path_html": "posts/safely-reopening.html",
-    "file_path_json": "posts/safely-reopening.json",
+    "file_path_html": "safely-reopening.html",
+    "file_path_json": "safely-reopening.json",
     "excerpt": "<p>Thanks to your trust in the vaccine and falling transmission rates, California has fully reopened its economy. This means no more physical distancing, no capacity limits, no county tiers, and relaxed mask guidance. On this page: Reopening California Continuing safety measures Retiring the Blueprint map Reopening California&nbsp; California is moving Beyond the Blueprint to safely [&hellip;]</p>\n",
     "categories": [
       "Uncategorized"

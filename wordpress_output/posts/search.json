@@ -7,7 +7,7 @@
     "process": {
       "source_code": "https://github.com/cagov/cron",
       "source_data": "https://as-go-covid19-d-001.azurewebsites.net",
-      "deployment_target": "https://github.com/cagov/automation-development-target/tree/main/wordpress_output"
+      "deployment_target": "https://github.com/cagov/automation-development-target/tree/main/undefined"
     },
     "refresh_frequency": "as needed"
   },
@@ -21,8 +21,8 @@
     "date_gmt": "2020-06-15T19:04:21",
     "modified_gmt": "2020-06-16T03:46:57",
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/06/15/search/",
-    "file_path_html": "posts/search.html",
-    "file_path_json": "posts/search.json",
+    "file_path_html": "search.html",
+    "file_path_json": "search.json",
     "excerpt": "<p>Search the Covid19 website.</p>\n",
     "categories": [
       "Uncategorized"

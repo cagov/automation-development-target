@@ -7,7 +7,7 @@
     "process": {
       "source_code": "https://github.com/cagov/cron",
       "source_data": "https://as-go-covid19-d-001.azurewebsites.net",
-      "deployment_target": "https://github.com/cagov/automation-development-target/tree/main/wordpress_output"
+      "deployment_target": "https://github.com/cagov/automation-development-target/tree/main/undefined"
     },
     "refresh_frequency": "as needed"
   },
@@ -21,8 +21,8 @@
     "date_gmt": "2020-04-14T23:57:21",
     "modified_gmt": "2020-07-06T19:11:01",
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/14/home-header/",
-    "file_path_html": "posts/home-header.html",
-    "file_path_json": "posts/home-header.json",
+    "file_path_html": "home-header.html",
+    "file_path_json": "home-header.json",
     "excerpt": "<p>N/A</p>\n",
     "categories": [
       "home header"

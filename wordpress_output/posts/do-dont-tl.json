@@ -7,7 +7,7 @@
     "process": {
       "source_code": "https://github.com/cagov/cron",
       "source_data": "https://as-go-covid19-d-001.azurewebsites.net",
-      "deployment_target": "https://github.com/cagov/automation-development-target/tree/main/wordpress_output"
+      "deployment_target": "https://github.com/cagov/automation-development-target/tree/main/undefined"
     },
     "refresh_frequency": "as needed"
   },
@@ -21,8 +21,8 @@
     "date_gmt": "2020-04-21T21:37:13",
     "modified_gmt": "2020-04-21T22:15:54",
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/21/do-dont-tl/",
-    "file_path_html": "posts/do-dont-tl.html",
-    "file_path_json": "posts/do-dont-tl.json",
+    "file_path_html": "do-dont-tl.html",
+    "file_path_json": "do-dont-tl.json",
     "excerpt": "<p>used on the homepage Headers Gawin Huwag do donot Manatili sa tahanan Umalis ng bahay maliban sa mahahalagang mga aktibidad Iwasan ang mga tao sa labas ng iyong sambahayan Makipag-kamayan Hugasan ang iyong kamay ng sabon at tubig ng hindi bababa sa 20 segundo Hawakan ang iyong mukha Takpan ang iyong ubo at bahing ng [&hellip;]</p>\n",
     "categories": [
       "do and do not"

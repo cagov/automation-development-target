@@ -7,7 +7,7 @@
     "process": {
       "source_code": "https://github.com/cagov/cron",
       "source_data": "https://as-go-covid19-d-001.azurewebsites.net",
-      "deployment_target": "https://github.com/cagov/automation-development-target/tree/main/wordpress_output"
+      "deployment_target": "https://github.com/cagov/automation-development-target/tree/main/undefined"
     },
     "refresh_frequency": "as needed"
   },
@@ -21,8 +21,8 @@
     "date_gmt": "2020-04-17T16:33:09",
     "modified_gmt": "2020-05-14T16:02:05",
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/17/do-dont/",
-    "file_path_html": "posts/do-dont.html",
-    "file_path_json": "posts/do-dont.json",
+    "file_path_html": "do-dont.html",
+    "file_path_json": "do-dont.json",
     "excerpt": "<p>used on the homepage Headers Do Do Not do donot Stay home Leave the house except for essential activities Avoid people outside your household Shake hands Wash hands with soap and water for at least 20 seconds Touch your face Cover your cough or sneeze with a tissue Go to doctor unless you call first [&hellip;]</p>\n",
     "categories": [
       "do and do not"

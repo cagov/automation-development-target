@@ -7,7 +7,7 @@
     "process": {
       "source_code": "https://github.com/cagov/cron",
       "source_data": "https://as-go-covid19-d-001.azurewebsites.net",
-      "deployment_target": "https://github.com/cagov/automation-development-target/tree/main/wordpress_output"
+      "deployment_target": "https://github.com/cagov/automation-development-target/tree/main/undefined"
     },
     "refresh_frequency": "as needed"
   },
@@ -21,8 +21,8 @@
     "date_gmt": "2021-05-06T23:26:50",
     "modified_gmt": "2021-05-26T21:39:35",
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2021/05/06/410/",
-    "file_path_html": "posts/410.html",
-    "file_path_json": "posts/410.json",
+    "file_path_html": "410.html",
+    "file_path_json": "410.json",
     "excerpt": "<p>As things change across the state, we’re constantly updating our content to provide the most up-to-date information for Californians. This page has been removed because we’re no longer hosting information on this topic. To see the latest information about COVID-19 and California’s response, visit our homepage. Español (Spanish) Tagalog العربية (Arabic) 한국어 (Korean) Tiếng Việt [&hellip;]</p>\n",
     "categories": [
       "error page"

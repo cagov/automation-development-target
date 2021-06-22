@@ -7,7 +7,7 @@
     "process": {
       "source_code": "https://github.com/cagov/cron",
       "source_data": "https://as-go-covid19-d-001.azurewebsites.net",
-      "deployment_target": "https://github.com/cagov/automation-development-target/tree/main/wordpress_output"
+      "deployment_target": "https://github.com/cagov/automation-development-target/tree/main/undefined"
     },
     "refresh_frequency": "as needed"
   },
@@ -21,8 +21,8 @@
     "date_gmt": "2020-06-17T22:22:32",
     "modified_gmt": "2021-05-13T16:33:19",
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/06/17/sign-up-for-county-alerts/",
-    "file_path_html": "posts/sign-up-for-county-alerts.html",
-    "file_path_json": "posts/sign-up-for-county-alerts.json",
+    "file_path_html": "sign-up-for-county-alerts.html",
+    "file_path_json": "sign-up-for-county-alerts.json",
     "excerpt": "<p>Sign up for local emergency alerts.</p>\n",
     "categories": [
       "Uncategorized"

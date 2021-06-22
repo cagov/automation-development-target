@@ -7,7 +7,7 @@
     "process": {
       "source_code": "https://github.com/cagov/cron",
       "source_data": "https://as-go-covid19-d-001.azurewebsites.net",
-      "deployment_target": "https://github.com/cagov/automation-development-target/tree/main/wordpress_output"
+      "deployment_target": "https://github.com/cagov/automation-development-target/tree/main/undefined"
     },
     "refresh_frequency": "as needed"
   },
@@ -21,8 +21,8 @@
     "date_gmt": "2020-12-07T20:41:27",
     "modified_gmt": "2021-06-16T23:33:41",
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/12/07/menu-links/",
-    "file_path_html": "posts/menu-links.html",
-    "file_path_json": "posts/menu-links.json",
+    "file_path_html": "menu-links.html",
+    "file_path_json": "menu-links.json",
     "excerpt": "<p>Use this to set up the menu structure. _section_index label 1 Reopening California 2 Fighting COVID-19 3 California&#8217;s response 4 Services Sections _section_index label _slug_or_url 1 Safely reopening safely-reopening 1 Travel travel 2 Vaccines vaccines 2 Vax for the Win vax-for-the-win 2 Testing get-tested 2 Tracking COVID-19 in California state-dashboard 2 Vaccination progress data vaccination-progress-data [&hellip;]</p>\n",
     "categories": [
       "Uncategorized"

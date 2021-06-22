@@ -7,7 +7,7 @@
     "process": {
       "source_code": "https://github.com/cagov/cron",
       "source_data": "https://as-go-covid19-d-001.azurewebsites.net",
-      "deployment_target": "https://github.com/cagov/automation-development-target/tree/main/wordpress_output"
+      "deployment_target": "https://github.com/cagov/automation-development-target/tree/main/undefined"
     },
     "refresh_frequency": "as needed"
   },
@@ -21,8 +21,8 @@
     "date_gmt": "2020-05-11T16:40:15",
     "modified_gmt": "2021-06-21T22:14:09",
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/05/11/masks-and-ppe/",
-    "file_path_html": "posts/masks-and-ppe.html",
-    "file_path_json": "posts/masks-and-ppe.json",
+    "file_path_html": "masks-and-ppe.html",
+    "file_path_json": "masks-and-ppe.json",
     "excerpt": "<p>In daily life California has now changed its mask requirements to match the CDC’s guidance: Vaccinated people do not need to wear masks, except in the following settings where masks are required for everyone: Public transit Healthcare settings (including long term care facilities) Indoors in K-12 schools, childcare, and other youth settings State and local [&hellip;]</p>\n",
     "categories": [
       "masks and PPE"

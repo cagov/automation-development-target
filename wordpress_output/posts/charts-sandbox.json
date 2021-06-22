@@ -7,7 +7,7 @@
     "process": {
       "source_code": "https://github.com/cagov/cron",
       "source_data": "https://as-go-covid19-d-001.azurewebsites.net",
-      "deployment_target": "https://github.com/cagov/automation-development-target/tree/main/wordpress_output"
+      "deployment_target": "https://github.com/cagov/automation-development-target/tree/main/undefined"
     },
     "refresh_frequency": "as needed"
   },
@@ -21,8 +21,8 @@
     "date_gmt": "2021-02-03T16:39:08",
     "modified_gmt": "2021-05-27T23:12:34",
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2021/02/03/charts-sandbox/",
-    "file_path_html": "posts/charts-sandbox.html",
-    "file_path_json": "posts/charts-sandbox.json",
+    "file_path_html": "charts-sandbox.html",
+    "file_path_json": "charts-sandbox.json",
     "excerpt": "<p>Map of projects Orci varius natoque penatibus et magnis dis parturient montes. All Californians—regardless of where they live, love sample charts. Here are a few to make your day a little more infographical. Episode date Reported date Confirmed cases in {total_confirmed_cases} total confirmed cases {new_cases} new cases ({new_cases_delta_1_day} increase) {new_cases} new cases ({new_cases_delta_1_day} decrease) {cases_per_100k_7_days} [&hellip;]</p>\n",
     "categories": [
       "Uncategorized"
