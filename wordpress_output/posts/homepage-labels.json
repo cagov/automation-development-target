@@ -21,8 +21,6 @@
     "date_gmt": "2021-04-02T17:05:03",
     "modified_gmt": "2021-06-21T22:55:23",
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2021/04/02/homepage-labels/",
-    "file_path_html": "homepage-labels.html",
-    "file_path_json": "homepage-labels.json",
     "excerpt": "<p>strings used on the homepage _id text varStatsHeader Tracking COVID-19 in CA varTotalCases Cases varTotalDeaths Deaths varTestsReported Tests varPercentIncrease % increase varStateSummary State data varVaccination Vaccination progress varHealthEquity Health equity varHeroTitle Your actions save lives varHeroP1 Get vaccinated varHeroP2 Keep California healthy varHeroAlertSocial Check the Governor’s updates varRecentUpdatesTitle Recent updates varPeopleWantToKnowTitle People want to know [&hellip;]</p>\n",
     "categories": [
       "Uncategorized"
