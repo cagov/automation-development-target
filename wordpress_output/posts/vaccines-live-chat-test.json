@@ -14,16 +14,15 @@
   "data": {
     "id": 8655,
     "slug": "vaccines-live-chat-test",
+    "title": "Vaccines Live Chat Testing",
+    "author": "Chach Sikes",
     "date": "2021-01-22T16:13:49",
     "modified": "2021-04-06T18:12:00",
     "date_gmt": "2021-01-22T16:13:49",
     "modified_gmt": "2021-04-06T18:12:00",
-    "title": "Vaccines Live Chat Testing",
-    "author": "Chach Sikes",
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2021/01/22/vaccines-live-chat-test/",
     "file_path_html": "posts/vaccines-live-chat-test.html",
     "file_path_json": "posts/vaccines-live-chat-test.json",
-    "excerpt": "",
     "categories": [
       "vaccines"
     ],
