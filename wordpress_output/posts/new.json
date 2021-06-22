@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2020-04-15T16:23:16",
-    "updated_date": "2021-06-15T16:11:33",
+    "updated_date": "2021-06-18T17:37:41",
     "api_version": "v2",
     "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
     "process": {
@@ -17,13 +17,13 @@
     "title": "new",
     "author": "Peggy Gartin",
     "date": "2020-04-15T16:23:16",
-    "modified": "2021-06-15T16:11:33",
+    "modified": "2021-06-18T17:37:41",
     "date_gmt": "2020-04-15T16:23:16",
-    "modified_gmt": "2021-06-15T16:11:33",
+    "modified_gmt": "2021-06-18T17:37:41",
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/15/new/",
     "file_path_html": "posts/new.html",
     "file_path_json": "posts/new.json",
-    "excerpt": "<p>California reopens as state lifts most COVID-19 restrictions Thanks to reaching over 40 million vaccinations, California is reopening today and celebrating with $15 million in cash prize drawings. The state has ended capacity limits and relaxed mask rules for vaccinated people. See what&#8217;s changed</p>\n",
+    "excerpt": "<p>Get a digital copy of your vaccination record Now you can show digital proof of your vaccination. If you were vaccinated in California, go to Digital COVID-19 Vaccine Record and enter your info to access it. Get your record</p>\n",
     "categories": [
       "homepage new"
     ],

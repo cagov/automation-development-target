@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2020-04-28T21:18:37",
-    "updated_date": "2021-04-13T01:07:10",
+    "updated_date": "2021-06-16T23:31:32",
     "api_version": "v2",
     "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
     "process": {
@@ -17,9 +17,9 @@
     "title": "Essential workforce",
     "author": "Peggy Gartin",
     "date": "2020-04-28T21:18:37",
-    "modified": "2021-04-13T01:07:10",
+    "modified": "2021-06-16T23:31:32",
     "date_gmt": "2020-04-28T21:18:37",
-    "modified_gmt": "2021-04-13T01:07:10",
+    "modified_gmt": "2021-06-16T23:31:32",
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/28/essential-workforce/",
     "file_path_html": "posts/essential-workforce.html",
     "file_path_json": "posts/essential-workforce.json",

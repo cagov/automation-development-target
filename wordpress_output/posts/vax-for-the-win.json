@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2021-05-23T17:03:11",
-    "updated_date": "2021-06-15T14:34:54",
+    "updated_date": "2021-06-22T02:08:26",
     "api_version": "v2",
     "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
     "process": {
@@ -17,13 +17,13 @@
     "title": "Vax for the Win",
     "author": "Peggy Gartin",
     "date": "2021-05-23T17:03:11",
-    "modified": "2021-06-15T14:34:54",
+    "modified": "2021-06-22T02:08:26",
     "date_gmt": "2021-05-23T17:03:11",
-    "modified_gmt": "2021-06-15T14:34:54",
+    "modified_gmt": "2021-06-22T02:08:26",
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2021/05/23/vax-for-the-win/",
     "file_path_html": "posts/vax-for-the-win.html",
     "file_path_json": "posts/vax-for-the-win.json",
-    "excerpt": "<p>Countdown to reopening June 15 days 0 hrs 0 min 0 sec 0 Vax for the Win California’s vaccine incentive program Get vaccinated, get rewarded Are you already vaccinated or about to be? Great! You’ll have a chance at winning a dream vacation, $50,000, or a grand prize of $1.5 million! Not yet vaccinated against [&hellip;]</p>\n",
+    "excerpt": "<p>Vax for the Win California’s vaccine incentive program Get vaccinated, get rewarded We&#8217;ve already awarded millions of dollars in prizes and perks to vaccinated Californians, but we&#8217;re not done yet. Get vaccinated and you could win one of 6 California dream vacations! No matter when you were vaccinated, you&#8217;re automatically entered. Ready to win but [&hellip;]</p>\n",
     "categories": [
       "Vax for the Win"
     ],

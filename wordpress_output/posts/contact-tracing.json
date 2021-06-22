@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2020-05-13T00:04:47",
-    "updated_date": "2021-06-01T20:51:00",
+    "updated_date": "2021-06-15T20:46:36",
     "api_version": "v2",
     "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
     "process": {
@@ -17,9 +17,9 @@
     "title": "Contact tracing",
     "author": "editor3",
     "date": "2020-05-13T00:04:47",
-    "modified": "2021-06-01T20:51:00",
+    "modified": "2021-06-15T20:46:36",
     "date_gmt": "2020-05-13T00:04:47",
-    "modified_gmt": "2021-06-01T20:51:00",
+    "modified_gmt": "2021-06-15T20:46:36",
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/05/13/contact-tracing/",
     "file_path_html": "posts/contact-tracing.html",
     "file_path_json": "posts/contact-tracing.json",

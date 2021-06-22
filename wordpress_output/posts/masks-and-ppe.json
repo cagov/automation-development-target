@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2020-05-11T16:40:15",
-    "updated_date": "2021-06-14T22:51:22",
+    "updated_date": "2021-06-21T22:14:09",
     "api_version": "v2",
     "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
     "process": {
@@ -17,13 +17,13 @@
     "title": "Masks",
     "author": "editor3",
     "date": "2020-05-11T16:40:15",
-    "modified": "2021-06-14T22:51:22",
+    "modified": "2021-06-21T22:14:09",
     "date_gmt": "2020-05-11T16:40:15",
-    "modified_gmt": "2021-06-14T22:51:22",
+    "modified_gmt": "2021-06-21T22:14:09",
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/05/11/masks-and-ppe/",
     "file_path_html": "posts/masks-and-ppe.html",
     "file_path_json": "posts/masks-and-ppe.json",
-    "excerpt": "<p>California issued Guidance and Face Coverings Q&amp;A to align with CDC recommendations. This guidance provides information about where masks may still be required or recommended. Read Get the Most out of Masking to learn how a mask can best protect you.</p>\n",
+    "excerpt": "<p>In daily life California has now changed its mask requirements to match the CDC’s guidance: Vaccinated people do not need to wear masks, except in the following settings where masks are required for everyone: Public transit Healthcare settings (including long term care facilities) Indoors in K-12 schools, childcare, and other youth settings State and local [&hellip;]</p>\n",
     "categories": [
       "masks and PPE"
     ],

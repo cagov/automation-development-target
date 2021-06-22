@@ -1,0 +1,34 @@
+{
+  "meta": {
+    "created_date": "2021-06-15T23:44:42",
+    "updated_date": "2021-06-19T00:49:41",
+    "api_version": "v2",
+    "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
+    "process": {
+      "source_code": "https://github.com/cagov/cron",
+      "source_data": "https://as-go-covid19-d-001.azurewebsites.net",
+      "deployment_target": "https://github.com/cagov/automation-development-target/tree/main/wordpress_output"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 13211,
+    "slug": "vax-for-the-win-six-flags",
+    "title": "Vax for the Win &#8211; Six Flags ticket clinics",
+    "author": "Peggy Gartin",
+    "date": "2021-06-15T23:44:42",
+    "modified": "2021-06-19T00:49:41",
+    "date_gmt": "2021-06-15T23:44:42",
+    "modified_gmt": "2021-06-19T00:49:41",
+    "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2021/06/15/vax-for-the-win-six-flags/",
+    "file_path_html": "posts/vax-for-the-win-six-flags.html",
+    "file_path_json": "posts/vax-for-the-win-six-flags.json",
+    "excerpt": "<p>Check your county for participating vaccination clinics, then click or call to arrange your vaccination. Don’t wait &#8211; offer only good while supplies last. Alameda County Color Health The Community Church, Greater St. Paul, and Friendship Christian Center locations only.&nbsp; Make an appointment on MyTurn. LifeLong Medical Care San Pablo, Richmond, East Oakland, and West [&hellip;]</p>\n",
+    "categories": [
+      "Vax for the Win"
+    ],
+    "tags": [
+      "translate"
+    ]
+  }
+}

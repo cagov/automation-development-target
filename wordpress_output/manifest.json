@@ -111,7 +111,7 @@
           "business and employers"
         ],
         "tags": [
-          "translate"
+          "staging-only"
         ]
       },
       {
@@ -564,23 +564,6 @@
         ]
       },
       {
-        "id": 5237,
-        "slug": "guidance-languages",
-        "title": "Industry guidance in other languages",
-        "author": "Peggy Gartin",
-        "date": "2020-08-04T23:34:11",
-        "date_gmt": "2020-08-04T23:34:11",
-        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/08/04/guidance-languages/",
-        "file_path_html": "posts/guidance-languages.html",
-        "file_path_json": "posts/guidance-languages.json",
-        "categories": [
-          "Industry guidance"
-        ],
-        "tags": [
-          "date"
-        ]
-      },
-      {
         "id": 1378,
         "slug": "guide-immigrant-californians",
         "title": "Help for immigrants",
@@ -669,23 +652,6 @@
         ]
       },
       {
-        "id": 4213,
-        "slug": "hotel-rooms-for-california-healthcare-workers",
-        "title": "Hotel rooms for California healthcare workers",
-        "author": "Liz Nobriga",
-        "date": "2020-06-16T18:55:29",
-        "date_gmt": "2020-06-16T18:55:29",
-        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/06/16/hotel-rooms-for-california-healthcare-workers/",
-        "file_path_html": "posts/hotel-rooms-for-california-healthcare-workers.html",
-        "file_path_json": "posts/hotel-rooms-for-california-healthcare-workers.json",
-        "categories": [
-          "hotel rooms for CA healthcare workers"
-        ],
-        "tags": [
-          "translate"
-        ]
-      },
-      {
         "id": 679,
         "slug": "hotline",
         "title": "COVID-19 Hotline",
@@ -734,40 +700,6 @@
         ],
         "tags": [
           "translate"
-        ]
-      },
-      {
-        "id": 3075,
-        "slug": "industry-guidance",
-        "title": "Industry guidance to reduce risk",
-        "author": "Liz Nobriga",
-        "date": "2020-05-12T05:18:52",
-        "date_gmt": "2020-05-12T05:18:52",
-        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/05/12/industry-guidance/",
-        "file_path_html": "posts/industry-guidance.html",
-        "file_path_json": "posts/industry-guidance.json",
-        "categories": [
-          "Industry guidance"
-        ],
-        "tags": [
-          "translate"
-        ]
-      },
-      {
-        "id": 5265,
-        "slug": "industry-guidance-in-other-languages-links-fragment",
-        "title": "Industry guidance in other languages (links fragment)",
-        "author": "Peggy Gartin",
-        "date": "2020-08-05T18:03:42",
-        "date_gmt": "2020-08-05T18:03:42",
-        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/08/05/industry-guidance-in-other-languages-links-fragment/",
-        "file_path_html": "posts/industry-guidance-in-other-languages-links-fragment.html",
-        "file_path_json": "posts/industry-guidance-in-other-languages-links-fragment.json",
-        "categories": [
-          "Industry guidance"
-        ],
-        "tags": [
-          "fragment"
         ]
       },
       {
@@ -893,42 +825,6 @@
         ]
       },
       {
-        "id": 5591,
-        "slug": "reopening-matrix-data",
-        "title": "reopening matrix data",
-        "author": "Aaron Hans",
-        "date": "2020-08-27T13:59:13",
-        "date_gmt": "2020-08-27T13:59:13",
-        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/08/27/reopening-matrix-data/",
-        "file_path_html": "posts/reopening-matrix-data.html",
-        "file_path_json": "posts/reopening-matrix-data.json",
-        "categories": [
-          "Uncategorized"
-        ],
-        "tags": [
-          "table-data",
-          "translate"
-        ]
-      },
-      {
-        "id": 5567,
-        "slug": "reopening-roadmap-activity-data",
-        "title": "What&#8217;s open data",
-        "author": "Peggy Gartin",
-        "date": "2020-08-26T12:27:02",
-        "date_gmt": "2020-08-26T12:27:02",
-        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/08/26/reopening-roadmap-activity-data/",
-        "file_path_html": "posts/reopening-roadmap-activity-data.html",
-        "file_path_json": "posts/reopening-roadmap-activity-data.json",
-        "categories": [
-          "Uncategorized"
-        ],
-        "tags": [
-          "table-data",
-          "translate"
-        ]
-      },
-      {
         "id": 839,
         "slug": "resources-for-emotional-support-and-well-being",
         "title": "Resources for emotional support and well-being",
@@ -943,24 +839,6 @@
         ],
         "tags": [
           "translate"
-        ]
-      },
-      {
-        "id": 7402,
-        "slug": "rsho",
-        "title": "RSHO",
-        "author": "Peggy Gartin",
-        "date": "2020-12-05T19:42:38",
-        "date_gmt": "2020-12-05T19:42:38",
-        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/12/05/rsho/",
-        "file_path_html": "posts/rsho.html",
-        "file_path_json": "posts/rsho.json",
-        "categories": [
-          "Uncategorized"
-        ],
-        "tags": [
-          "do-not-crawl",
-          "table-data"
         ]
       },
       {
@@ -981,24 +859,6 @@
         ]
       },
       {
-        "id": 7535,
-        "slug": "safer-economy-lang",
-        "title": "safer-economy-lang",
-        "author": "James Bumgardner",
-        "date": "2020-12-08T22:40:30",
-        "date_gmt": "2020-12-08T22:40:30",
-        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/12/08/safer-economy-lang/",
-        "file_path_html": "posts/safer-economy-lang.html",
-        "file_path_json": "posts/safer-economy-lang.json",
-        "categories": [
-          "Roadmap"
-        ],
-        "tags": [
-          "table-data",
-          "translate"
-        ]
-      },
-      {
         "id": 6854,
         "slug": "sample",
         "title": "Examples",
@@ -1014,24 +874,6 @@
         "tags": [
           "do-not-crawl",
           "staging-only"
-        ]
-      },
-      {
-        "id": 6422,
-        "slug": "schools-may-reopen-in-these-counties",
-        "title": "Schools may reopen in these counties",
-        "author": "Aaron Hans",
-        "date": "2020-10-13T15:54:36",
-        "date_gmt": "2020-10-13T15:54:36",
-        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/10/13/schools-may-reopen-in-these-counties/",
-        "file_path_html": "posts/schools-may-reopen-in-these-counties.html",
-        "file_path_json": "posts/schools-may-reopen-in-these-counties.json",
-        "categories": [
-          "Uncategorized"
-        ],
-        "tags": [
-          "table-data",
-          "translate"
         ]
       },
       {
@@ -1081,40 +923,6 @@
         "file_path_json": "posts/state-dashboard.json",
         "categories": [
           "Uncategorized"
-        ],
-        "tags": [
-          "translate"
-        ]
-      },
-      {
-        "id": 432,
-        "slug": "stay-home-except-for-essential-needs",
-        "title": "About COVID-19 restrictions",
-        "author": "Peggy Gartin",
-        "date": "2020-03-20T01:01:15",
-        "date_gmt": "2020-03-20T01:01:15",
-        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/03/20/stay-home-except-for-essential-needs/",
-        "file_path_html": "posts/stay-home-except-for-essential-needs.html",
-        "file_path_json": "posts/stay-home-except-for-essential-needs.json",
-        "categories": [
-          "stay home"
-        ],
-        "tags": [
-          "translate"
-        ]
-      },
-      {
-        "id": 621,
-        "slug": "symptoms-and-risks",
-        "title": "Symptoms and risks",
-        "author": "editor3",
-        "date": "2020-03-25T21:28:08",
-        "date_gmt": "2020-03-25T21:28:08",
-        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/03/25/symptoms-and-risks/",
-        "file_path_html": "posts/symptoms-and-risks.html",
-        "file_path_json": "posts/symptoms-and-risks.json",
-        "categories": [
-          "symptoms and risks"
         ],
         "tags": [
           "translate"
@@ -1192,42 +1000,6 @@
         ]
       },
       {
-        "id": 5932,
-        "slug": "v1-state-dashboard",
-        "title": "Tracking COVID-19 in California (old)",
-        "author": "Michael Sullivan",
-        "date": "2020-09-10T17:13:43",
-        "date_gmt": "2020-09-10T17:13:43",
-        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/09/10/v1-state-dashboard/",
-        "file_path_html": "posts/v1-state-dashboard.html",
-        "file_path_json": "posts/v1-state-dashboard.json",
-        "categories": [
-          "Uncategorized"
-        ],
-        "tags": [
-          "do-not-crawl",
-          "staging-only"
-        ]
-      },
-      {
-        "id": 8386,
-        "slug": "v2-state-dashboard",
-        "title": "Tracking COVID-19 in California (v2 old)",
-        "author": "Michael Sullivan",
-        "date": "2021-01-12T19:06:17",
-        "date_gmt": "2021-01-12T19:06:17",
-        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2021/01/12/v2-state-dashboard/",
-        "file_path_html": "posts/v2-state-dashboard.html",
-        "file_path_json": "posts/v2-state-dashboard.json",
-        "categories": [
-          "Uncategorized"
-        ],
-        "tags": [
-          "do-not-crawl",
-          "staging-only"
-        ]
-      },
-      {
         "id": 11214,
         "slug": "vaccination-progress-data",
         "title": "Vaccination progress data",
@@ -1288,6 +1060,23 @@
         "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2021/05/23/vax-for-the-win/",
         "file_path_html": "posts/vax-for-the-win.html",
         "file_path_json": "posts/vax-for-the-win.json",
+        "categories": [
+          "Vax for the Win"
+        ],
+        "tags": [
+          "translate"
+        ]
+      },
+      {
+        "id": 13211,
+        "slug": "vax-for-the-win-six-flags",
+        "title": "Vax for the Win &#8211; Six Flags ticket clinics",
+        "author": "Peggy Gartin",
+        "date": "2021-06-15T23:44:42",
+        "date_gmt": "2021-06-15T23:44:42",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2021/06/15/vax-for-the-win-six-flags/",
+        "file_path_html": "posts/vax-for-the-win-six-flags.html",
+        "file_path_json": "posts/vax-for-the-win-six-flags.json",
         "categories": [
           "Vax for the Win"
         ],
