@@ -2,7 +2,6 @@
   "meta": {
     "created_date": "2020-08-20T18:54:34",
     "updated_date": "2020-08-21T20:09:42",
-    "foo": 1,
     "api_version": "v2",
     "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
     "process": {
