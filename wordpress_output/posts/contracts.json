@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2020-05-15T02:25:43",
-    "updated_date": "2021-06-08T17:58:48",
+    "updated_date": "2021-06-24T18:04:12",
     "api_version": "v2",
     "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
     "process": {
@@ -17,9 +17,9 @@
     "title": "Released COVID-19 Response Contracts",
     "author": "Liz Nobriga",
     "date": "2020-05-15T02:25:43",
-    "modified": "2021-06-08T17:58:48",
+    "modified": "2021-06-24T18:04:12",
     "date_gmt": "2020-05-15T02:25:43",
-    "modified_gmt": "2021-06-08T17:58:48",
+    "modified_gmt": "2021-06-24T18:04:12",
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/05/15/contracts/",
     "excerpt": "<p>As part of the administration’s commitment to transparency, this page provides the public with access to contracts valued at over $250,000 that have been entered into as part of the state’s response to the unprecedented COVID-19 pandemic. The goal of this page is to allow Californians to monitor state spending and know where their tax [&hellip;]</p>\n",
     "categories": [

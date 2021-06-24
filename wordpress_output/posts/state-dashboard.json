@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2021-04-05T16:30:05",
-    "updated_date": "2021-06-15T17:01:04",
+    "updated_date": "2021-06-24T16:19:25",
     "api_version": "v2",
     "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
     "process": {
@@ -17,11 +17,11 @@
     "title": "Tracking COVID-19 in California",
     "author": "Michael Sullivan",
     "date": "2021-04-05T16:30:05",
-    "modified": "2021-06-15T17:01:04",
+    "modified": "2021-06-24T16:19:25",
     "date_gmt": "2021-04-05T16:30:05",
-    "modified_gmt": "2021-06-15T17:01:04",
+    "modified_gmt": "2021-06-24T16:19:25",
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2021/04/05/state-dashboard/",
-    "excerpt": "<p>Update for {{_varStatDate_}} As of {{_varStatDateNoYear_}}, California has {{_varStatTotalCases_}} confirmed cases of COVID-19, resulting in {{_varStatTotalDeaths_}} deaths. Cases {{_varStatTotalCases_}} total {{_varStatTotalCasesToday_}} today {{_varStatNewCasesPer100k_}} new cases per 100K Deaths {{_varStatTotalDeaths_}} total {{_varStatTotalDeathsToday_}} today {{_varStatNewDeathsPer100k_}} new deaths per 100K Tests {{_varStatTested_}} total {{_varStatTestedDaily_}} today {{_varStatLatestPositivityPct_}}% test positivity Vaccines Administered {{_varStatVaccines_}} total {# {{_varStatVaccinesDaily_}} today {{_varStatVaccinesDailyPct_}}% increase #} [&hellip;]</p>\n",
+    "excerpt": "<p>Note for June 24, 2021 Today’s case count includes a backlog of 462 cases from Riverside county. Most of these cases occurred in 2020. Update for {{_varStatDate_}} As of {{_varStatDateNoYear_}}, California has {{_varStatTotalCases_}} confirmed cases of COVID-19, resulting in {{_varStatTotalDeaths_}} deaths. Cases {{_varStatTotalCases_}} total {{_varStatTotalCasesToday_}} today {{_varStatNewCasesPer100k_}} new cases per 100K Deaths {{_varStatTotalDeaths_}} total {{_varStatTotalDeathsToday_}} [&hellip;]</p>\n",
     "categories": [
       "Uncategorized"
     ],

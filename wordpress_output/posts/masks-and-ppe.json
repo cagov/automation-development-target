@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2020-05-11T16:40:15",
-    "updated_date": "2021-06-21T22:14:09",
+    "updated_date": "2021-06-23T20:00:07",
     "api_version": "v2",
     "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
     "process": {
@@ -17,11 +17,11 @@
     "title": "Masks",
     "author": "editor3",
     "date": "2020-05-11T16:40:15",
-    "modified": "2021-06-21T22:14:09",
+    "modified": "2021-06-23T20:00:07",
     "date_gmt": "2020-05-11T16:40:15",
-    "modified_gmt": "2021-06-21T22:14:09",
+    "modified_gmt": "2021-06-23T20:00:07",
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/05/11/masks-and-ppe/",
-    "excerpt": "<p>In daily life California has now changed its mask requirements to match the CDC’s guidance: Vaccinated people do not need to wear masks, except in the following settings where masks are required for everyone: Public transit Healthcare settings (including long term care facilities) Indoors in K-12 schools, childcare, and other youth settings State and local [&hellip;]</p>\n",
+    "excerpt": "<p>California has now changed its mask requirements to match CDC guidance. On this page: Masks in daily life Masks in the workplace Guidance for businesses Masks in daily life Vaccinated people do not need to wear masks, except in the following settings where masks are required for everyone: Public transit Healthcare settings (including long term [&hellip;]</p>\n",
     "categories": [
       "masks and PPE"
     ],

@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2020-11-17T15:07:35",
-    "updated_date": "2021-06-22T00:02:22",
+    "updated_date": "2021-06-24T21:34:12",
     "api_version": "v2",
     "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
     "process": {
@@ -17,15 +17,16 @@
     "title": "Vaccines",
     "author": "editor3",
     "date": "2020-11-17T15:07:35",
-    "modified": "2021-06-22T00:02:22",
+    "modified": "2021-06-24T21:34:12",
     "date_gmt": "2020-11-17T15:07:35",
-    "modified_gmt": "2021-06-22T00:02:22",
+    "modified_gmt": "2021-06-24T21:34:12",
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/11/17/vaccines/",
-    "excerpt": "<p>How do I get a vaccine appointment or walk-in site near me? My Turn Check myturn.ca.gov or call (833) 422-4255 to get a COVID-19 vaccine appointment or walk-in site near you. Go to My Turn VaccineFinder Use the CDC’s VaccineFinder to find an appointment or walk-in site near you. Go to VaccineFinder You can also [&hellip;]</p>\n",
+    "excerpt": "<p>How do I get vaccinated? My Turn Check myturn.ca.gov or call (833) 422-4255 to get a COVID-19 vaccine appointment or walk-in site near you. Go to My Turn VaccineFinder Use the CDC’s VaccineFinder to find an appointment or walk-in site near you. Go to VaccineFinder You can also check with your healthcare provider or local [&hellip;]</p>\n",
     "categories": [
       "vaccines"
     ],
     "tags": [
+      "staging-only",
       "translate"
     ]
   }
