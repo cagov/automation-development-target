@@ -22,6 +22,8 @@
     "modified_gmt": "2020-08-12T22:33:27",
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/06/04/what-is-open-where/",
     "excerpt": "<p>Open businesses vary by county. See what&#8217;s open or closed in your area.</p>\n",
+    "format": "standard",
+    "type": "post",
     "categories": [
       "whats open"
     ],

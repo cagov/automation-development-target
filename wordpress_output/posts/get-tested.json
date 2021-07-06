@@ -22,6 +22,8 @@
     "modified_gmt": "2021-06-24T21:47:11",
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/09/24/get-tested/",
     "excerpt": "<p>Free, confidential COVID-19 testing is available to every Californian that needs it. Find testing locations here.</p>\n",
+    "format": "standard",
+    "type": "post",
     "categories": [
       "testing and treatment"
     ],

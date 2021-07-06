@@ -1,13 +1,13 @@
 <div class="highlight">
-<h2 class="h3 color-primary mt-0">Note for June 24, 2021</h2>
-<p>Today’s case count includes a backlog of 462 cases from Riverside county. Most of these cases occurred in 2020.</p>
+<h2 class="h3 color-primary mt-0">Data reporting note</h2>
+<p>Data on cases, deaths, and testing is not reported on weekends or state holidays. This data is reported on the first day following the weekend or holiday. Data on administered vaccines is reported daily.</p>
 </div><p></p>
 
 <!--
 {# {%-set data = tableauCovidMetrics[0] -%}  #}
 {%-set data2 = dailyStatsV2.data -%}
 
-{%-set _varStatDate_ = data2.cases.DATE | formatDate2(false, tags, 1)-%}
+{%-set _varStatDate_ = dailyStatsV2.meta.PUBLISHED_DATE | formatDate2(false, tags, 0)-%}
 {%-set _varStatDateNoYear_ = _varStatDate_ | replace(", 2021", "")-%}
 {%-set _varStatTotalCases_ = data2.cases.LATEST_TOTAL_CONFIRMED_CASES | formatNumber(tags)-%}
 {%-set _varStatTotalCasesToday_ = data2.cases.NEWLY_REPORTED_CASES | formatNumber(tags)-%}
@@ -26,7 +26,7 @@ formatNumberFixed(tags,1)-%}
 {%-set _varStatVaccines_ = data2.vaccinations.CUMMULATIVE_DAILY_DOSES_ADMINISTERED | formatNumber(tags)-%}
 
 {%-set _varStatPos_7DayAvgPct_ = (100*data2.tests.LATEST_CONFIDENT_POSITIVITY_RATE_7_DAYS) | formatNumberFixed(tags,1) -%}
-{%-set _varStatYesterdayDate_ = data2.cases.DATE | formatDate2(false, tags)-%}
+{%-set _varStatYesterdayDate_ = dailyStatsV2.meta.PUBLISHED_DATE | formatDate2(false, tags,-1)-%}
 {%-set _varStatHospitalTotal_ = (data2.hospitalizations.HOSPITALIZED_COVID_CONFIRMED_PATIENTS +
 data2.hospitalizations.HOSPITALIZED_SUSPECTED_COVID_PATIENTS) | formatNumber(tags)-%}
 {%-set _varStatIcuTotal_ = (data2.icu.ICU_COVID_CONFIRMED_PATIENTS + data2.icu.ICU_SUSPECTED_COVID_PATIENTS) |
@@ -49,6 +49,12 @@ data2.icu.ICU_SUSPECTED_COVID_PATIENTS_DAILY) | formatNumber(tags)-%}
 {%-set _varCasesTrendClassD_ = '' if _varCasesTrend_ < 0 else "d-none" %} {%-set _varDeathsTrendClassD_='' if
   _varDeathsTrend_ < 0 else "d-none" %} {%-set _varPositivityTrendClassD_='' if _varPositivityTrend_ < 0 else "d-none"
   %} 
+{%- set _varInhibitDailyTotals_ = dailyStatsV2|suppressDailyTotals() -%}
+{%- if _varInhibitDailyTotals_  -%}
+{%- set _varStatTotalCasesToday_ = '—' -%}
+{%- set _varStatTotalDeathsToday_ = '—' -%}
+{%- set _varStatTestedDaily_ = '—' -%}
+{%- endif -%}
 -->
 
 <div class="bg-lightblue full-bleed mt-minus-4">

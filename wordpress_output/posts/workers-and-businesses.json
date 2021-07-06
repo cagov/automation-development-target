@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2020-04-02T17:33:49",
-    "updated_date": "2021-06-18T19:37:52",
+    "updated_date": "2021-07-03T00:08:39",
     "api_version": "v2",
     "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
     "process": {
@@ -13,20 +13,22 @@
   },
   "data": {
     "id": 725,
-    "slug": "business-and-employers",
-    "title": "Businesses and employers",
-    "author": "angieq",
+    "slug": "workers-and-businesses",
+    "title": "Workers and businesses",
+    "author": "Liz Nobriga",
     "date": "2020-04-02T17:33:49",
-    "modified": "2021-06-18T19:37:52",
+    "modified": "2021-07-03T00:08:39",
     "date_gmt": "2020-04-02T17:33:49",
-    "modified_gmt": "2021-06-18T19:37:52",
-    "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/02/business-and-employers/",
+    "modified_gmt": "2021-07-03T00:08:39",
+    "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/02/workers-and-businesses/",
     "excerpt": "<p>California is providing broad assistance to small businesses and employers impacted by coronavirus / COVID-19, including tax deferral, loan advances, paycheck protection, debt relief, and tax filing extensions.</p>\n",
+    "format": "standard",
+    "type": "post",
     "categories": [
       "business and employers"
     ],
     "tags": [
-      "staging-only"
+      "translate"
     ]
   }
 }

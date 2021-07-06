@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2020-08-26T05:25:37",
-    "updated_date": "2021-06-22T21:30:42",
+    "updated_date": "2021-07-02T01:38:43",
     "api_version": "v2",
     "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
     "process": {
@@ -15,15 +15,17 @@
     "id": 5563,
     "slug": "safely-reopening",
     "title": "Safely reopening California",
-    "author": "editor3",
+    "author": "Peggy Gartin",
     "date": "2020-08-26T05:25:37",
-    "modified": "2021-06-22T21:30:42",
+    "modified": "2021-07-02T01:38:43",
     "date_gmt": "2020-08-26T05:25:37",
-    "modified_gmt": "2021-06-22T21:30:42",
+    "modified_gmt": "2021-07-02T01:38:43",
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/08/26/safely-reopening/",
-    "excerpt": "<p>Thanks to your trust in the vaccine and falling transmission rates, California has fully reopened its economy. This means no more physical distancing, no capacity limits, no county tiers, and relaxed mask guidance. On this page: Reopening California Continuing safety measures Retiring the Blueprint map Reopening California&nbsp; California is moving Beyond the Blueprint to safely [&hellip;]</p>\n",
+    "excerpt": "<p>Details of California&#8217;s reopening after the 2020 Stay Home Order, including continuing safety measures against COVID-19.</p>\n",
+    "format": "standard",
+    "type": "post",
     "categories": [
-      "Uncategorized"
+      "safely reopening"
     ],
     "tags": [
       "translate"

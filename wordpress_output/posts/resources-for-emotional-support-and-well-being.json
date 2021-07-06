@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2020-04-07T02:12:34",
-    "updated_date": "2021-06-09T00:37:54",
+    "updated_date": "2021-07-03T00:11:13",
     "api_version": "v2",
     "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
     "process": {
@@ -15,13 +15,15 @@
     "id": 839,
     "slug": "resources-for-emotional-support-and-well-being",
     "title": "Resources for emotional support and well-being",
-    "author": "editor3",
+    "author": "Liz Nobriga",
     "date": "2020-04-07T02:12:34",
-    "modified": "2021-06-09T00:37:54",
+    "modified": "2021-07-03T00:11:13",
     "date_gmt": "2020-04-07T02:12:34",
-    "modified_gmt": "2021-06-09T00:37:54",
+    "modified_gmt": "2021-07-03T00:11:13",
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/07/resources-for-emotional-support-and-well-being/",
-    "excerpt": "<p>24-hour help For the Suicide Prevention Lifeline, call 800‑273‑8255 or text 838255 For the Domestic Violence Hotline, 800‑799‑7233 or click Chat Now Call 911 if you or the person you are helping is in immediate danger. The coronavirus (COVID-19) outbreak has changed all of our lives. You may feel anxious, stressed, worried, sad, bored, depressed, [&hellip;]</p>\n",
+    "excerpt": "<p>24-hour help For the Suicide Prevention Lifeline, call 800‑273‑8255 or text 838255 For the Domestic Violence Hotline, 800‑799‑7233 or click Chat Now Call 911 if you or the person you are helping is in immediate danger. The coronavirus (COVID-19) outbreak has changed all of our lives. You may still feel anxious, stressed, worried, sad, bored, [&hellip;]</p>\n",
+    "format": "standard",
+    "type": "post",
     "categories": [
       "resources for emotional support"
     ],

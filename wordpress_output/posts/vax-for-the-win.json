@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2021-05-23T17:03:11",
-    "updated_date": "2021-06-22T22:27:38",
+    "updated_date": "2021-07-01T20:46:18",
     "api_version": "v2",
     "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
     "process": {
@@ -17,11 +17,13 @@
     "title": "Vax for the Win",
     "author": "Peggy Gartin",
     "date": "2021-05-23T17:03:11",
-    "modified": "2021-06-22T22:27:38",
+    "modified": "2021-07-01T20:46:18",
     "date_gmt": "2021-05-23T17:03:11",
-    "modified_gmt": "2021-06-22T22:27:38",
+    "modified_gmt": "2021-07-01T20:46:18",
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2021/05/23/vax-for-the-win/",
-    "excerpt": "<p>Vax for the Win California’s vaccine incentive program Get vaccinated, get rewarded We&#8217;ve already awarded millions of dollars in prizes and perks to vaccinated Californians, but we&#8217;re not done yet. Get vaccinated and you could win one of 6 California dream vacations! No matter when you were vaccinated, you&#8217;re automatically entered. Ready to win but [&hellip;]</p>\n",
+    "excerpt": "<p>Vax for the Win California’s vaccine incentive program Get vaccinated, get rewarded Thank you for getting your COVID-19 shots! Vaccinated Californians won millions of dollars in prizes and perks, and made California safer. Truly, your actions saved lives. We’ve chosen winners for the final Vax for the Win drawings: 6 California dream vacations! Winners are [&hellip;]</p>\n",
+    "format": "standard",
+    "type": "post",
     "categories": [
       "Vax for the Win"
     ],

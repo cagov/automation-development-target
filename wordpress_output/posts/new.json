@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2020-04-15T16:23:16",
-    "updated_date": "2021-06-18T17:37:41",
+    "updated_date": "2021-07-02T18:41:46",
     "api_version": "v2",
     "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
     "process": {
@@ -17,11 +17,13 @@
     "title": "new",
     "author": "Peggy Gartin",
     "date": "2020-04-15T16:23:16",
-    "modified": "2021-06-18T17:37:41",
+    "modified": "2021-07-02T18:41:46",
     "date_gmt": "2020-04-15T16:23:16",
-    "modified_gmt": "2021-06-18T17:37:41",
+    "modified_gmt": "2021-07-02T18:41:46",
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/15/new/",
-    "excerpt": "<p>Get a digital copy of your vaccination record Now you can show digital proof of your vaccination. If you were vaccinated in California, go to Digital COVID-19 Vaccine Record and enter your info to access it. Get your record</p>\n",
+    "excerpt": "<p>California picks 6 vaccinated winners to get a dream vacation In the final Vax for the Win drawing on July 1, we chose the winners of getaway vacations to San Francisco, LA, Anaheim, Palm Springs, and San Diego. Watch the drawing</p>\n",
+    "format": "standard",
+    "type": "post",
     "categories": [
       "homepage new"
     ],
