@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "created_date": "2020-05-04T22:48:00",
+    "updated_date": "2020-05-04T22:48:00",
+    "api_version": "v2",
+    "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
+    "process": {
+      "source_code": "https://github.com/cagov/cron",
+      "source_data": "https://as-go-covid19-d-001.azurewebsites.net",
+      "deployment_target": "https://github.com/cagov/automation-development-target/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 2661,
+    "slug": "image-7",
+    "title": "image",
+    "date": "2020-05-04T22:48:00",
+    "modified": "2020-05-04T22:48:00",
+    "date_gmt": "2020-05-04T22:48:00",
+    "modified_gmt": "2020-05-04T22:48:00",
+    "media_type": "image",
+    "mime_type": "image/png",
+    "wordpress_url": "/wp-content/uploads/2020/05/image.png",
+    "type": "attachment",
+    "sizes": []
+  }
+}

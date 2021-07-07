@@ -1,0 +1,75 @@
+{
+  "meta": {
+    "created_date": "2020-05-02T18:07:28",
+    "updated_date": "2020-05-02T18:07:28",
+    "api_version": "v2",
+    "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
+    "process": {
+      "source_code": "https://github.com/cagov/cron",
+      "source_data": "https://as-go-covid19-d-001.azurewebsites.net",
+      "deployment_target": "https://github.com/cagov/automation-development-target/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 2581,
+    "slug": "plsreplacethisimage",
+    "title": "plsreplacethisimage",
+    "author": "Peggy Gartin",
+    "date": "2020-05-02T18:07:28",
+    "modified": "2020-05-02T18:07:28",
+    "date_gmt": "2020-05-02T18:07:28",
+    "modified_gmt": "2020-05-02T18:07:28",
+    "media_type": "image",
+    "mime_type": "image/png",
+    "wordpress_url": "/wp-content/uploads/2020/05/plsreplacethisimage.png",
+    "type": "attachment",
+    "sizes": [
+      {
+        "type": "full",
+        "path": "2020/05/plsreplacethisimage.png",
+        "file": "plsreplacethisimage.png",
+        "width": 1054,
+        "height": 432,
+        "mime_type": "image/png",
+        "source_url": "/wp-content/uploads/2020/05/plsreplacethisimage.png"
+      },
+      {
+        "type": "large",
+        "path": "2020/05/plsreplacethisimage-1024x420.png",
+        "file": "plsreplacethisimage-1024x420.png",
+        "width": 1024,
+        "height": 420,
+        "mime_type": "image/png",
+        "source_url": "/wp-content/uploads/2020/05/plsreplacethisimage-1024x420.png"
+      },
+      {
+        "type": "medium_large",
+        "path": "2020/05/plsreplacethisimage-768x315.png",
+        "file": "plsreplacethisimage-768x315.png",
+        "width": 768,
+        "height": 315,
+        "mime_type": "image/png",
+        "source_url": "/wp-content/uploads/2020/05/plsreplacethisimage-768x315.png"
+      },
+      {
+        "type": "medium",
+        "path": "2020/05/plsreplacethisimage-300x123.png",
+        "file": "plsreplacethisimage-300x123.png",
+        "width": 300,
+        "height": 123,
+        "mime_type": "image/png",
+        "source_url": "/wp-content/uploads/2020/05/plsreplacethisimage-300x123.png"
+      },
+      {
+        "type": "thumbnail",
+        "path": "2020/05/plsreplacethisimage-150x150.png",
+        "file": "plsreplacethisimage-150x150.png",
+        "width": 150,
+        "height": 150,
+        "mime_type": "image/png",
+        "source_url": "/wp-content/uploads/2020/05/plsreplacethisimage-150x150.png"
+      }
+    ]
+  }
+}

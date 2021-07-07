@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "created_date": "2020-05-11T18:46:30",
+    "updated_date": "2020-06-12T16:57:32",
+    "api_version": "v2",
+    "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
+    "process": {
+      "source_code": "https://github.com/cagov/cron",
+      "source_data": "https://as-go-covid19-d-001.azurewebsites.net",
+      "deployment_target": "https://github.com/cagov/automation-development-target/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 3037,
+    "slug": "facecoveringdistributionprocess",
+    "title": "facecoveringdistributionprocess",
+    "author": "Peggy Gartin",
+    "date": "2020-05-11T18:46:30",
+    "modified": "2020-06-12T16:57:32",
+    "date_gmt": "2020-05-11T18:46:30",
+    "modified_gmt": "2020-06-12T16:57:32",
+    "media_type": "image",
+    "mime_type": "image/png",
+    "wordpress_url": "/wp-content/uploads/2020/05/facecoveringdistributionprocess.png",
+    "type": "attachment",
+    "sizes": [
+      {
+        "type": "full",
+        "path": "2020/05/facecoveringdistributionprocess.png",
+        "file": "facecoveringdistributionprocess.png",
+        "width": 2101,
+        "height": 2701,
+        "mime_type": "image/png",
+        "source_url": "/wp-content/uploads/2020/05/facecoveringdistributionprocess.png"
+      },
+      {
+        "type": "2048x2048",
+        "path": "2020/05/facecoveringdistributionprocess-1593x2048.png",
+        "file": "facecoveringdistributionprocess-1593x2048.png",
+        "width": 1593,
+        "height": 2048,
+        "mime_type": "image/png",
+        "source_url": "/wp-content/uploads/2020/05/facecoveringdistributionprocess-1593x2048.png"
+      },
+      {
+        "type": "1536x1536",
+        "path": "2020/05/facecoveringdistributionprocess-1195x1536.png",
+        "file": "facecoveringdistributionprocess-1195x1536.png",
+        "width": 1195,
+        "height": 1536,
+        "mime_type": "image/png",
+        "source_url": "/wp-content/uploads/2020/05/facecoveringdistributionprocess-1195x1536.png"
+      },
+      {
+        "type": "large",
+        "path": "2020/05/facecoveringdistributionprocess-797x1024.png",
+        "file": "facecoveringdistributionprocess-797x1024.png",
+        "width": 797,
+        "height": 1024,
+        "mime_type": "image/png",
+        "source_url": "/wp-content/uploads/2020/05/facecoveringdistributionprocess-797x1024.png"
+      },
+      {
+        "type": "medium_large",
+        "path": "2020/05/facecoveringdistributionprocess-768x987.png",
+        "file": "facecoveringdistributionprocess-768x987.png",
+        "width": 768,
+        "height": 987,
+        "mime_type": "image/png",
+        "source_url": "/wp-content/uploads/2020/05/facecoveringdistributionprocess-768x987.png"
+      },
+      {
+        "type": "medium",
+        "path": "2020/05/facecoveringdistributionprocess-233x300.png",
+        "file": "facecoveringdistributionprocess-233x300.png",
+        "width": 233,
+        "height": 300,
+        "mime_type": "image/png",
+        "source_url": "/wp-content/uploads/2020/05/facecoveringdistributionprocess-233x300.png"
+      },
+      {
+        "type": "thumbnail",
+        "path": "2020/05/facecoveringdistributionprocess-150x150.png",
+        "file": "facecoveringdistributionprocess-150x150.png",
+        "width": 150,
+        "height": 150,
+        "mime_type": "image/png",
+        "source_url": "/wp-content/uploads/2020/05/facecoveringdistributionprocess-150x150.png"
+      }
+    ]
+  }
+}

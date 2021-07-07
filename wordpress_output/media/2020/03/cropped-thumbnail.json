@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "created_date": "2020-03-16T15:45:39",
+    "updated_date": "2020-03-16T15:45:39",
+    "api_version": "v2",
+    "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
+    "process": {
+      "source_code": "https://github.com/cagov/cron",
+      "source_data": "https://as-go-covid19-d-001.azurewebsites.net",
+      "deployment_target": "https://github.com/cagov/automation-development-target/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 140,
+    "slug": "cropped-thumbnail-png",
+    "title": "cropped-thumbnail.png",
+    "author": "Carter Medlin",
+    "date": "2020-03-16T15:45:39",
+    "modified": "2020-03-16T15:45:39",
+    "date_gmt": "2020-03-16T15:45:39",
+    "modified_gmt": "2020-03-16T15:45:39",
+    "media_type": "image",
+    "mime_type": "image/png",
+    "wordpress_url": "/wp-content/uploads/2020/03/cropped-thumbnail.png",
+    "type": "attachment",
+    "sizes": [
+      {
+        "type": "full",
+        "path": "2020/03/cropped-thumbnail.png",
+        "file": "cropped-thumbnail.png",
+        "width": 512,
+        "height": 512,
+        "mime_type": "image/png",
+        "source_url": "/wp-content/uploads/2020/03/cropped-thumbnail.png"
+      },
+      {
+        "type": "medium",
+        "path": "2020/03/cropped-thumbnail-300x300.png",
+        "file": "cropped-thumbnail-300x300.png",
+        "width": 300,
+        "height": 300,
+        "mime_type": "image/png",
+        "source_url": "/wp-content/uploads/2020/03/cropped-thumbnail-300x300.png"
+      },
+      {
+        "type": "site_icon-270",
+        "path": "2020/03/cropped-thumbnail-270x270.png",
+        "file": "cropped-thumbnail-270x270.png",
+        "width": 270,
+        "height": 270,
+        "mime_type": "image/png",
+        "source_url": "/wp-content/uploads/2020/03/cropped-thumbnail-270x270.png"
+      },
+      {
+        "type": "site_icon-192",
+        "path": "2020/03/cropped-thumbnail-192x192.png",
+        "file": "cropped-thumbnail-192x192.png",
+        "width": 192,
+        "height": 192,
+        "mime_type": "image/png",
+        "source_url": "/wp-content/uploads/2020/03/cropped-thumbnail-192x192.png"
+      },
+      {
+        "type": "site_icon-180",
+        "path": "2020/03/cropped-thumbnail-180x180.png",
+        "file": "cropped-thumbnail-180x180.png",
+        "width": 180,
+        "height": 180,
+        "mime_type": "image/png",
+        "source_url": "/wp-content/uploads/2020/03/cropped-thumbnail-180x180.png"
+      },
+      {
+        "type": "thumbnail",
+        "path": "2020/03/cropped-thumbnail-150x150.png",
+        "file": "cropped-thumbnail-150x150.png",
+        "width": 150,
+        "height": 150,
+        "mime_type": "image/png",
+        "source_url": "/wp-content/uploads/2020/03/cropped-thumbnail-150x150.png"
+      },
+      {
+        "type": "site_icon-32",
+        "path": "2020/03/cropped-thumbnail-32x32.png",
+        "file": "cropped-thumbnail-32x32.png",
+        "width": 32,
+        "height": 32,
+        "mime_type": "image/png",
+        "source_url": "/wp-content/uploads/2020/03/cropped-thumbnail-32x32.png"
+      }
+    ]
+  }
+}

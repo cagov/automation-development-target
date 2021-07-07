@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "created_date": "2020-03-16T15:45:35",
+    "updated_date": "2020-03-16T15:45:35",
+    "api_version": "v2",
+    "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
+    "process": {
+      "source_code": "https://github.com/cagov/cron",
+      "source_data": "https://as-go-covid19-d-001.azurewebsites.net",
+      "deployment_target": "https://github.com/cagov/automation-development-target/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 139,
+    "slug": "thumbnail",
+    "title": "thumbnail",
+    "author": "Carter Medlin",
+    "date": "2020-03-16T15:45:35",
+    "modified": "2020-03-16T15:45:35",
+    "date_gmt": "2020-03-16T15:45:35",
+    "modified_gmt": "2020-03-16T15:45:35",
+    "media_type": "image",
+    "mime_type": "image/png",
+    "wordpress_url": "/wp-content/uploads/2020/03/thumbnail.png",
+    "type": "attachment",
+    "sizes": [
+      {
+        "type": "full",
+        "path": "2020/03/thumbnail.png",
+        "file": "thumbnail.png",
+        "width": 500,
+        "height": 500,
+        "mime_type": "image/png",
+        "source_url": "/wp-content/uploads/2020/03/thumbnail.png"
+      },
+      {
+        "type": "medium",
+        "path": "2020/03/thumbnail-300x300.png",
+        "file": "thumbnail-300x300.png",
+        "width": 300,
+        "height": 300,
+        "mime_type": "image/png",
+        "source_url": "/wp-content/uploads/2020/03/thumbnail-300x300.png"
+      },
+      {
+        "type": "thumbnail",
+        "path": "2020/03/thumbnail-150x150.png",
+        "file": "thumbnail-150x150.png",
+        "width": 150,
+        "height": 150,
+        "mime_type": "image/png",
+        "source_url": "/wp-content/uploads/2020/03/thumbnail-150x150.png"
+      }
+    ]
+  }
+}
