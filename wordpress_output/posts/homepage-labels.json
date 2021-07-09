@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2021-04-02T17:05:03",
-    "updated_date": "2021-07-07T16:16:56",
+    "updated_date": "2021-07-09T18:36:42",
     "api_version": "v2",
     "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
     "process": {
@@ -17,9 +17,9 @@
     "title": "homepage labels",
     "author": "Aaron Hans",
     "date": "2021-04-02T17:05:03",
-    "modified": "2021-07-07T16:16:56",
+    "modified": "2021-07-09T18:36:42",
     "date_gmt": "2021-04-02T17:05:03",
-    "modified_gmt": "2021-07-07T16:16:56",
+    "modified_gmt": "2021-07-09T18:36:42",
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2021/04/02/homepage-labels/",
     "excerpt": "<p>strings used on the homepage _id text varTestLabel Test on July 1, 12:21pm varStatsHeader Tracking COVID-19 in CA varTotalCases Cases varTotalDeaths Deaths varTestsReported Tests varPercentIncrease % increase varStateSummary State data varVaccination Vaccination progress varHealthEquity Health equity varHeroTitle Your actions save lives varHeroP1 Get vaccinated varHeroP2 Keep California healthy varHeroAlertSocial Check the Governor’s updates varRecentUpdatesTitle Recent [&hellip;]</p>\n",
     "format": "standard",
