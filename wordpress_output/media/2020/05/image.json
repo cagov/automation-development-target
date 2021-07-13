@@ -5,7 +5,7 @@
     "api_version": "v2",
     "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
     "process": {
-      "source_code": "https://github.com/cagov/cron",
+      "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://as-go-covid19-d-001.azurewebsites.net",
       "deployment_target": "https://github.com/cagov/automation-development-target/tree/main"
     },
@@ -15,9 +15,7 @@
     "id": 2661,
     "date": "2020-05-04T22:48:00",
     "date_gmt": "2020-05-04T22:48:00",
-    "guid": {
-      "rendered": "/wp-content/uploads/2020/05/image.png"
-    },
+    "guid": "/wp-content/uploads/2020/05/image.png",
     "modified": "2020-05-04T22:48:00",
     "modified_gmt": "2020-05-04T22:48:00",
     "slug": "image-7",
