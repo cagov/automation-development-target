@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "created_date": "2020-10-14T21:32:53",
+    "updated_date": "2021-06-15T17:03:51",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://as-go-covid19-d-001.azurewebsites.net",
+      "deployment_target": "https://github.com/cagov/automation-development-target/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 6363,
+    "date": "2020-10-14T21:32:53",
+    "date_gmt": "2020-10-14T21:32:53",
+    "guid": "http://as-go-covid19-d-001.azurewebsites.net/?p=6363",
+    "modified": "2021-06-15T17:03:51",
+    "modified_gmt": "2021-06-15T17:03:51",
+    "slug": "equity",
+    "status": "publish",
+    "type": "post",
+    "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/10/14/equity/",
+    "title": "California’s commitment to health equity",
+    "excerpt": "<p>All Californians—regardless of where they live, their working environment, their social supports, or how they identify⁠—deserve a healthy life. On this page you’ll find:&nbsp; How California is addressing health inequity Overview of disparities in our diverse communities Reopening equitably See data on how communities are impacted in your county See how other factors increase the [&hellip;]</p>\n",
+    "author": "editor3",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "open",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": [],
+    "categories": [
+      "health equity"
+    ],
+    "tags": [
+      "translate"
+    ],
+    "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/10/14/equity/"
+  }
+}

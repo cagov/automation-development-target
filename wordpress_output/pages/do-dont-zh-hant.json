@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "created_date": "2020-04-21T21:39:03",
+    "updated_date": "2020-04-21T22:28:23",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://as-go-covid19-d-001.azurewebsites.net",
+      "deployment_target": "https://github.com/cagov/automation-development-target/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 1842,
+    "date": "2020-04-21T21:39:03",
+    "date_gmt": "2020-04-21T21:39:03",
+    "guid": "http://as-go-covid19-d-001.azurewebsites.net/?p=1842",
+    "modified": "2020-04-21T22:28:23",
+    "modified_gmt": "2020-04-21T22:28:23",
+    "slug": "do-dont-zh-hant",
+    "status": "publish",
+    "type": "post",
+    "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/21/do-dont-zh-hant/",
+    "title": "do don&#8217;t zh hant",
+    "excerpt": "<p>used on the homepage Headers 應做之事 勿做之事 do donot 待在家中 外出（必要活動除外） 避免接觸外人 握手 用肥皂和水洗手至少 20 秒鐘 摸臉 用紙巾遮住咳嗽或噴嚏 不打電話就去看醫生 清潔和消毒常觸摸的東西和表面 囤積口罩或手套 外出時要保持 6 英呎的安全社交距離</p>\n",
+    "author": "Aaron Hans",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "open",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": [],
+    "categories": [
+      "do and do not"
+    ],
+    "tags": [
+      "lang-zh-Hant",
+      "table-data"
+    ],
+    "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/21/do-dont-zh-hant/"
+  }
+}
