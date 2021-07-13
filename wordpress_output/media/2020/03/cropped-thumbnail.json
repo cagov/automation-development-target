@@ -15,14 +15,18 @@
     "id": 140,
     "date": "2020-03-16T15:45:39",
     "date_gmt": "2020-03-16T15:45:39",
-    "guid": "/wp-content/uploads/2020/03/cropped-thumbnail.png",
+    "guid": {
+      "rendered": "/wp-content/uploads/2020/03/cropped-thumbnail.png"
+    },
     "modified": "2020-03-16T15:45:39",
     "modified_gmt": "2020-03-16T15:45:39",
     "slug": "cropped-thumbnail-png",
     "status": "inherit",
     "type": "attachment",
     "link": "https://as-go-covid19-d-001.azurewebsites.net/cropped-thumbnail-png/",
-    "title": "cropped-thumbnail.png",
+    "title": {
+      "rendered": "cropped-thumbnail.png"
+    },
     "author": "Carter Medlin",
     "comment_status": "open",
     "ping_status": "closed",

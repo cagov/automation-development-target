@@ -15,14 +15,18 @@
     "id": 135,
     "date": "2020-03-16T15:44:02",
     "date_gmt": "2020-03-16T15:44:02",
-    "guid": "/wp-content/uploads/2020/03/cropped-ms-icon-310x310-1.png",
+    "guid": {
+      "rendered": "/wp-content/uploads/2020/03/cropped-ms-icon-310x310-1.png"
+    },
     "modified": "2020-03-16T15:44:02",
     "modified_gmt": "2020-03-16T15:44:02",
     "slug": "cropped-ms-icon-310x310-1-png",
     "status": "inherit",
     "type": "attachment",
     "link": "https://as-go-covid19-d-001.azurewebsites.net/cropped-ms-icon-310x310-1-png/",
-    "title": "cropped-ms-icon-310&#215;310-1.png",
+    "title": {
+      "rendered": "cropped-ms-icon-310&#215;310-1.png"
+    },
     "author": "Carter Medlin",
     "comment_status": "open",
     "ping_status": "closed",

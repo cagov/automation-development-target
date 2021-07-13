@@ -15,14 +15,18 @@
     "id": 4827,
     "date": "2020-07-14T18:57:03",
     "date_gmt": "2020-07-14T18:57:03",
-    "guid": "/wp-content/uploads/2020/07/15485_lores-1.jpg",
+    "guid": {
+      "rendered": "/wp-content/uploads/2020/07/15485_lores-1.jpg"
+    },
     "modified": "2020-07-14T18:57:03",
     "modified_gmt": "2020-07-14T18:57:03",
     "slug": "15485_lores-1",
     "status": "inherit",
     "type": "attachment",
     "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/05/11/masks-and-ppe/15485_lores-1/",
-    "title": "15485_lores-1",
+    "title": {
+      "rendered": "15485_lores-1"
+    },
     "author": "Peggy Gartin",
     "comment_status": "closed",
     "ping_status": "closed",

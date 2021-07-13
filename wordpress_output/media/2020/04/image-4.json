@@ -15,14 +15,18 @@
     "id": 2073,
     "date": "2020-04-27T00:35:30",
     "date_gmt": "2020-04-27T00:35:30",
-    "guid": "/wp-content/uploads/2020/04/image-4.png",
+    "guid": {
+      "rendered": "/wp-content/uploads/2020/04/image-4.png"
+    },
     "modified": "2020-04-27T00:35:30",
     "modified_gmt": "2020-04-27T00:35:30",
     "slug": "image-4",
     "status": "inherit",
     "type": "attachment",
     "link": "https://as-go-covid19-d-001.azurewebsites.net/image-4/",
-    "title": "image-4",
+    "title": {
+      "rendered": "image-4"
+    },
     "comment_status": "closed",
     "ping_status": "closed",
     "template": "",
