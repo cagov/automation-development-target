@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "created_date": "2021-05-23T17:03:11",
+    "updated_date": "2021-07-13T23:04:00",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://as-go-covid19-d-001.azurewebsites.net",
+      "deployment_target": "https://github.com/cagov/automation-development-target/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 12592,
+    "date": "2021-05-23T17:03:11",
+    "date_gmt": "2021-05-23T17:03:11",
+    "guid": "https://as-go-covid19-d-001.azurewebsites.net/?p=12592",
+    "modified": "2021-07-13T23:04:00",
+    "modified_gmt": "2021-07-13T23:04:00",
+    "slug": "vax-for-the-win",
+    "status": "publish",
+    "type": "post",
+    "link": "https://as-go-covid19-d-001.azurewebsites.net/2021/05/23/vax-for-the-win/",
+    "title": "Vax for the Win",
+    "excerpt": "<p>Vax for the Win California’s vaccine incentive program Get vaccinated, get rewarded Not yet vaccinated? Do it by July 18 and you will get a $50 incentive card! Free tickets to Six Flags are also available at select locations. Don’t wait any longer! $50 cards Tickets to Six Flags CA dream vacations &#8211; “Golden State [&hellip;]</p>\n",
+    "author": "Peggy Gartin",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "open",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": [],
+    "categories": [
+      "Vax for the Win"
+    ],
+    "tags": [
+      "staging-only",
+      "translate"
+    ],
+    "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2021/05/23/vax-for-the-win/"
+  }
+}

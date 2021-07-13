@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "created_date": "2020-04-24T23:34:16",
+    "updated_date": "2021-04-16T22:13:30",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://as-go-covid19-d-001.azurewebsites.net",
+      "deployment_target": "https://github.com/cagov/automation-development-target/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 2040,
+    "date": "2020-04-24T23:34:16",
+    "date_gmt": "2020-04-24T23:34:16",
+    "guid": "http://as-go-covid19-d-001.azurewebsites.net/?p=2040",
+    "modified": "2021-04-16T22:13:30",
+    "modified_gmt": "2021-04-16T22:13:30",
+    "slug": "discrimination",
+    "status": "publish",
+    "type": "post",
+    "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/24/discrimination/",
+    "title": "Fighting discrimination",
+    "excerpt": "<p>California’s strength is in its diversity. Discrimination and hate have no place in our society, let alone in our response to COVID-19. Find out what forms discrimination can take, why it&#8217;s so important to stop it especially during this pandemic, and how you can report discrimination you experience or witness.</p>\n",
+    "author": "Peggy Gartin",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "open",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": [],
+    "categories": [
+      "discrimination"
+    ],
+    "tags": [
+      "translate"
+    ],
+    "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/24/discrimination/"
+  }
+}
