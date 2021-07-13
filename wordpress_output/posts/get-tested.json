@@ -13,22 +13,102 @@
   },
   "data": {
     "id": 6198,
-    "slug": "get-tested",
-    "title": "Testing",
-    "author": "editor3",
     "date": "2020-09-24T01:33:16",
-    "modified": "2021-06-24T21:47:11",
     "date_gmt": "2020-09-24T01:33:16",
+    "guid": {
+      "rendered": "http://as-go-covid19-d-001.azurewebsites.net/?p=6198"
+    },
+    "modified": "2021-06-24T21:47:11",
     "modified_gmt": "2021-06-24T21:47:11",
-    "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/09/24/get-tested/",
-    "excerpt": "<p>Free, confidential COVID-19 testing is available to every Californian that needs it. Find testing locations here.</p>\n",
-    "format": "standard",
+    "slug": "get-tested",
+    "status": "publish",
     "type": "post",
+    "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/09/24/get-tested/",
+    "title": "Testing",
+    "content": {
+      "rendered": "\n<div class=\"highlight\">\n<h2 class=\"h3 text-left color-primary mt-0\">Find testing near you</h2>\n<p>State-sponsored testing is searchable at the link below. Testing sites from other providers may be available at your <a href=\"https://covid19.ca.gov/get-local-information/#County-websites\">county’s COVID-19 website</a>.\n</p>\n<a class=\"button-lightblue font-size-1em\" href=\"https://www.arcgis.com/apps/Nearby/index.html?appid=43118dc0d5d348d8ab20a81967a15401\">Find a testing location</a>\n</div>\n\n\n\n<p class=\"emphasized\">Free, confidential COVID-19 testing is available to every Californian. <a href=\"https://covid19.ca.gov/vaccines/\">Get vaccinated</a> to reduce the need for testing.</p>\n\n\n\n<p class=\"h3\">On this page:</p>\n\n\n\n<ul class=\"toc\"><li><strong><a href=\"#Testing-guidance\">Testing guidance</a></strong></li><li><a href=\"#cost-for-testing\"><strong>Cost for testing</strong></a></li><li><a href=\"#how-to-get-tested\"><strong>How to get tested</strong></a></li><li><a href=\"#questions-and-answers\"><strong>Questions and answers</strong></a></li></ul>\n\n\n\n<hr class=\"wp-block-separator bd-top-darkblue\" id=\"Testing-guidance\"/>\n\n\n\n<h2>Testing guidance</h2>\n\n\n\n<p>As the vaccination rate increases across California, CDPH is adapting testing guidance to focus on:</p>\n\n\n\n<ul><li>High-risk populations, and&nbsp;</li><li>Those who&nbsp; are not vaccinated.</li></ul>\n\n\n\n<p>Testing provides insights into community prevalence and transmission. This lets us monitor the introduction of new variants into the community and the evolution of the virus.</p>\n\n\n\n<p>In general,</p>\n\n\n\n<ul><li>Fully-vaccinated individuals do not need to undergo diagnostic screening testing in non-healthcare settings.</li><li>Diagnostic screening testing of asymptomatic employees in acute health care and long-term care facilities should continue regardless of vaccination status, with a few exceptions:<ul><li>Facilities may stop routine testing of asymptomatic staff who are fully vaccinated where:<ul><li>More than 70% of residents and more than 70% staff are fully vaccinated in a long-term care facility, or</li><li>More than 70% of staff are fully vaccinated in an acute health care facility.</li></ul></li><li>Facilities may consider continuing routine testing for fully-vaccinated staff with underlying immunocompromising conditions (like organ transplantation or cancer treatment), which might impact the level of protection provided by COVID-19 vaccine.</li></ul></li><li>Diagnostic testing should be considered for all individuals with symptoms or exposure to COVID-19:<ul><li>All individuals with symptoms of COVID-19 should be subject to diagnostic testing immediately.</li><li>Individuals who are not vaccinated and have close contact with someone who has tested positive for COVID-19 should be tested.</li></ul></li></ul>\n\n\n\n<ul><li>Testing before entry, admission, competition, or travel: Non-vaccinated individuals should be tested if they will be taking part in activities that put them or others at higher risk for COVID-19 exposure. Pre-testing should be considered for those:<ul><li>Attending large indoor social or mass gatherings, like:<ul><li>Large private events</li><li>Live performance events</li><li>Sporting events</li><li>Theme parks</li></ul></li><li>Competing in high risk sports</li><li>Other events in crowded or poorly-ventilated settings</li></ul></li></ul>\n\n\n\n<p>Read CDPH’s <a href=\"https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/Updated-COVID-19-Testing-Guidance.aspx\">Updated Testing Guidance</a> to find out who needs to get tested, when, and how often.</p>\n\n\n\n<hr class=\"wp-block-separator bd-top-darkblue\" id=\"cost-for-testing\"/>\n\n\n\n<h2>Cost for testing</h2>\n\n\n\n<p><strong>There are no out-of-pocket costs for COVID-19 testing.</strong> A <a href=\"https://www.dmhc.ca.gov/Portals/0/Docs/DO/COVID-TestingFactSheet.pdf\">health plan enrollee can get a COVID-19 test</a> when needed by any provider, in or out of their health plan network, at no cost. If you’re uninsured, the government pays for your test.</p>\n\n\n\n<hr class=\"wp-block-separator bd-top-darkblue\" id=\"how-to-get-tested\"/>\n\n\n\n<h2>How to get tested</h2>\n\n\n\n<p>California has partnered with OptumServe to provide free, confidential testing statewide. Tests are available for everyone, including:</p>\n\n\n\n<ul><li>Underserved communities</li><li>Individuals who are at high risk</li></ul>\n\n\n\n<h3 id=\"Testing-with-OptumServe\">Testing with OptumServe</h3>\n\n\n\n<p>Tests are by appointment only. Find a location near you and make an appointment at:</p>\n\n\n\n<blockquote class=\"wp-block-quote\"><p><a href=\"https://lhi.care/covidtesting\" class=\"action-link pt-3 pb-3 px-4\"><strong>Register to be tested for COVID-19</strong></a></p></blockquote>\n\n\n\n<p>If you do not have internet access, call 1-888-634-1123.</p>\n\n\n\n<p>OptumServe community testing sites serve all individuals who qualify for a test. This includes uninsured, underinsured, undocumented and homeless individuals. You do not need a driver’s license to get this test.</p>\n\n\n\n<hr class=\"wp-block-separator bd-top-darkblue\" id=\"questions-and-answers\"/>\n\n\n\n<h2>Questions and answers</h2>\n\n\n\n<h3 class=\"wp-accordion\">Does my health plan have to cover my COVID-19 test?&nbsp;</h3>\n\n\n\n<p class=\"wp-accordion-content\">Yes. The federal <a href=\"https://www.dmhc.ca.gov/Portals/0/Docs/DO/APL21-011-NewFederalGuidanceRegardingCOVID-19Testing.pdf\">guidance</a> requires health plans to provide testing at no cost to everyone (even those without COVID-19 symptoms or possible exposure to COVID-19). You do not need to be an “essential worker” to get a COVID-19 test.</p>\n\n\n\n<p class=\"wp-accordion-content\">To get tested you can go to any COVID-19 testing provider authorized or licensed by the state. You do not need to go to a provider that is in your health plan’s or health insurer’s provider network. You do not need to get permission from your health plan or health insurer before going to get a COVID-19 test. And you do not need to pay a co-payment for a COVID-19 test.</p>\n\n\n\n<h3 class=\"wp-accordion\">What if I don’t have health insurance and I need COVID-19 testing or care?</h3>\n\n\n\n<p class=\"wp-accordion-content\">For the uninsured, the <a href=\"https://www.hrsa.gov/CovidUninsuredClaim\">government pays</a> for all necessary COVID-19 testing and care. Check your symptoms using the <a href=\"https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Fsymptoms-testing%2Findex.html\">Symptom Screener</a> or by talking to your doctor.</p>\n\n\n\n<h3 class=\"wp-accordion\">How long does it take for coronavirus test results to come back?</h3>\n\n\n\n<p class=\"wp-accordion-content\">Turnaround time for coronavirus test results is usually less than two days. Approximately two-thirds are returned within a day and more than 85% are available within two days.</p>\n\n\n\n<p class=\"wp-accordion-content\">This turnaround time includes shipping time. So for labs that process home testing kits, turnaround time may depend on when an individual mails back their kit.</p>\n\n\n\n<p class=\"wp-accordion-content\">If you haven’t received your test results and it’s been several days, contact:</p>\n\n\n\n<ul class=\"wp-accordion-content\"><li>Your healthcare provider,</li><li>Testing service, or&nbsp;</li><li>Local health department.</li></ul>\n\n\n\n<p class=\"wp-accordion-content\">Read more at <a href=\"https://testing.covid19.ca.gov/\">California’s COVID-19 Testing Task Force</a>.</p>\n\n\n\n<h3 class=\"wp-accordion\">What is acceptable as proof of a negative COVID-19 test result?</h3>\n\n\n\n<p class=\"wp-accordion-content\">The following are accepted:</p>\n\n\n\n<ul class=\"wp-accordion-content\"><li>Printed document from your test provider or laboratory</li><li>An email or text message displayed on your phone from your test provider or laboratory</li></ul>\n\n\n\n<p class=\"wp-accordion-content\">The information provided should include name of person tested, type of test performed, and date of negative test result. For PCR, the date of negative result must be within the prior 72 hours; for antigen, the date of negative result must be within the prior 24 hours.</p>\n\n\n\n<h3 class=\"wp-accordion\">When can I be around other people after I tested positive for COVID-19 but had no symptoms?</h3>\n\n\n\n<p class=\"wp-accordion-content\">If you continue to have no symptoms, you can be with others after 10 days have passed since your test.<br><br>The CDC has <a class=\"external\" href=\"https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/end-home-isolation.html\">detailed recommendations</a> for people who test positive but have no symptoms.</p>\n\n\n\n<h3 class=\"wp-accordion\">If I test positive for COVID-19 in a viral test, what should I do to protect others in my household?</h3>\n\n\n\n<p class=\"wp-accordion-content\">You should <a class=\"external\" href=\"https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/isolation.html\">self-isolate</a> from others in your household who have not tested positive. Sleep and stay in a separate room from them, and use a separate bathroom, if possible. Multiple infected people in the same household can use the same room for isolation.</p>\n\n\n\n<p class=\"wp-accordion-content\">Members of your household should get tested right away. They should <a href=\"https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/quarantine.html\">quarantine</a> for at least 14 days:&nbsp;</p>\n\n\n\n<ul class=\"wp-accordion-content\"><li>Close contacts who have never had any symptoms may discontinue quarantine after Day 10 from the date of last exposure <strong>without</strong> testing.</li><li>If you are released from quarantine before Day 14 after exposure, you must:<ul><li>Monitor yourself daily for COVID-19 symptoms through Day 14 and if symptoms occur, immediately self-isolate and contact your local public health department or healthcare provider to get tested.</li><li>Wear a mask or facial covering around others, continue to wash your hands frequently, and stay at least 6 feet from others through Day 14.</li></ul></li></ul>\n\n\n\n<p class=\"wp-accordion-content\">You do not have to quarantine if:</p>\n\n\n\n<ul class=\"wp-accordion-content\"><li>You recovered from COVID-19 within the past 3 months and have no new symptoms.</li><li>You are <a href=\"https://covid19.ca.gov/vaccines/#Quarantine-if-you%E2%80%99re-vaccinated\">fully vaccinated</a> against COVID-19 and show no symptoms.</li></ul>\n\n\n\n<hr class=\"wp-block-separator bd-top-darkblue\"/>\n\n\n\n<h2>Stay informed</h2>\n\n\n\n<ul><li>FDA: <a class=\"external\" href=\"https://www.fda.gov/consumers/consumer-updates/coronavirus-testing-basics\">Coronavirus Testing Basics</a></li><li>FDA video: <a class=\"external\" href=\"https://youtu.be/5hu7_xIsCRg\">An Introduction to COVID-19 Tests</a> </li><li>CDPH:  <a href=\"https://testing.covid19.ca.gov/\">COVID-19 Testing Task Force</a> </li><li>CDC: <a class=\"external\" href=\"https://www.cdc.gov/coronavirus/2019-ncov/testing/at-home-testing.html\">At-Home Testing</a></li><li>CDC: <a class=\"external\" href=\"https://www.cdc.gov/coronavirus/2019-ncov/testing/diagnostic-testing.html\">Test for Current Infection</a></li><li>CDC: <a class=\"external\" href=\"https://www.cdc.gov/coronavirus/2019-ncov/testing/serology-overview.html\">Test for Past Infection</a></li><li>HRSA: <a class=\"external\" href=\"https://www.hrsa.gov/CovidUninsuredClaim\">COVID-19 Claims Reimbursement to Health Care Providers and Facilities for Testing and Treatment of the Uninsured</a></li></ul>\n",
+      "protected": false
+    },
+    "excerpt": "<p>Free, confidential COVID-19 testing is available to every Californian that needs it. Find testing locations here.</p>\n",
+    "author": "editor3",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "open",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": [],
     "categories": [
       "testing and treatment"
     ],
     "tags": [
       "translate"
-    ]
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/posts/6198"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/users/7"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/comments?post=6198"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 99,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/posts/6198/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 13514,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/posts/6198/revisions/13514"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/media?parent=6198"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/categories?post=6198"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/tags?post=6198"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    },
+    "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/09/24/get-tested/"
   }
 }

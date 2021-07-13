@@ -13,23 +13,103 @@
   },
   "data": {
     "id": 1205,
-    "slug": "500",
-    "title": "500",
-    "author": "Carter Medlin",
     "date": "2020-04-13T19:59:22",
-    "modified": "2020-04-20T19:09:26",
     "date_gmt": "2020-04-13T19:59:22",
+    "guid": {
+      "rendered": "http://as-go-covid19-d-001.azurewebsites.net/?p=1205"
+    },
+    "modified": "2020-04-20T19:09:26",
     "modified_gmt": "2020-04-20T19:09:26",
-    "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/13/500/",
-    "excerpt": "<p>This website is experiencing a temporary problem. Este sitio web está experimentando un problema temporal. 该网站出现暂时性问题。 يواجه هذا الموقع مشكلة مؤقتة. Trang web này đang gặp sự cố tạm thời. 이 웹 사이트에 일시적인 문제가 있습니다.</p>\n",
-    "format": "standard",
+    "slug": "500",
+    "status": "publish",
     "type": "post",
+    "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/13/500/",
+    "title": "500",
+    "content": {
+      "rendered": "\n<p>This website is experiencing a temporary problem.</p>\n\n\n\n<p>Este sitio web está experimentando un problema temporal.</p>\n\n\n\n<p>该网站出现暂时性问题。</p>\n\n\n\n<p>يواجه هذا الموقع مشكلة مؤقتة.</p>\n\n\n\n<p>Trang web này đang gặp sự cố tạm thời.</p>\n\n\n\n<p>이 웹 사이트에 일시적인 문제가 있습니다.</p>\n",
+      "protected": false
+    },
+    "excerpt": "<p>This website is experiencing a temporary problem. Este sitio web está experimentando un problema temporal. 该网站出现暂时性问题。 يواجه هذا الموقع مشكلة مؤقتة. Trang web này đang gặp sự cố tạm thời. 이 웹 사이트에 일시적인 문제가 있습니다.</p>\n",
+    "author": "Carter Medlin",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "open",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": [],
     "categories": [
       "error page"
     ],
     "tags": [
       "do-not-crawl",
       "machine-translated"
-    ]
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/posts/1205"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/users/3"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/comments?post=1205"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 1,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/posts/1205/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 1212,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/posts/1205/revisions/1212"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/media?parent=1205"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/categories?post=1205"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/tags?post=1205"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    },
+    "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/13/500/"
   }
 }

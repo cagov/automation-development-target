@@ -13,23 +13,103 @@
   },
   "data": {
     "id": 1836,
-    "slug": "do-dont-tl",
-    "title": "do don&#8217;t tl",
-    "author": "Aaron Hans",
     "date": "2020-04-21T21:37:13",
-    "modified": "2020-04-21T22:15:54",
     "date_gmt": "2020-04-21T21:37:13",
+    "guid": {
+      "rendered": "http://as-go-covid19-d-001.azurewebsites.net/?p=1836"
+    },
+    "modified": "2020-04-21T22:15:54",
     "modified_gmt": "2020-04-21T22:15:54",
-    "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/21/do-dont-tl/",
-    "excerpt": "<p>used on the homepage Headers Gawin Huwag do donot Manatili sa tahanan Umalis ng bahay maliban sa mahahalagang mga aktibidad Iwasan ang mga tao sa labas ng iyong sambahayan Makipag-kamayan Hugasan ang iyong kamay ng sabon at tubig ng hindi bababa sa 20 segundo Hawakan ang iyong mukha Takpan ang iyong ubo at bahing ng [&hellip;]</p>\n",
-    "format": "standard",
+    "slug": "do-dont-tl",
+    "status": "publish",
     "type": "post",
+    "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/21/do-dont-tl/",
+    "title": "do don&#8217;t tl",
+    "content": {
+      "rendered": "\n<p>used on the homepage</p>\n\n\n\n<figure class=\"wp-block-table\"><table class=\"has-fixed-layout\"><thead><tr><th>Headers</th></tr></thead><tbody><tr><td>Gawin</td></tr><tr><td>Huwag</td></tr></tbody></table></figure>\n\n\n\n<figure class=\"wp-block-table is-style-stripes\"><table class=\"has-fixed-layout\"><thead><tr><th>do</th><th>donot</th></tr></thead><tbody><tr><td>Manatili sa tahanan</td><td>Umalis ng bahay maliban sa mahahalagang mga aktibidad</td></tr><tr><td>Iwasan ang mga tao sa labas ng iyong sambahayan</td><td>Makipag-kamayan</td></tr><tr><td>Hugasan ang iyong kamay ng sabon at tubig ng hindi bababa sa 20 segundo</td><td>Hawakan ang iyong mukha</td></tr><tr><td>Takpan ang iyong ubo at bahing ng tisyu</td><td>Pumunta sa doktor maliban kung tumawag na muna</td></tr><tr><td>Linisan at disinpektahan ang madalas na nahahawakang mga kagamitan at mga ibabaw nito</td><td>Mag-imbak ng mga mask o gloves</td></tr><tr><td>Panatilihing ligtas ang pagdistansiya sa lipunan ng 6 na talampakan kapag nasa labas ng tahanan</td><td></td></tr></tbody></table></figure>\n",
+      "protected": false
+    },
+    "excerpt": "<p>used on the homepage Headers Gawin Huwag do donot Manatili sa tahanan Umalis ng bahay maliban sa mahahalagang mga aktibidad Iwasan ang mga tao sa labas ng iyong sambahayan Makipag-kamayan Hugasan ang iyong kamay ng sabon at tubig ng hindi bababa sa 20 segundo Hawakan ang iyong mukha Takpan ang iyong ubo at bahing ng [&hellip;]</p>\n",
+    "author": "Aaron Hans",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "open",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": [],
     "categories": [
       "do and do not"
     ],
     "tags": [
       "lang-tl",
       "table-data"
-    ]
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/posts/1836"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/users/2"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/comments?post=1836"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 2,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/posts/1836/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 1862,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/posts/1836/revisions/1862"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/media?parent=1836"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/categories?post=1836"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/tags?post=1836"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    },
+    "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/21/do-dont-tl/"
   }
 }

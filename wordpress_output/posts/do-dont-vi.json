@@ -13,23 +13,103 @@
   },
   "data": {
     "id": 1834,
-    "slug": "do-dont-vi",
-    "title": "do don&#8217;t vi",
-    "author": "Aaron Hans",
     "date": "2020-04-21T21:36:29",
-    "modified": "2020-04-21T22:12:05",
     "date_gmt": "2020-04-21T21:36:29",
+    "guid": {
+      "rendered": "http://as-go-covid19-d-001.azurewebsites.net/?p=1834"
+    },
+    "modified": "2020-04-21T22:12:05",
     "modified_gmt": "2020-04-21T22:12:05",
-    "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/21/do-dont-vi/",
-    "excerpt": "<p>used on the homepage Headers Nên Không nên do donot Ở nhà Rời khỏi nhà trừ những hoạt động thiết yếu Tránh tiếp xúc với những người không phải người cùng nhà của quý vị Bắt tay Rửa tay thường xuyên bằng xà phòng và nước trong ít nhất 20 giây Chạm vào mặt quý [&hellip;]</p>\n",
-    "format": "standard",
+    "slug": "do-dont-vi",
+    "status": "publish",
     "type": "post",
+    "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/21/do-dont-vi/",
+    "title": "do don&#8217;t vi",
+    "content": {
+      "rendered": "\n<p>used on the homepage</p>\n\n\n\n<figure class=\"wp-block-table\"><table class=\"has-fixed-layout\"><thead><tr><th>Headers</th></tr></thead><tbody><tr><td>Nên</td></tr><tr><td>Không nên</td></tr></tbody></table></figure>\n\n\n\n<figure class=\"wp-block-table is-style-stripes\"><table class=\"has-fixed-layout\"><thead><tr><th>do</th><th>donot</th></tr></thead><tbody><tr><td>Ở nhà</td><td>Rời khỏi nhà trừ những hoạt động thiết yếu</td></tr><tr><td>Tránh tiếp xúc với những người không phải người cùng nhà của quý vị</td><td>Bắt tay</td></tr><tr><td>Rửa tay thường xuyên bằng xà phòng và nước trong ít nhất 20 giây</td><td>Chạm vào mặt quý vị</td></tr><tr><td>Khi ho hoặc hắt hơi, che miệng bằng khăn giấy</td><td>Đi đến bác sĩ trừ khi quý vị đã gọi trước</td></tr><tr><td>Làm sạch và khử trùng thường xuyên các đồ vật và những bề mặt quý vị hay chạm</td><td>Dự trữ mặt nạ hoặc găng tay</td></tr><tr><td>Duy trì khoảng cách 2 mét (6 feet) mỗi khi ra khỏi nhà</td><td></td></tr></tbody></table></figure>\n",
+      "protected": false
+    },
+    "excerpt": "<p>used on the homepage Headers Nên Không nên do donot Ở nhà Rời khỏi nhà trừ những hoạt động thiết yếu Tránh tiếp xúc với những người không phải người cùng nhà của quý vị Bắt tay Rửa tay thường xuyên bằng xà phòng và nước trong ít nhất 20 giây Chạm vào mặt quý [&hellip;]</p>\n",
+    "author": "Aaron Hans",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "open",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": [],
     "categories": [
       "do and do not"
     ],
     "tags": [
       "lang-vi",
       "table-data"
-    ]
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/posts/1834"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/users/2"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/comments?post=1834"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 3,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/posts/1834/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 1861,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/posts/1834/revisions/1861"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/media?parent=1834"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/categories?post=1834"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/tags?post=1834"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    },
+    "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/21/do-dont-vi/"
   }
 }

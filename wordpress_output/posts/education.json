@@ -13,22 +13,102 @@
   },
   "data": {
     "id": 36,
-    "slug": "education",
-    "title": "Education",
-    "author": "Liz Nobriga",
     "date": "2020-03-13T21:09:39",
-    "modified": "2021-07-13T00:37:47",
     "date_gmt": "2020-03-13T21:09:39",
+    "guid": {
+      "rendered": "http://as-go-covid19-d-001.azurewebsites.net/?p=36"
+    },
+    "modified": "2021-07-13T00:37:47",
     "modified_gmt": "2021-07-13T00:37:47",
-    "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/03/13/education/",
-    "excerpt": "<p>Information on how coronavirus / COVID-19 is affecting California K-12 and higher learning. School closures, distance learning, school meals, standardized testing, and free or low-cost internet service.</p>\n",
-    "format": "standard",
+    "slug": "education",
+    "status": "publish",
     "type": "post",
+    "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/03/13/education/",
+    "title": "Education",
+    "content": {
+      "rendered": "\n<p class=\"emphasized\">California is committed to supporting staff and students to safely return to in-person instruction for the 2021-2022 school year.</p>\n\n\n\n<p class=\"h3\"><strong>On this page:</strong></p>\n\n\n\n<ul class=\"toc\"><li><a href=\"https://covid19.ca.gov/education/#k-12-guidance\"><strong>K-12 guidance</strong></a></li><li><strong><a href=\"#higher-education\" data-type=\"internal\" data-id=\"#higher-education\">Higher education</a></strong></li></ul>\n\n\n\n<hr class=\"wp-block-separator\"/>\n\n\n\n<h2 id=\"k-12-guidance\">K-12 guidance</h2>\n\n\n\n<p>California has released <a href=\"https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/K-12-Guidance-2021-22-School-Year.aspx\">guidance for K-12 schools</a> for the 2021-2022 school year. This updated guidance helps schools prepare for safe in-person instruction. It applies CDC’s latest recommendations to the conditions in California. All adults and students in K-12 school settings must wear masks indoors.</p>\n\n\n\n<p>The California Department of Public Health (CDPH) continues to assess conditions on an ongoing basis. CDPH will determine by November 1, 2021 whether to update mask requirements.</p>\n\n\n\n<p>Check the <a href=\"https://schools.covid19.ca.gov/\">Safe Schools Hub</a> for resources to support safe in-person instruction.</p>\n\n\n\n<hr class=\"wp-block-separator\"/>\n\n\n\n<h2 id=\"higher-education\">Higher education</h2>\n\n\n\n<p>Most businesses are required to maintain compliance with California’s&nbsp;<a href=\"https://www.dir.ca.gov/dosh/coronavirus/ETS.html\">COVID-19 Prevention Emergency Temporary Standards</a>&nbsp;(ETS), which include current&nbsp;<a href=\"https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Guidance.aspx\">public health guidelines</a>.&nbsp;These ETS are available to help institutions and their communities plan and prepare to resume in-person instruction.</p>\n\n\n\n<p>Many schools, <a href=\"https://www.gov.ca.gov/2020/04/16/governor-newsom-signs-executive-order-on-actions-in-response-to-covid-19/\">like CSU</a>, are adjusting admission criteria in response to COVID-19.</p>\n\n\n\n<p>See your college or university’s COVID-19 response:</p>\n\n\n\n<ul><li><a href=\"https://www.universityofcalifornia.edu/coronavirus/\">University of California</a></li><li><a href=\"https://www2.calstate.edu/coronavirus/\">California State University (CSU)</a></li><li><a href=\"https://www.cccco.edu/About-Us/Chancellors-Office/Divisions/Communications-and-Marketing/Novel-Coronavirus\">California Community Colleges</a></li></ul>\n\n\n\n<p>To learn more about your state financial aid package, visit the <a href=\"https://www.csac.ca.gov/covid19\">California Student Aid Commission</a> website.</p>\n\n\n\n<hr class=\"wp-block-separator\"/>\n\n\n\n<h2 id=\"stay-informed\">Stay informed</h2>\n\n\n\n<ul><li>Department of Education: <a href=\"https://www.cde.ca.gov/ls/he/hn/coronavirus.asp\">Coronavirus Response and School Reopening</a></li></ul>\n\n\n\n<p></p>\n",
+      "protected": false
+    },
+    "excerpt": "<p>Information on how coronavirus / COVID-19 is affecting California K-12 and higher learning. School closures, distance learning, school meals, standardized testing, and free or low-cost internet service.</p>\n",
+    "author": "Liz Nobriga",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": [],
     "categories": [
       "education"
     ],
     "tags": [
       "translate"
-    ]
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/posts/36"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/users/9"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/comments?post=36"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 162,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/posts/36/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 13719,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/posts/36/revisions/13719"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/media?parent=36"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/categories?post=36"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/tags?post=36"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    },
+    "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/03/13/education/"
   }
 }

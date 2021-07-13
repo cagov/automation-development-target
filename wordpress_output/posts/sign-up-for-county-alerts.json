@@ -13,22 +13,102 @@
   },
   "data": {
     "id": 4279,
-    "slug": "sign-up-for-county-alerts",
-    "title": "Local alerts",
-    "author": "Peggy Gartin",
     "date": "2020-06-17T22:22:32",
-    "modified": "2021-05-13T16:33:19",
     "date_gmt": "2020-06-17T22:22:32",
+    "guid": {
+      "rendered": "http://as-go-covid19-d-001.azurewebsites.net/?p=4279"
+    },
+    "modified": "2021-05-13T16:33:19",
     "modified_gmt": "2021-05-13T16:33:19",
-    "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/06/17/sign-up-for-county-alerts/",
-    "excerpt": "<p>Sign up for local emergency alerts.</p>\n",
-    "format": "standard",
+    "slug": "sign-up-for-county-alerts",
+    "status": "publish",
     "type": "post",
+    "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/06/17/sign-up-for-county-alerts/",
+    "title": "Local alerts",
+    "content": {
+      "rendered": "\n<h2>Sign up for local emergency alerts</h2>\n\n\n\n<p>Stay informed of local updates by signing up for your county alert.</p>\n\n\n\n<div class=\"row\">\n  <div class=\"col-md-12\">\n    <form class=\"form-inline js-alert-lookup\">\n      <div class=\"form-group\">\n        <label for=\"location-query\">\n          Please enter your county or zip code:\n        </label>\n        <div class=\"awesomplete\">\n          <div class=\"awesomplete\">\n            <input aria-owns=\"awesomplete_list_1\" aria-controls=\"awesomplete_list_1\" autocomplete=\"off\" class=\"city-search form-control\" data-list=\"\" data-multiple=\"\" id=\"location-query\" role=\"combobox\" type=\"text\" aria-expanded=\"false\">\n          </div>\n        </div>\n        <button class=\"btn btn-primary\" type=\"submit\">\n          Find alerts\n        </button>\n        <div class=\"invalid-feedback\">\n          Please enter a county or zip code in California.\n        </div>\n      </div>\n    </form>\n    <div class=\"js-county-alert\" aria-live=\"polite\">\n      <ul class=\"card-set\" title=\"county alert list\"></ul>\n    </div>\n  </div>\n</div>\n",
+      "protected": false
+    },
+    "excerpt": "<p>Sign up for local emergency alerts.</p>\n",
+    "author": "Peggy Gartin",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "open",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": [],
     "categories": [
       "Uncategorized"
     ],
     "tags": [
       "translate"
-    ]
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/posts/4279"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/users/8"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/comments?post=4279"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 12,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/posts/4279/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 12364,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/posts/4279/revisions/12364"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/media?parent=4279"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/categories?post=4279"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/tags?post=4279"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    },
+    "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/06/17/sign-up-for-county-alerts/"
   }
 }

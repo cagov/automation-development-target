@@ -13,23 +13,103 @@
   },
   "data": {
     "id": 1364,
-    "slug": "cali-working",
-    "title": "cali working",
-    "author": "Aaron Hans",
     "date": "2020-04-14T23:39:12",
-    "modified": "2020-07-10T23:58:07",
     "date_gmt": "2020-04-14T23:39:12",
+    "guid": {
+      "rendered": "http://as-go-covid19-d-001.azurewebsites.net/?p=1364"
+    },
+    "modified": "2020-07-10T23:58:07",
     "modified_gmt": "2020-07-10T23:58:07",
-    "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/14/cali-working/",
-    "excerpt": "<p>California is working around the clock to respond to COVID-19 See CA State actions</p>\n",
-    "format": "standard",
+    "slug": "cali-working",
+    "status": "publish",
     "type": "post",
+    "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/14/cali-working/",
+    "title": "cali working",
+    "content": {
+      "rendered": "\n<div class=\"row pb-3\">\n        <div class=\"col-sm text-right text-center-mobile\"><a href=\"https://toolkit.covid19.ca.gov/\"><img src=\"/img/California-For-All.png\" style=\"width: 137px;padding-top: 14px;padding-right: 9px;margin-right: 20px;\" class=\"rounded\" alt=\"california for all your actions save lives visit CA covid19 toolkit website\"></a></div>\n        <div class=\"col-md-8 container text-left text-center-mobile\">\n          <h2 class=\"text-white\">California is working around the clock to respond to COVID-19</h2>\n          <a href=\"https://www.gov.ca.gov/california-takes-action-to-combat-covid-19/\" class=\"action-link mt-4\">See CA State actions</a>\n",
+      "protected": false
+    },
+    "excerpt": "<p>California is working around the clock to respond to COVID-19 See CA State actions</p>\n",
+    "author": "Aaron Hans",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "open",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": [],
     "categories": [
       "cali working"
     ],
     "tags": [
       "fragment",
       "translate"
-    ]
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/posts/1364"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/users/2"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/comments?post=1364"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 7,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/posts/1364/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 4756,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/posts/1364/revisions/4756"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/media?parent=1364"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/categories?post=1364"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/tags?post=1364"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    },
+    "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/14/cali-working/"
   }
 }

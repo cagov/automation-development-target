@@ -13,23 +13,103 @@
   },
   "data": {
     "id": 1419,
-    "slug": "find-services",
-    "title": "find services",
-    "author": "Aaron Hans",
     "date": "2020-04-15T19:24:26",
-    "modified": "2020-08-13T18:55:31",
     "date_gmt": "2020-04-15T19:24:26",
+    "guid": {
+      "rendered": "http://as-go-covid19-d-001.azurewebsites.net/?p=1419"
+    },
+    "modified": "2020-08-13T18:55:31",
     "modified_gmt": "2020-08-13T18:55:31",
-    "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/15/find-services/",
-    "excerpt": "<p>Featured services and information County information Testing Industry guidance Q&amp;A</p>\n",
-    "format": "standard",
+    "slug": "find-services",
+    "status": "publish",
     "type": "post",
+    "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/15/find-services/",
+    "title": "find services",
+    "content": {
+      "rendered": "\n<div class=\"container\">\n  <div class=\"row\">\n    <div class=\"container pt-3 pb-5\">\n      <div class=\"row\">\n        <div class=\"col-md-12 pb-3\"> \n          <h2 id=\"services\">Featured services and information </h2>\n        </div>\n\n\n        <div class=\"col-md-3 col-sm-3\">\n          <div class=\"wrimagecard wrimagecard-topimage\">\n            <a href=\"./roadmap-counties/\">\n              <div class=\"wrimagecard-topimage_header text-center bg-secondary-covid list-group-item-action\">\n<i class=\"ca-gov-icon-map text-primary display-4\"></i> \n                <h3>County information\n                  <div class=\"pull-right badge\"></div>\n                </h3>\n              </div>\n            </a>\n          </div>\n        </div>\n\n<div class=\"col-md-3 col-sm-3\">\n          <div class=\"wrimagecard wrimagecard-topimage\">\n            <a href=\"./testing-and-treatment/#top\">\n              <div class=\"wrimagecard-topimage_header text-center bg-secondary-covid list-group-item-action\">\n<i class=\"ca-gov-icon-testing-alt text-primary display-4\"></i> \n                <h3>Testing\n                  <div class=\"pull-right badge\"></div>\n                </h3>\n              </div>\n            </a>\n          </div>\n        </div>\n\n        <div class=\"col-md-3 col-sm-3\">\n          <div class=\"wrimagecard wrimagecard-topimage\">\n            <a href=\"./industry-guidance/#top\">\n              <div class=\"wrimagecard-topimage_header text-center bg-secondary-covid list-group-item-action\">\n<i class=\"ca-gov-icon-check-list text-primary display-4\"></i>\n                <h3>Industry guidance\n                  <div class=\"pull-right badge\"></div>\n                </h3>\n              </div>\n            </a>\n          </div>\n        </div>\n\n        <div class=\"col-md-3 col-sm-3\">\n          <div class=\"wrimagecard wrimagecard-topimage\">\n            <a href=\"./stay-home-except-for-essential-needs/#top\">\n              <div class=\"wrimagecard-topimage_header text-center bg-secondary-covid list-group-item-action\">\n<i class=\"ca-gov-icon-stay-home text-primary display-4\"></i>\n                <h3>Q&amp;A\n                  <div class=\"pull-right badge\"></div>\n                </h3>\n              </div>\n            </a>\n          </div>\n        </div>\n\n      </div>\n    </div>\n  </div>\n</div>\n",
+      "protected": false
+    },
+    "excerpt": "<p>Featured services and information County information Testing Industry guidance Q&amp;A</p>\n",
+    "author": "Aaron Hans",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "open",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": [],
     "categories": [
       "homepage find services"
     ],
     "tags": [
       "fragment",
       "translate"
-    ]
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/posts/1419"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/users/2"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/comments?post=1419"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 17,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/posts/1419/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 5391,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/posts/1419/revisions/5391"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/media?parent=1419"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/categories?post=1419"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/tags?post=1419"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    },
+    "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/15/find-services/"
   }
 }

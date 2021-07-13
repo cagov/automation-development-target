@@ -13,23 +13,103 @@
   },
   "data": {
     "id": 7484,
-    "slug": "menu-links",
-    "title": "Menu Links",
-    "author": "Michael Sullivan",
     "date": "2020-12-07T20:41:27",
-    "modified": "2021-07-01T15:57:03",
     "date_gmt": "2020-12-07T20:41:27",
+    "guid": {
+      "rendered": "http://as-go-covid19-d-001.azurewebsites.net/?p=7484"
+    },
+    "modified": "2021-07-01T15:57:03",
     "modified_gmt": "2021-07-01T15:57:03",
-    "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/12/07/menu-links/",
-    "excerpt": "<p>Use this to set up the menu structure. _section_index label 1 Reopening California 2 Fighting COVID-19 3 California&#8217;s response 4 Services Sections _section_index label _slug_or_url 1 Safely reopening safely-reopening 1 Travel travel 2 Vaccines vaccines 2 Vax for the Win vax-for-the-win 2 Testing get-tested 2 Tracking COVID-19 in California state-dashboard 2 Vaccination progress data vaccination-progress-data [&hellip;]</p>\n",
-    "format": "standard",
+    "slug": "menu-links",
+    "status": "publish",
     "type": "post",
+    "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/12/07/menu-links/",
+    "title": "Menu Links",
+    "content": {
+      "rendered": "\n<p>Use this to set up the menu structure.</p>\n\n\n\n<figure class=\"wp-block-table\"><table><thead><tr><th>_section_index</th><th>label</th></tr></thead><tbody><tr><td>1</td><td>Reopening California</td></tr><tr><td>2</td><td>Fighting COVID-19</td></tr><tr><td>3</td><td>California&#8217;s response</td></tr><tr><td>4</td><td>Services</td></tr></tbody></table><figcaption>Sections</figcaption></figure>\n\n\n\n<figure class=\"wp-block-table\"><table><thead><tr><th>_section_index</th><th>label</th><th>_slug_or_url</th></tr></thead><tbody><tr><td>1</td><td>Safely reopening</td><td>safely-reopening</td></tr><tr><td>1</td><td>Travel</td><td>travel</td></tr><tr><td>2</td><td>Vaccines</td><td>vaccines</td></tr><tr><td>2</td><td>Vax for the Win</td><td>vax-for-the-win</td></tr><tr><td>2</td><td>Testing</td><td>get-tested</td></tr><tr><td>2</td><td>Tracking COVID-19 in California</td><td>state-dashboard</td></tr><tr><td>2</td><td>Vaccination progress data</td><td>vaccination-progress-data</td></tr><tr><td>2</td><td>Masks</td><td>masks-and-ppe</td></tr><tr><td>2</td><td>Contact tracing</td><td>https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19-Contact-Tracing.aspx</td></tr><tr><td>2</td><td>Symptoms and risks</td><td>https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/Symptoms-Risks.aspx</td></tr><tr><td>3</td><td>California Health Corps</td><td>https://emsa.ca.gov/ca-health-corps/</td></tr><tr><td>3</td><td>Contracts</td><td>contracts</td></tr><tr><td>3</td><td>Data and tools</td><td>data-and-tools</td></tr><tr><td>3</td><td>Fighting discrimination</td><td>discrimination</td></tr><tr><td>3</td><td>Health equity and COVID‑19</td><td>equity</td></tr><tr><td>3</td><td>Hotels for health workers</td><td>https://www.dgs.ca.gov/OFAM/Travel/Resources/Page-Content/Resources-List-Folder/COVID-19-Obligations-of-Health-Care-Workers</td></tr><tr><td>3</td><td>Housing for agricultural workers</td><td>housing-for-agricultural-workers</td></tr><tr><td>4</td><td>Childcare</td><td>https://mychildcare.ca.gov/#/home</td></tr><tr><td>4</td><td>Education</td><td>education</td></tr><tr><td>4</td><td>Distance learning</td><td>distance-learning</td></tr><tr><td>4</td><td>Emotional support</td><td>resources-for-emotional-support-and-well-being</td></tr><tr><td>4</td><td>Workers and businesses</td><td>workers-and-businesses</td></tr><tr><td>4</td><td>Financial help</td><td>get-financial-help</td></tr><tr><td>4</td><td>Food resources</td><td>food-resources</td></tr><tr><td>4</td><td>Help for immigrants</td><td>guide-immigrant-californians</td></tr><tr><td>4</td><td>Hotlines and local info</td><td>get-local-information</td></tr><tr><td>4</td><td>Manage stress for health</td><td>https://osg.ca.gov/additional-information-and-links-for-support/</td></tr></tbody></table><figcaption>Links</figcaption></figure>\n\n\n\n<p></p>\n",
+      "protected": false
+    },
+    "excerpt": "<p>Use this to set up the menu structure. _section_index label 1 Reopening California 2 Fighting COVID-19 3 California&#8217;s response 4 Services Sections _section_index label _slug_or_url 1 Safely reopening safely-reopening 1 Travel travel 2 Vaccines vaccines 2 Vax for the Win vax-for-the-win 2 Testing get-tested 2 Tracking COVID-19 in California state-dashboard 2 Vaccination progress data vaccination-progress-data [&hellip;]</p>\n",
+    "author": "Michael Sullivan",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "open",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": [],
     "categories": [
       "Uncategorized"
     ],
     "tags": [
       "table-data",
       "translate"
-    ]
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/posts/7484"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/users/18"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/comments?post=7484"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 43,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/posts/7484/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 13665,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/posts/7484/revisions/13665"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/media?parent=7484"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/categories?post=7484"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/tags?post=7484"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    },
+    "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/12/07/menu-links/"
   }
 }

@@ -13,23 +13,103 @@
   },
   "data": {
     "id": 7482,
-    "slug": "video-section",
-    "title": "Video Section",
-    "author": "Michael Sullivan",
     "date": "2020-12-07T20:09:53",
-    "modified": "2021-06-16T23:35:45",
     "date_gmt": "2020-12-07T20:09:53",
+    "guid": {
+      "rendered": "http://as-go-covid19-d-001.azurewebsites.net/?p=7482"
+    },
+    "modified": "2021-06-16T23:35:45",
     "modified_gmt": "2021-06-16T23:35:45",
-    "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/12/07/video-section/",
-    "excerpt": "<p>Active Video Title Description VideoURL VideoID ImageURL ImageALT ButtonText ButtonURL X Let&#8217;s get you there It’s all right for it to take whatever it takes for you to be ready. Let’s get you there. Let’s get to immunity. https://youtu.be/eyhaxTinO8c eyhaxTinO8c https://files.covid19.ca.gov/img/lets-get-you-there.jpg Let&#8217;s get you there Visit Vaccinate ALL 58 https://vaccinateall58.com Live June 16 at 2:00 [&hellip;]</p>\n",
-    "format": "standard",
+    "slug": "video-section",
+    "status": "publish",
     "type": "post",
+    "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/12/07/video-section/",
+    "title": "Video Section",
+    "content": {
+      "rendered": "\n<figure class=\"wp-block-table jbum_test2\"><table><thead><tr><th>Active</th><th>Video Title</th><th>Description</th><th>VideoURL</th><th>VideoID</th><th>ImageURL</th><th>ImageALT</th><th>ButtonText</th><th>ButtonURL</th></tr></thead><tbody><tr><td>X</td><td>Let&#8217;s get you there</td><td>It’s all right for it to take whatever it takes for you to be ready. Let’s get you there. Let’s get to immunity.</td><td>https://youtu.be/eyhaxTinO8c</td><td>eyhaxTinO8c</td><td>https://files.covid19.ca.gov/img/lets-get-you-there.jpg</td><td>Let&#8217;s get you there</td><td>Visit Vaccinate ALL 58</td><td>https://vaccinateall58.com</td></tr><tr><td></td><td>Live June 16 at 2:00 PM: Press conference with the Governor</td><td>Gov. Gavin Newsom to highlight benefits of exercise for physical and mental health</td><td>https://youtu.be/pa9K-ZrMxrA</td><td>pa9K-ZrMxrA</td><td>https://files.covid19.ca.gov/img/govpresser.jpg</td><td>Press conference with CA Gov. Gavin Newsom</td><td>See past press conferences</td><td>https://www.youtube.com/playlist?list=PLS1sIrqLVSo9jz15dkLRKxOMUR2-MtoH7</td></tr><tr><td></td><td>Live February 2 at 12:00 PM: Press conference with Dr. Mark Ghaly</td><td>CHHS Secretary Dr. Mark Ghaly addresses California&#8217;s response to COVID-19.</td><td>https://youtu.be/jXtVZSi9qeM</td><td>jXtVZSi9qeM</td><td>https://files.covid19.ca.gov/img/drghalypresser.jpg</td><td>Press conference with CA CHHS Secretary Dr. Mark Ghaly</td><td>See past press conferences</td><td>https://www.youtube.com/playlist?list=PLZqpl41f-8c_DHaRyq9LCD5vHqT-CMkgA</td></tr></tbody></table><figcaption>Homepage Video</figcaption></figure>\n",
+      "protected": false
+    },
+    "excerpt": "<p>Active Video Title Description VideoURL VideoID ImageURL ImageALT ButtonText ButtonURL X Let&#8217;s get you there It’s all right for it to take whatever it takes for you to be ready. Let’s get you there. Let’s get to immunity. https://youtu.be/eyhaxTinO8c eyhaxTinO8c https://files.covid19.ca.gov/img/lets-get-you-there.jpg Let&#8217;s get you there Visit Vaccinate ALL 58 https://vaccinateall58.com Live June 16 at 2:00 [&hellip;]</p>\n",
+    "author": "Michael Sullivan",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "open",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": [],
     "categories": [
       "Uncategorized"
     ],
     "tags": [
       "table-data",
       "translate"
-    ]
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/posts/7482"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/users/18"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/comments?post=7482"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 146,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/posts/7482/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 13279,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/posts/7482/revisions/13279"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/media?parent=7482"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/categories?post=7482"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/tags?post=7482"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    },
+    "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/12/07/video-section/"
   }
 }

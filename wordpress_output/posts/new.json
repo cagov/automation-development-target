@@ -13,23 +13,103 @@
   },
   "data": {
     "id": 1392,
-    "slug": "new",
-    "title": "new",
-    "author": "Peggy Gartin",
     "date": "2020-04-15T16:23:16",
-    "modified": "2021-07-12T23:59:31",
     "date_gmt": "2020-04-15T16:23:16",
+    "guid": {
+      "rendered": "http://as-go-covid19-d-001.azurewebsites.net/?p=1392"
+    },
+    "modified": "2021-07-12T23:59:31",
     "modified_gmt": "2021-07-12T23:59:31",
-    "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/15/new/",
-    "excerpt": "<p>Vaccinations prevent nearly all COVID-19 hospitalizations and deaths Out of over 20 million fully-vaccinated Californians, only 0.003% contracted COVID-19 and needed hospitalization. Find out more</p>\n",
-    "format": "standard",
+    "slug": "new",
+    "status": "publish",
     "type": "post",
+    "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/15/new/",
+    "title": "new",
+    "content": {
+      "rendered": "\n<h2 class=\"h3 text-primary m-0 pt-2 pb-3\">Vaccinations prevent nearly all COVID-19 hospitalizations and deaths</h2>\n\n\n\n<p>Out of over 20 million fully-vaccinated Californians, only 0.003% contracted COVID-19 and needed hospitalization.</p>\n\n\n\n<div class=\"hero-alert-action\">\n<a href=\"https://www.cdph.ca.gov/Programs/OPA/Pages/NR21-209.aspx\" class=\"action-link pt-3 pb-3 px-4\">Find out more</a>\n</div>\n\n\n\n<p></p>\n",
+      "protected": false
+    },
+    "excerpt": "<p>Vaccinations prevent nearly all COVID-19 hospitalizations and deaths Out of over 20 million fully-vaccinated Californians, only 0.003% contracted COVID-19 and needed hospitalization. Find out more</p>\n",
+    "author": "Peggy Gartin",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "open",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": [],
     "categories": [
       "homepage new"
     ],
     "tags": [
       "fragment",
       "translate"
-    ]
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/posts/1392"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/users/8"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/comments?post=1392"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 247,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/posts/1392/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 13712,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/posts/1392/revisions/13712"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/media?parent=1392"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/categories?post=1392"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/tags?post=1392"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    },
+    "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/15/new/"
   }
 }

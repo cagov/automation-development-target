@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2020-03-25T20:19:47",
-    "updated_date": "2021-07-13T18:59:44",
+    "updated_date": "2021-07-13T19:51:21",
     "api_version": "v2",
     "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
     "process": {
@@ -13,22 +13,102 @@
   },
   "data": {
     "id": 606,
-    "slug": "get-financial-help",
-    "title": "Get financial help",
-    "author": "Liz Nobriga",
     "date": "2020-03-25T20:19:47",
-    "modified": "2021-07-13T18:59:44",
     "date_gmt": "2020-03-25T20:19:47",
-    "modified_gmt": "2021-07-13T18:59:44",
-    "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/03/25/get-financial-help/",
-    "excerpt": "<p>Find financial help if you are affected by coronavirus / COVID-19 in California. Unemployment insurance, paid family leave, disability insurance, statewide moratorium on evictions, mortgage relief, and forbearance.</p>\n",
-    "format": "standard",
+    "guid": {
+      "rendered": "http://as-go-covid19-d-001.azurewebsites.net/?p=606"
+    },
+    "modified": "2021-07-13T19:51:21",
+    "modified_gmt": "2021-07-13T19:51:21",
+    "slug": "get-financial-help",
+    "status": "publish",
     "type": "post",
+    "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/03/25/get-financial-help/",
+    "title": "Get financial help",
+    "content": {
+      "rendered": "\n<p class=\"emphasized\">If you have been financially affected by COVID-19, you may be eligible for:</p>\n\n\n\n<ul class=\"toc\"><li><a href=\"#eviction-protection\">Eviction protection for renters</a></li><li><a href=\"#rent-help\">Help with rent and utility payments</a></li><li><a href=\"#mortgage-forbearance\">Mortgage forbearance for homeowners</a></li><li><a href=\"#stimulus-payments\" data-type=\"internal\" data-id=\"#stimulus-payments\">Stimulus payments</a></li><li><a href=\"#unemployment-insurance\">Unemployment insurance</a></li><li><a href=\"#food-assistance\" data-type=\"internal\" data-id=\"#food-assistance\">Help with getting food</a></li><li><a href=\"#more-financial-help\" data-type=\"internal\" data-id=\"#more-financial-help\">Find help</a></li></ul>\n\n\n\n<hr class=\"wp-block-separator\"/>\n\n\n\n<h2 id=\"eviction-protection\">Eviction protection for renters</h2>\n\n\n\n<p>If you cannot pay your full rent because of COVID-19, state law protects you from eviction until September 30, 2021. This applies to all residential tenants, regardless of immigration status.</p>\n\n\n\n<p>To avoid eviction, <strong>you must</strong>:</p>\n\n\n\n<ul><li><strong>Give your landlord a </strong><a href=\"https://landlordtenant.dre.ca.gov/tenant/forms.html\"><strong>signed declaration</strong></a><strong> </strong>within 15 business days if you get a notice from your landlord demanding rent payment, and</li><li><strong>Pay 25% of all total rent</strong> due in the last 12 months (from September 2020 through September 2021) <strong>by September 30, 2021</strong></li></ul>\n\n\n\n<p>Your landlord can take you to small claims court for unpaid rent beginning November 1, 2021.</p>\n\n\n\n<p>Find more information about protection from eviction for unpaid rent due to COVID-19 in the:</p>\n\n\n\n<ul><li><a href=\"https://housing.ca.gov/pdf/resources/tenant/tenant_fact_sheet.pdf\">Fact sheet on tenant protection</a></li><li><a href=\"https://housing.ca.gov/tenant/protection_guidelines.html\">Tenant protection guidelines</a></li><li><a href=\"https://housing.ca.gov/faqs.html\">Frequently asked questions</a> about the COVID-19 Tenant Relief Act</li></ul>\n\n\n\n<p>Get <a href=\"https://housing.ca.gov/resources/tenant.html\">legal help</a> for free or at low-cost from statewide and local organizations.</p>\n\n\n\n<hr class=\"wp-block-separator\"/>\n\n\n\n<h2 id=\"rent-help\">Help with rent and utility payments</h2>\n\n\n\n<p>Qualified renters and landlords can get financial help to cover 100% of:</p>\n\n\n\n<ul><li>Past due and future rent payments</li><li>Past due and future utility bills</li></ul>\n\n\n\n<p><a href=\"https://housing.ca.gov/covid_rr/index.html\"><strong>Apply online</strong></a><strong> for the California COVID-19 rent relief program</strong>, or call <a href=\"tel:833‑430‑2122\">833‑430‑2122</a>.</p>\n\n\n\n<p>You can apply as a renter or a landlord, and both are encouraged to work together.</p>\n\n\n\n<h3>Renters</h3>\n\n\n\n<p>Your immigration status does not matter. You are not required to show proof of citizenship to apply.</p>\n\n\n\n<p>Your landlord will be notified that you have applied for rent relief. Your landlord will not see your application. Your information is private and will not be shared.</p>\n\n\n\n<p>Your application will be assigned to a case manager. Watch for emails or phone calls from your case manager about your application. Be sure to respond so your application keeps moving.</p>\n\n\n\n<h3>Where payments are sent</h3>\n\n\n\n<p>If your application gets approved, rent payments go to:</p>\n\n\n\n<ul><li>Your landlord if your landlord is participating in the rent relief program</li><li>You if your landlord does not participate in the program</li></ul>\n\n\n\n<p>Utility payments go directly to the utility provider.</p>\n\n\n\n<hr class=\"wp-block-separator\"/>\n\n\n\n<h2 id=\"mortgage-forbearance\">Mortgage forbearance for homeowners</h2>\n\n\n\n<p>Most homeowners can pause or reduce their mortgage payments for a limited time if they’re struggling because of COVID-19. This is called <a href=\"https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/help-for-homeowners/learn-about-forbearance/\">forbearance</a>. You request forbearance from your mortgage servicer. Landlords with four properties or less can also request forbearance.&nbsp;</p>\n\n\n\n<p>Learn the steps to pause or reduce your mortgage payments at <a href=\"https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/help-for-homeowners/\">Help for homeowners</a>.</p>\n\n\n\n<p>Your deadline to request forbearance depends on who backs your mortgage.</p>\n\n\n\n<ul><li>If your loan is backed by HUD/FHA, USDA, or VA, the deadline for requesting an initial forbearance is September 30, 2021.</li><li>If your loan is backed by Fannie Mae or Freddie Mac, there currently is not a deadline for requesting an initial forbearance.</li></ul>\n\n\n\n<p>If your mortgage is not federally backed, your servicer may offer similar forbearance options. If you are struggling to make your mortgage payments, your servicer must discuss relief options with you.</p>\n\n\n\n<h3>Your rights if you’re denied forbearance</h3>\n\n\n\n<p>If your servicer denies your request for forbearance, they must provide you with:</p>\n\n\n\n<ul><li>A detailed description explaining why your request was denied, and</li><li>The specific reasons for the denial</li></ul>\n\n\n\n<p>This is true for all mortgages, whether federally-backed or not.</p>\n\n\n\n<p>If the explanation says your request has errors or is missing information, you have 21 days to correct these issues.&nbsp;</p>\n\n\n\n<p>If you requested forbearance, your lender cannot begin foreclosing on your home or property until they:</p>\n\n\n\n<ul><li>Contact you to request payment</li><li>Wait at least 30 days after contacting you to request payment</li><li>File a declaration that they have contacted you to request payment</li><li>File the forbearance denial notice</li></ul>\n\n\n\n<p>You can contest either the 30-day contact or the forbearance denial notice.</p>\n\n\n\n<p>If you believe your lender harmed you by violating the law, you can file a lawsuit against them. You can get free or low-cost <a href=\"https://housing.ca.gov/resources/tenant.html\">legal help</a> from statewide and local organizations.</p>\n\n\n\n<p>Find more information:</p>\n\n\n\n<ul><li><a href=\"https://housing.ca.gov/pdf/resources/landlord/tenant_fact_sheet_updates_eng.pdf\">Fact sheet on mortgage forbearance</a></li><li><a href=\"https://housing.ca.gov/homeowners/protection_guidelines.html\">Homeowner and landlord protection guidelines</a></li></ul>\n\n\n\n<p><a href=\"https://apps.hud.gov/offices/hsg/sfh/hcc/hcs.cfm?webListAction=search&amp;searchstate=CA\">Contact a local agency</a> to get free help to avoid foreclosure.</p>\n\n\n\n<hr class=\"wp-block-separator\"/>\n\n\n\n<h2 id=\"stimulus-payments\">Stimulus payments</h2>\n\n\n\n<p>The Golden State Stimulus (GSS) is a one-time $600 or $1,200 payment. </p>\n\n\n\n<p>You may be eligible for the GSS if you:</p>\n\n\n\n<ul><li>Receive the <a href=\"https://www.ftb.ca.gov/about-ftb/newsroom/caleitc/index.html\">California Earned Income Tax Credit (CalEITC)</a>, or</li><li>File tax returns with an Individual Taxpayer Identification Number (ITIN) and make $75,000 or less</li></ul>\n\n\n\n<p><a href=\"https://www.ftb.ca.gov/about-ftb/newsroom/golden-state-stimulus/index.html#Check-if-you-qualify-for-the-Golden-State-Stimulus\">Check if you qualify for the GSS</a>.&nbsp;</p>\n\n\n\n<p>To make sure you receive the GSS, <strong>file your 2020 tax return by October 15, 2021</strong>. Most Californians who qualify do not need to do anything further to receive the payment.</p>\n\n\n\n<hr class=\"wp-block-separator\"/>\n\n\n\n<h2 id=\"unemployment-insurance\">Unemployment insurance</h2>\n\n\n\n<p>If you lost your job or had your hours reduced, you may be eligible for unemployment insurance benefits.&nbsp;</p>\n\n\n\n<p><a href=\"https://www.edd.ca.gov/Unemployment/Filing_a_Claim.htm\">File a claim</a> for unemployment insurance. Learn more in the <a href=\"https://unemployment.edd.ca.gov/guide/benefits\">guide to applying for unemployment benefits</a>.</p>\n\n\n\n<hr class=\"wp-block-separator\"/>\n\n\n\n<h2 id=\"food-assistance\">Help with getting food</h2>\n\n\n\n<p>If you or someone you know needs help getting or affording food, visit&nbsp;<a href=\"https://covid19.ca.gov/food-resources\">Food resources</a>.</p>\n\n\n\n<hr class=\"wp-block-separator\"/>\n\n\n\n<h2 id=\"more-financial-help\">Find help</h2>\n\n\n\n<div class=\"container py-5\">\n<div class=\"row\">\n<div class=\"col-md-6\">\n<ul class=\"arrow-links\">\n<li>\n<a href=\"https://www.getcalfresh.org/en\" class=\"link-arrow-blue\">\n<div class=\"link-arrow-label\">Apply for food stamps</div>\n<cagov-arrow></cagov-arrow>\n</a>\n</li>\n<li>\n<a href=\"https://www.edd.ca.gov/about_edd/coronavirus-2019/workers.htm\" class=\"link-arrow-blue\">\n<div class=\"link-arrow-label\">Learn about worker benefits</div>\n<cagov-arrow></cagov-arrow>\n</a>\n</li>\n</ul>\n</div>\n<div class=\"col-md-6\">\n<ul class=\"arrow-links\">\n<li>\n<a href=\"https://www.arcgis.com/apps/instant/lookup/index.html?appid=f32435102af34d24a7420ffc432a33a6\" class=\"link-arrow-blue\">\n<div class=\"link-arrow-label\">Apply for rent and utility relief</div>\n<cagov-arrow></cagov-arrow>\n</a>\n</li>\n<li>\n<a href=\"https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/help-for-homeowners/request-forbearance-or-mortgage-relief/\" class=\"link-arrow-blue\">\n<div class=\"link-arrow-label\">Request mortgage forbearance</div>\n<cagov-arrow></cagov-arrow>\n</a>\n</li>\n</ul>\n</div>\n</div>\n</div>\n",
+      "protected": false
+    },
+    "excerpt": "<p>Find financial help if you are affected by coronavirus / COVID-19 in California. Unemployment insurance, paid family leave, disability insurance, statewide moratorium on evictions, mortgage relief, and forbearance.</p>\n",
+    "author": "Liz Nobriga",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "open",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": [],
     "categories": [
       "get financial help"
     ],
     "tags": [
       "staging-only"
-    ]
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/posts/606"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/users/9"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/comments?post=606"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 114,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/posts/606/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 13728,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/posts/606/revisions/13728"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/media?parent=606"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/categories?post=606"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/tags?post=606"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    },
+    "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/03/25/get-financial-help/"
   }
 }

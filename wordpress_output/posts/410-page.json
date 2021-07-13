@@ -13,22 +13,102 @@
   },
   "data": {
     "id": 12339,
-    "slug": "410-page",
-    "title": "410 page",
-    "author": "Michael Sullivan",
     "date": "2021-05-12T17:55:01",
-    "modified": "2021-05-26T21:37:49",
     "date_gmt": "2021-05-12T17:55:01",
+    "guid": {
+      "rendered": "https://as-go-covid19-d-001.azurewebsites.net/?p=12339"
+    },
+    "modified": "2021-05-26T21:37:49",
     "modified_gmt": "2021-05-26T21:37:49",
-    "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2021/05/12/410-page/",
-    "excerpt": "<p>As things change across the state, we’re constantly updating our content to provide the most up-to-date information for Californians. This page has been removed because we’re no longer hosting information on this topic. To see the latest information about COVID-19 and California’s response, visit our homepage.</p>\n",
-    "format": "standard",
+    "slug": "410-page",
+    "status": "publish",
     "type": "post",
+    "link": "https://as-go-covid19-d-001.azurewebsites.net/2021/05/12/410-page/",
+    "title": "410 page",
+    "content": {
+      "rendered": "\n<p>As things change across the state, we’re constantly updating our content to provide the most up-to-date information for Californians.</p>\n\n\n\n<p>This page has been removed because we’re no longer hosting information on this topic.</p>\n\n\n\n<p>To see the latest information about COVID-19 and California’s response, visit our <a href=\"https://covid19.ca.gov\">homepage</a>.</p>\n",
+      "protected": false
+    },
+    "excerpt": "<p>As things change across the state, we’re constantly updating our content to provide the most up-to-date information for Californians. This page has been removed because we’re no longer hosting information on this topic. To see the latest information about COVID-19 and California’s response, visit our homepage.</p>\n",
+    "author": "Michael Sullivan",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "open",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": [],
     "categories": [
       "Uncategorized"
     ],
     "tags": [
       "do-not-crawl"
-    ]
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/posts/12339"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/users/18"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/comments?post=12339"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 2,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/posts/12339/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 12629,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/posts/12339/revisions/12629"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/media?parent=12339"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/categories?post=12339"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/tags?post=12339"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    },
+    "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2021/05/12/410-page/"
   }
 }
