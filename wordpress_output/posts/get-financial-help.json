@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2020-03-25T20:19:47",
-    "updated_date": "2021-07-03T00:09:27",
+    "updated_date": "2021-07-13T01:56:56",
     "api_version": "v2",
     "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
     "process": {
@@ -17,9 +17,9 @@
     "title": "Get financial help",
     "author": "Liz Nobriga",
     "date": "2020-03-25T20:19:47",
-    "modified": "2021-07-03T00:09:27",
+    "modified": "2021-07-13T01:56:56",
     "date_gmt": "2020-03-25T20:19:47",
-    "modified_gmt": "2021-07-03T00:09:27",
+    "modified_gmt": "2021-07-13T01:56:56",
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/03/25/get-financial-help/",
     "excerpt": "<p>Find financial help if you are affected by coronavirus / COVID-19 in California. Unemployment insurance, paid family leave, disability insurance, statewide moratorium on evictions, mortgage relief, and forbearance.</p>\n",
     "format": "standard",
@@ -28,7 +28,7 @@
       "get financial help"
     ],
     "tags": [
-      "translate"
+      "staging-only"
     ]
   }
 }

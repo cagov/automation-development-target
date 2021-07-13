@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2020-04-15T16:23:16",
-    "updated_date": "2021-07-02T18:41:46",
+    "updated_date": "2021-07-12T23:59:31",
     "api_version": "v2",
     "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
     "process": {
@@ -17,11 +17,11 @@
     "title": "new",
     "author": "Peggy Gartin",
     "date": "2020-04-15T16:23:16",
-    "modified": "2021-07-02T18:41:46",
+    "modified": "2021-07-12T23:59:31",
     "date_gmt": "2020-04-15T16:23:16",
-    "modified_gmt": "2021-07-02T18:41:46",
+    "modified_gmt": "2021-07-12T23:59:31",
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/15/new/",
-    "excerpt": "<p>California picks 6 vaccinated winners to get a dream vacation In the final Vax for the Win drawing on July 1, we chose the winners of getaway vacations to San Francisco, LA, Anaheim, Palm Springs, and San Diego. Watch the drawing</p>\n",
+    "excerpt": "<p>Vaccinations prevent nearly all COVID-19 hospitalizations and deaths Out of over 20 million fully-vaccinated Californians, only 0.003% contracted COVID-19 and needed hospitalization. Find out more</p>\n",
     "format": "standard",
     "type": "post",
     "categories": [
