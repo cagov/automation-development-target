@@ -15,28 +15,20 @@
     "id": 2661,
     "date": "2020-05-04T22:48:00",
     "date_gmt": "2020-05-04T22:48:00",
-    "guid": {
-      "rendered": "/wp-content/uploads/2020/05/image.png"
-    },
+    "guid": "/wp-content/uploads/2020/05/image.png",
     "modified": "2020-05-04T22:48:00",
     "modified_gmt": "2020-05-04T22:48:00",
     "slug": "image-7",
     "status": "inherit",
     "type": "attachment",
     "link": "https://as-go-covid19-d-001.azurewebsites.net/image-7/",
-    "title": {
-      "rendered": "image"
-    },
+    "title": "image",
     "comment_status": "closed",
     "ping_status": "closed",
     "template": "",
     "meta": [],
-    "description": {
-      "rendered": "<p class=\"attachment\"><a href='/wp-content/uploads/2020/05/image.png'><img width=\"20\" height=\"20\" src=\"/wp-content/uploads/2020/05/image.png\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" /></a></p>\n"
-    },
-    "caption": {
-      "rendered": ""
-    },
+    "description": "<p class=\"attachment\"><a href='/wp-content/uploads/2020/05/image.png'><img width=\"20\" height=\"20\" src=\"/wp-content/uploads/2020/05/image.png\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" /></a></p>\n",
+    "caption": "",
     "alt_text": "",
     "media_type": "image",
     "mime_type": "image/png",

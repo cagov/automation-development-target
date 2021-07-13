@@ -15,29 +15,21 @@
     "id": 139,
     "date": "2020-03-16T15:45:35",
     "date_gmt": "2020-03-16T15:45:35",
-    "guid": {
-      "rendered": "/wp-content/uploads/2020/03/thumbnail.png"
-    },
+    "guid": "/wp-content/uploads/2020/03/thumbnail.png",
     "modified": "2020-03-16T15:45:35",
     "modified_gmt": "2020-03-16T15:45:35",
     "slug": "thumbnail",
     "status": "inherit",
     "type": "attachment",
     "link": "https://as-go-covid19-d-001.azurewebsites.net/thumbnail/",
-    "title": {
-      "rendered": "thumbnail"
-    },
+    "title": "thumbnail",
     "author": "Carter Medlin",
     "comment_status": "open",
     "ping_status": "closed",
     "template": "",
     "meta": [],
-    "description": {
-      "rendered": "<p class=\"attachment\"><a href='/wp-content/uploads/2020/03/thumbnail.png'><img width=\"300\" height=\"300\" src=\"/wp-content/uploads/2020/03/thumbnail-300x300.png\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"/wp-content/uploads/2020/03/thumbnail-300x300.png 300w, /wp-content/uploads/2020/03/thumbnail-150x150.png 150w, /wp-content/uploads/2020/03/thumbnail.png 500w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
-    },
-    "caption": {
-      "rendered": ""
-    },
+    "description": "<p class=\"attachment\"><a href='/wp-content/uploads/2020/03/thumbnail.png'><img width=\"300\" height=\"300\" src=\"/wp-content/uploads/2020/03/thumbnail-300x300.png\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"/wp-content/uploads/2020/03/thumbnail-300x300.png 300w, /wp-content/uploads/2020/03/thumbnail-150x150.png 150w, /wp-content/uploads/2020/03/thumbnail.png 500w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n",
+    "caption": "",
     "alt_text": "",
     "media_type": "image",
     "mime_type": "image/png",

@@ -15,29 +15,21 @@
     "id": 135,
     "date": "2020-03-16T15:44:02",
     "date_gmt": "2020-03-16T15:44:02",
-    "guid": {
-      "rendered": "/wp-content/uploads/2020/03/cropped-ms-icon-310x310-1.png"
-    },
+    "guid": "/wp-content/uploads/2020/03/cropped-ms-icon-310x310-1.png",
     "modified": "2020-03-16T15:44:02",
     "modified_gmt": "2020-03-16T15:44:02",
     "slug": "cropped-ms-icon-310x310-1-png",
     "status": "inherit",
     "type": "attachment",
     "link": "https://as-go-covid19-d-001.azurewebsites.net/cropped-ms-icon-310x310-1-png/",
-    "title": {
-      "rendered": "cropped-ms-icon-310&#215;310-1.png"
-    },
+    "title": "cropped-ms-icon-310&#215;310-1.png",
     "author": "Carter Medlin",
     "comment_status": "open",
     "ping_status": "closed",
     "template": "",
     "meta": [],
-    "description": {
-      "rendered": "<p class=\"attachment\"><a href='/wp-content/uploads/2020/03/cropped-ms-icon-310x310-1.png'><img width=\"300\" height=\"300\" src=\"/wp-content/uploads/2020/03/cropped-ms-icon-310x310-1-300x300.png\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"/wp-content/uploads/2020/03/cropped-ms-icon-310x310-1-300x300.png 300w, /wp-content/uploads/2020/03/cropped-ms-icon-310x310-1-150x150.png 150w, /wp-content/uploads/2020/03/cropped-ms-icon-310x310-1-270x270.png 270w, /wp-content/uploads/2020/03/cropped-ms-icon-310x310-1-192x192.png 192w, /wp-content/uploads/2020/03/cropped-ms-icon-310x310-1-180x180.png 180w, /wp-content/uploads/2020/03/cropped-ms-icon-310x310-1-32x32.png 32w, /wp-content/uploads/2020/03/cropped-ms-icon-310x310-1.png 512w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n<p>/wp-content/uploads/2020/03/cropped-ms-icon-310&#215;310-1.png</p>\n"
-    },
-    "caption": {
-      "rendered": "<p>/wp-content/uploads/2020/03/cropped-ms-icon-310&#215;310-1.png</p>\n"
-    },
+    "description": "<p class=\"attachment\"><a href='/wp-content/uploads/2020/03/cropped-ms-icon-310x310-1.png'><img width=\"300\" height=\"300\" src=\"/wp-content/uploads/2020/03/cropped-ms-icon-310x310-1-300x300.png\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"/wp-content/uploads/2020/03/cropped-ms-icon-310x310-1-300x300.png 300w, /wp-content/uploads/2020/03/cropped-ms-icon-310x310-1-150x150.png 150w, /wp-content/uploads/2020/03/cropped-ms-icon-310x310-1-270x270.png 270w, /wp-content/uploads/2020/03/cropped-ms-icon-310x310-1-192x192.png 192w, /wp-content/uploads/2020/03/cropped-ms-icon-310x310-1-180x180.png 180w, /wp-content/uploads/2020/03/cropped-ms-icon-310x310-1-32x32.png 32w, /wp-content/uploads/2020/03/cropped-ms-icon-310x310-1.png 512w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n<p>/wp-content/uploads/2020/03/cropped-ms-icon-310&#215;310-1.png</p>\n",
+    "caption": "<p>/wp-content/uploads/2020/03/cropped-ms-icon-310&#215;310-1.png</p>\n",
     "alt_text": "",
     "media_type": "image",
     "mime_type": "image/png",
