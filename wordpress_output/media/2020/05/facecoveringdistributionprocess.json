@@ -13,17 +13,134 @@
   },
   "data": {
     "id": 3037,
+    "date": "2020-05-11T18:46:30",
+    "date_gmt": "2020-05-11T18:46:30",
+    "guid": {
+      "rendered": "/wp-content/uploads/2020/05/facecoveringdistributionprocess.png"
+    },
+    "modified": "2020-06-12T16:57:32",
+    "modified_gmt": "2020-06-12T16:57:32",
     "slug": "facecoveringdistributionprocess",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://as-go-covid19-d-001.azurewebsites.net/facecoveringdistributionprocess/",
     "title": "facecoveringdistributionprocess",
     "author": "Peggy Gartin",
-    "date": "2020-05-11T18:46:30",
-    "modified": "2020-06-12T16:57:32",
-    "date_gmt": "2020-05-11T18:46:30",
-    "modified_gmt": "2020-06-12T16:57:32",
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "description": {
+      "rendered": "<p class=\"attachment\"><a href='/wp-content/uploads/2020/05/facecoveringdistributionprocess.png'><img width=\"233\" height=\"300\" src=\"/wp-content/uploads/2020/05/facecoveringdistributionprocess-233x300.png\" class=\"attachment-medium size-medium\" alt=\"Flow chart of the Face Covering Distribution Process from Cal OES\" loading=\"lazy\" srcset=\"/wp-content/uploads/2020/05/facecoveringdistributionprocess-233x300.png 233w, /wp-content/uploads/2020/05/facecoveringdistributionprocess-797x1024.png 797w, /wp-content/uploads/2020/05/facecoveringdistributionprocess-768x987.png 768w, /wp-content/uploads/2020/05/facecoveringdistributionprocess-1195x1536.png 1195w, /wp-content/uploads/2020/05/facecoveringdistributionprocess-1593x2048.png 1593w\" sizes=\"(max-width: 233px) 100vw, 233px\" /></a></p>\n<p>Flow chart of the Face Covering Distribution Process from Cal OES</p>\n"
+    },
+    "caption": {
+      "rendered": "<p>Face Covering Distribution Process</p>\n"
+    },
+    "alt_text": "Flow chart of the Face Covering Distribution Process from Cal OES",
     "media_type": "image",
     "mime_type": "image/png",
+    "media_details": {
+      "width": 2101,
+      "height": 2701,
+      "file": "2020/05/facecoveringdistributionprocess.png",
+      "sizes": {
+        "medium": {
+          "file": "facecoveringdistributionprocess-233x300.png",
+          "width": 233,
+          "height": 300,
+          "mime_type": "image/png",
+          "source_url": "/wp-content/uploads/2020/05/facecoveringdistributionprocess-233x300.png"
+        },
+        "large": {
+          "file": "facecoveringdistributionprocess-797x1024.png",
+          "width": 797,
+          "height": 1024,
+          "mime_type": "image/png",
+          "source_url": "/wp-content/uploads/2020/05/facecoveringdistributionprocess-797x1024.png"
+        },
+        "thumbnail": {
+          "file": "facecoveringdistributionprocess-150x150.png",
+          "width": 150,
+          "height": 150,
+          "mime_type": "image/png",
+          "source_url": "/wp-content/uploads/2020/05/facecoveringdistributionprocess-150x150.png"
+        },
+        "medium_large": {
+          "file": "facecoveringdistributionprocess-768x987.png",
+          "width": 768,
+          "height": 987,
+          "mime_type": "image/png",
+          "source_url": "/wp-content/uploads/2020/05/facecoveringdistributionprocess-768x987.png"
+        },
+        "1536x1536": {
+          "file": "facecoveringdistributionprocess-1195x1536.png",
+          "width": 1195,
+          "height": 1536,
+          "mime_type": "image/png",
+          "source_url": "/wp-content/uploads/2020/05/facecoveringdistributionprocess-1195x1536.png"
+        },
+        "2048x2048": {
+          "file": "facecoveringdistributionprocess-1593x2048.png",
+          "width": 1593,
+          "height": 2048,
+          "mime_type": "image/png",
+          "source_url": "/wp-content/uploads/2020/05/facecoveringdistributionprocess-1593x2048.png"
+        },
+        "full": {
+          "file": "facecoveringdistributionprocess.png",
+          "width": 2101,
+          "height": 2701,
+          "mime_type": "image/png",
+          "source_url": "/wp-content/uploads/2020/05/facecoveringdistributionprocess.png"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      }
+    },
+    "post": null,
+    "source_url": "/wp-content/uploads/2020/05/facecoveringdistributionprocess.png",
+    "_links": {
+      "self": [
+        {
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/media/3037"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/media"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/types/attachment"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/users/8"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/comments?post=3037"
+        }
+      ]
+    },
     "wordpress_url": "/wp-content/uploads/2020/05/facecoveringdistributionprocess.png",
-    "type": "attachment",
     "sizes": [
       {
         "type": "full",

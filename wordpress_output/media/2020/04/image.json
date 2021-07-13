@@ -13,16 +13,83 @@
   },
   "data": {
     "id": 812,
-    "slug": "image",
-    "title": "image",
     "date": "2020-04-05T04:01:01",
-    "modified": "2020-04-05T04:01:01",
     "date_gmt": "2020-04-05T04:01:01",
+    "guid": {
+      "rendered": "/wp-content/uploads/2020/04/image.png"
+    },
+    "modified": "2020-04-05T04:01:01",
     "modified_gmt": "2020-04-05T04:01:01",
+    "slug": "image",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://as-go-covid19-d-001.azurewebsites.net/image/",
+    "title": "image",
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "description": {
+      "rendered": "<p class=\"attachment\"><a href='/wp-content/uploads/2020/04/image.png'><img width=\"20\" height=\"20\" src=\"/wp-content/uploads/2020/04/image.png\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" /></a></p>\n"
+    },
+    "caption": {
+      "rendered": ""
+    },
+    "alt_text": "",
     "media_type": "image",
     "mime_type": "image/png",
+    "media_details": {
+      "width": 20,
+      "height": 20,
+      "file": "2020/04/image.png",
+      "sizes": {},
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      }
+    },
+    "post": null,
+    "source_url": "/wp-content/uploads/2020/04/image.png",
+    "_links": {
+      "self": [
+        {
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/media/812"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/media"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/types/attachment"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/users/6"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/comments?post=812"
+        }
+      ]
+    },
     "wordpress_url": "/wp-content/uploads/2020/04/image.png",
-    "type": "attachment",
     "sizes": []
   }
 }

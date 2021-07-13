@@ -13,17 +13,120 @@
   },
   "data": {
     "id": 2585,
+    "date": "2020-05-02T18:18:19",
+    "date_gmt": "2020-05-02T18:18:19",
+    "guid": {
+      "rendered": "/wp-content/uploads/2020/05/Capture-1.png"
+    },
+    "modified": "2020-05-02T18:18:19",
+    "modified_gmt": "2020-05-02T18:18:19",
     "slug": "capture-1",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://as-go-covid19-d-001.azurewebsites.net/capture-1/",
     "title": "Capture (1)",
     "author": "Peggy Gartin",
-    "date": "2020-05-02T18:18:19",
-    "modified": "2020-05-02T18:18:19",
-    "date_gmt": "2020-05-02T18:18:19",
-    "modified_gmt": "2020-05-02T18:18:19",
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "description": {
+      "rendered": "<p class=\"attachment\"><a href='/wp-content/uploads/2020/05/Capture-1.png'><img width=\"300\" height=\"152\" src=\"/wp-content/uploads/2020/05/Capture-1-300x152.png\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"/wp-content/uploads/2020/05/Capture-1-300x152.png 300w, /wp-content/uploads/2020/05/Capture-1-1024x517.png 1024w, /wp-content/uploads/2020/05/Capture-1-768x388.png 768w, /wp-content/uploads/2020/05/Capture-1.png 1431w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    },
+    "caption": {
+      "rendered": ""
+    },
+    "alt_text": "",
     "media_type": "image",
     "mime_type": "image/png",
+    "media_details": {
+      "width": 1431,
+      "height": 723,
+      "file": "2020/05/Capture-1.png",
+      "sizes": {
+        "medium": {
+          "file": "Capture-1-300x152.png",
+          "width": 300,
+          "height": 152,
+          "mime_type": "image/png",
+          "source_url": "/wp-content/uploads/2020/05/Capture-1-300x152.png"
+        },
+        "large": {
+          "file": "Capture-1-1024x517.png",
+          "width": 1024,
+          "height": 517,
+          "mime_type": "image/png",
+          "source_url": "/wp-content/uploads/2020/05/Capture-1-1024x517.png"
+        },
+        "thumbnail": {
+          "file": "Capture-1-150x150.png",
+          "width": 150,
+          "height": 150,
+          "mime_type": "image/png",
+          "source_url": "/wp-content/uploads/2020/05/Capture-1-150x150.png"
+        },
+        "medium_large": {
+          "file": "Capture-1-768x388.png",
+          "width": 768,
+          "height": 388,
+          "mime_type": "image/png",
+          "source_url": "/wp-content/uploads/2020/05/Capture-1-768x388.png"
+        },
+        "full": {
+          "file": "Capture-1.png",
+          "width": 1431,
+          "height": 723,
+          "mime_type": "image/png",
+          "source_url": "/wp-content/uploads/2020/05/Capture-1.png"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      }
+    },
+    "post": null,
+    "source_url": "/wp-content/uploads/2020/05/Capture-1.png",
+    "_links": {
+      "self": [
+        {
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/media/2585"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/media"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/types/attachment"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/users/8"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/comments?post=2585"
+        }
+      ]
+    },
     "wordpress_url": "/wp-content/uploads/2020/05/Capture-1.png",
-    "type": "attachment",
     "sizes": [
       {
         "type": "full",

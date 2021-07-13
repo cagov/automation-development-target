@@ -13,17 +13,106 @@
   },
   "data": {
     "id": 4826,
+    "date": "2020-07-14T18:55:54",
+    "date_gmt": "2020-07-14T18:55:54",
+    "guid": {
+      "rendered": "/wp-content/uploads/2020/07/15485_lores.jpg"
+    },
+    "modified": "2020-07-14T18:55:54",
+    "modified_gmt": "2020-07-14T18:55:54",
     "slug": "15485_lores",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/05/11/masks-and-ppe/15485_lores/",
     "title": "15485_lores",
     "author": "Peggy Gartin",
-    "date": "2020-07-14T18:55:54",
-    "modified": "2020-07-14T18:55:54",
-    "date_gmt": "2020-07-14T18:55:54",
-    "modified_gmt": "2020-07-14T18:55:54",
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "description": {
+      "rendered": "<p class=\"attachment\"><a href='/wp-content/uploads/2020/07/15485_lores.jpg'><img width=\"300\" height=\"200\" src=\"/wp-content/uploads/2020/07/15485_lores-300x200.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"/wp-content/uploads/2020/07/15485_lores-300x200.jpg 300w, /wp-content/uploads/2020/07/15485_lores.jpg 700w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    },
+    "caption": {
+      "rendered": ""
+    },
+    "alt_text": "",
     "media_type": "image",
     "mime_type": "image/jpeg",
+    "media_details": {
+      "width": 700,
+      "height": 466,
+      "file": "2020/07/15485_lores.jpg",
+      "sizes": {
+        "medium": {
+          "file": "15485_lores-300x200.jpg",
+          "width": 300,
+          "height": 200,
+          "mime_type": "image/jpeg",
+          "source_url": "/wp-content/uploads/2020/07/15485_lores-300x200.jpg"
+        },
+        "thumbnail": {
+          "file": "15485_lores-150x150.jpg",
+          "width": 150,
+          "height": 150,
+          "mime_type": "image/jpeg",
+          "source_url": "/wp-content/uploads/2020/07/15485_lores-150x150.jpg"
+        },
+        "full": {
+          "file": "15485_lores.jpg",
+          "width": 700,
+          "height": 466,
+          "mime_type": "image/jpeg",
+          "source_url": "/wp-content/uploads/2020/07/15485_lores.jpg"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      }
+    },
+    "post": 2997,
+    "source_url": "/wp-content/uploads/2020/07/15485_lores.jpg",
+    "_links": {
+      "self": [
+        {
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/media/4826"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/media"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/types/attachment"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/users/8"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/comments?post=4826"
+        }
+      ]
+    },
     "wordpress_url": "/wp-content/uploads/2020/07/15485_lores.jpg",
-    "type": "attachment",
     "sizes": [
       {
         "type": "full",
