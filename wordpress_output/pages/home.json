@@ -23,10 +23,7 @@
     "type": "page",
     "link": "https://as-go-covid19-d-001.azurewebsites.net/",
     "title": "Home",
-    "content": {
-      "rendered": "\n<p>homepage</p>\n",
-      "protected": false
-    },
+    "content": "\n<p>homepage</p>\n",
     "excerpt": "<p>homepage</p>\n",
     "author": "Aaron Hans",
     "featured_media": 0,
