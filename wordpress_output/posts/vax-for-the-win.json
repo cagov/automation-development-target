@@ -5,7 +5,7 @@
     "api_version": "v2",
     "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
     "process": {
-      "source_code": "https://github.com/cagov/cron",
+      "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://as-go-covid19-d-001.azurewebsites.net",
       "deployment_target": "https://github.com/cagov/automation-development-target/tree/main"
     },
@@ -15,9 +15,7 @@
     "id": 12592,
     "date": "2021-05-23T17:03:11",
     "date_gmt": "2021-05-23T17:03:11",
-    "guid": {
-      "rendered": "https://as-go-covid19-d-001.azurewebsites.net/?p=12592"
-    },
+    "guid": "https://as-go-covid19-d-001.azurewebsites.net/?p=12592",
     "modified": "2021-07-01T20:46:18",
     "modified_gmt": "2021-07-01T20:46:18",
     "slug": "vax-for-the-win",

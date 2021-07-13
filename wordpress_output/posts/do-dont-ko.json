@@ -5,7 +5,7 @@
     "api_version": "v2",
     "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
     "process": {
-      "source_code": "https://github.com/cagov/cron",
+      "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://as-go-covid19-d-001.azurewebsites.net",
       "deployment_target": "https://github.com/cagov/automation-development-target/tree/main"
     },
@@ -15,9 +15,7 @@
     "id": 1838,
     "date": "2020-04-21T21:37:53",
     "date_gmt": "2020-04-21T21:37:53",
-    "guid": {
-      "rendered": "http://as-go-covid19-d-001.azurewebsites.net/?p=1838"
-    },
+    "guid": "http://as-go-covid19-d-001.azurewebsites.net/?p=1838",
     "modified": "2020-04-21T22:20:25",
     "modified_gmt": "2020-04-21T22:20:25",
     "slug": "do-dont-ko",

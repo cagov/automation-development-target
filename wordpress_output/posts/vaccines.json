@@ -5,7 +5,7 @@
     "api_version": "v2",
     "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
     "process": {
-      "source_code": "https://github.com/cagov/cron",
+      "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://as-go-covid19-d-001.azurewebsites.net",
       "deployment_target": "https://github.com/cagov/automation-development-target/tree/main"
     },
@@ -15,9 +15,7 @@
     "id": 7006,
     "date": "2020-11-17T15:07:35",
     "date_gmt": "2020-11-17T15:07:35",
-    "guid": {
-      "rendered": "http://as-go-covid19-d-001.azurewebsites.net/?p=7006"
-    },
+    "guid": "http://as-go-covid19-d-001.azurewebsites.net/?p=7006",
     "modified": "2021-07-12T21:23:53",
     "modified_gmt": "2021-07-12T21:23:53",
     "slug": "vaccines",

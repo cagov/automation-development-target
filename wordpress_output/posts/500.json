@@ -5,7 +5,7 @@
     "api_version": "v2",
     "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
     "process": {
-      "source_code": "https://github.com/cagov/cron",
+      "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://as-go-covid19-d-001.azurewebsites.net",
       "deployment_target": "https://github.com/cagov/automation-development-target/tree/main"
     },
@@ -15,9 +15,7 @@
     "id": 1205,
     "date": "2020-04-13T19:59:22",
     "date_gmt": "2020-04-13T19:59:22",
-    "guid": {
-      "rendered": "http://as-go-covid19-d-001.azurewebsites.net/?p=1205"
-    },
+    "guid": "http://as-go-covid19-d-001.azurewebsites.net/?p=1205",
     "modified": "2020-04-20T19:09:26",
     "modified_gmt": "2020-04-20T19:09:26",
     "slug": "500",

@@ -5,7 +5,7 @@
     "api_version": "v2",
     "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
     "process": {
-      "source_code": "https://github.com/cagov/cron",
+      "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://as-go-covid19-d-001.azurewebsites.net",
       "deployment_target": "https://github.com/cagov/automation-development-target/tree/main"
     },
@@ -15,9 +15,7 @@
     "id": 1840,
     "date": "2020-04-21T21:38:34",
     "date_gmt": "2020-04-21T21:38:34",
-    "guid": {
-      "rendered": "http://as-go-covid19-d-001.azurewebsites.net/?p=1840"
-    },
+    "guid": "http://as-go-covid19-d-001.azurewebsites.net/?p=1840",
     "modified": "2020-04-21T22:25:22",
     "modified_gmt": "2020-04-21T22:25:22",
     "slug": "do-dont-zh-hans",
