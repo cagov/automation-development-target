@@ -23,10 +23,7 @@
     "type": "post",
     "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/06/15/search/",
     "title": "Search",
-    "content": {
-      "rendered": "\n<h2>Search this website</h2>\n\n\n\n<label id=\"SearchInput\" for=\"q\">\n\tEnter your search text\n</label>\n<form class=\"form-inline\">\n\t<input type=\"search\" class=\"form-control col-md-6\" id=\"q\" name=\"q\" aria-labelledby=\"SearchInput\" autofocus=\"\" required=\"\">\n\t<button type=\"submit\" class=\"btn btn-primary\">\n\t\tSearch\n\t</button>\t  \n</form>\n\n<div id=\"answersNow\"></div>\n\n<gcse:searchresults-only></gcse:searchresults-only>\n\n\n\n<h4>Popular searches</h4>\n\n\n\n<div id=\"queries\"></div>\n",
-      "protected": false
-    },
+    "content": "\n<h2>Search this website</h2>\n\n\n\n<label id=\"SearchInput\" for=\"q\">\n\tEnter your search text\n</label>\n<form class=\"form-inline\">\n\t<input type=\"search\" class=\"form-control col-md-6\" id=\"q\" name=\"q\" aria-labelledby=\"SearchInput\" autofocus=\"\" required=\"\">\n\t<button type=\"submit\" class=\"btn btn-primary\">\n\t\tSearch\n\t</button>\t  \n</form>\n\n<div id=\"answersNow\"></div>\n\n<gcse:searchresults-only></gcse:searchresults-only>\n\n\n\n<h4>Popular searches</h4>\n\n\n\n<div id=\"queries\"></div>\n",
     "excerpt": "<p>Search the Covid19 website.</p>\n",
     "author": "Carter Medlin",
     "featured_media": 0,

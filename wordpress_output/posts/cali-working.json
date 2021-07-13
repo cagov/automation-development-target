@@ -23,10 +23,7 @@
     "type": "post",
     "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/14/cali-working/",
     "title": "cali working",
-    "content": {
-      "rendered": "\n<div class=\"row pb-3\">\n        <div class=\"col-sm text-right text-center-mobile\"><a href=\"https://toolkit.covid19.ca.gov/\"><img src=\"/img/California-For-All.png\" style=\"width: 137px;padding-top: 14px;padding-right: 9px;margin-right: 20px;\" class=\"rounded\" alt=\"california for all your actions save lives visit CA covid19 toolkit website\"></a></div>\n        <div class=\"col-md-8 container text-left text-center-mobile\">\n          <h2 class=\"text-white\">California is working around the clock to respond to COVID-19</h2>\n          <a href=\"https://www.gov.ca.gov/california-takes-action-to-combat-covid-19/\" class=\"action-link mt-4\">See CA State actions</a>\n",
-      "protected": false
-    },
+    "content": "\n<div class=\"row pb-3\">\n        <div class=\"col-sm text-right text-center-mobile\"><a href=\"https://toolkit.covid19.ca.gov/\"><img src=\"/img/California-For-All.png\" style=\"width: 137px;padding-top: 14px;padding-right: 9px;margin-right: 20px;\" class=\"rounded\" alt=\"california for all your actions save lives visit CA covid19 toolkit website\"></a></div>\n        <div class=\"col-md-8 container text-left text-center-mobile\">\n          <h2 class=\"text-white\">California is working around the clock to respond to COVID-19</h2>\n          <a href=\"https://www.gov.ca.gov/california-takes-action-to-combat-covid-19/\" class=\"action-link mt-4\">See CA State actions</a>\n",
     "excerpt": "<p>California is working around the clock to respond to COVID-19 See CA State actions</p>\n",
     "author": "Aaron Hans",
     "featured_media": 0,

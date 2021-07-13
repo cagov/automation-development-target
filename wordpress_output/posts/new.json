@@ -23,10 +23,7 @@
     "type": "post",
     "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/15/new/",
     "title": "new",
-    "content": {
-      "rendered": "\n<h2 class=\"h3 text-primary m-0 pt-2 pb-3\">Vaccinations prevent nearly all COVID-19 hospitalizations and deaths</h2>\n\n\n\n<p>Out of over 20 million fully-vaccinated Californians, only 0.003% contracted COVID-19 and needed hospitalization.</p>\n\n\n\n<div class=\"hero-alert-action\">\n<a href=\"https://www.cdph.ca.gov/Programs/OPA/Pages/NR21-209.aspx\" class=\"action-link pt-3 pb-3 px-4\">Find out more</a>\n</div>\n\n\n\n<p></p>\n",
-      "protected": false
-    },
+    "content": "\n<h2 class=\"h3 text-primary m-0 pt-2 pb-3\">Vaccinations prevent nearly all COVID-19 hospitalizations and deaths</h2>\n\n\n\n<p>Out of over 20 million fully-vaccinated Californians, only 0.003% contracted COVID-19 and needed hospitalization.</p>\n\n\n\n<div class=\"hero-alert-action\">\n<a href=\"https://www.cdph.ca.gov/Programs/OPA/Pages/NR21-209.aspx\" class=\"action-link pt-3 pb-3 px-4\">Find out more</a>\n</div>\n\n\n\n<p></p>\n",
     "excerpt": "<p>Vaccinations prevent nearly all COVID-19 hospitalizations and deaths Out of over 20 million fully-vaccinated Californians, only 0.003% contracted COVID-19 and needed hospitalization. Find out more</p>\n",
     "author": "Peggy Gartin",
     "featured_media": 0,

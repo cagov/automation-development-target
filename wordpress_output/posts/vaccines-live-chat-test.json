@@ -23,10 +23,7 @@
     "type": "post",
     "link": "https://as-go-covid19-d-001.azurewebsites.net/2021/01/22/vaccines-live-chat-test/",
     "title": "Vaccines Live Chat Testing",
-    "content": {
-      "rendered": "\n<!-- Medchat Vaccine Live Chat Widget Code -->\n<script type=\"text/javascript\" async=\"\" src=\"https://medchatapp.com/widget/widget.js?api-key=LQ9KMzS7LEO52uYRQ4PNOA\" defer=\"\"></script>\n",
-      "protected": false
-    },
+    "content": "\n<!-- Medchat Vaccine Live Chat Widget Code -->\n<script type=\"text/javascript\" async=\"\" src=\"https://medchatapp.com/widget/widget.js?api-key=LQ9KMzS7LEO52uYRQ4PNOA\" defer=\"\"></script>\n",
     "excerpt": "",
     "author": "Chach Sikes",
     "featured_media": 0,

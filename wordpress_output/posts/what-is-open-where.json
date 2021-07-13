@@ -23,10 +23,7 @@
     "type": "post",
     "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/06/04/what-is-open-where/",
     "title": "What&#8217;s open?",
-    "content": {
-      "rendered": "\n<p>Open businesses vary by county. See what&#8217;s open or closed in your area.</p>\n\n\n\n<div class=\"row\">\n  <div class=\"col-md-12\">\n    <cwds-lookup data-search-api=\"https://api.alpha.ca.gov/CaZipCityCountyTypeAhead?citymode=false&#038;countymode=true&#038;q=\"\n  data-label=\"Please enter county or zip code\"\n  data-button-label=\"What's open?\"\n />\n  </div>\n</div>\n\n<div class=\"row\">\n  <div class=\"col-md-12\">\n    <div class=\"js-alameda-haircut\" aria-live=\"polite\">\n      <ul class=\"card-set\"></ul>\n    </div>\n  </div>\n</div>\n\n\n\n<p></p>\n",
-      "protected": false
-    },
+    "content": "\n<p>Open businesses vary by county. See what&#8217;s open or closed in your area.</p>\n\n\n\n<div class=\"row\">\n  <div class=\"col-md-12\">\n    <cwds-lookup data-search-api=\"https://api.alpha.ca.gov/CaZipCityCountyTypeAhead?citymode=false&#038;countymode=true&#038;q=\"\n  data-label=\"Please enter county or zip code\"\n  data-button-label=\"What's open?\"\n />\n  </div>\n</div>\n\n<div class=\"row\">\n  <div class=\"col-md-12\">\n    <div class=\"js-alameda-haircut\" aria-live=\"polite\">\n      <ul class=\"card-set\"></ul>\n    </div>\n  </div>\n</div>\n\n\n\n<p></p>\n",
     "excerpt": "<p>Open businesses vary by county. See what&#8217;s open or closed in your area.</p>\n",
     "author": "Aaron Hans",
     "featured_media": 0,
