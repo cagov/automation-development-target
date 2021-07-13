@@ -54,35 +54,6 @@
     },
     "post": null,
     "source_url": "/wp-content/uploads/2020/04/image-2.png",
-    "_links": {
-      "self": [
-        {
-          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/media/2071"
-        }
-      ],
-      "collection": [
-        {
-          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/media"
-        }
-      ],
-      "about": [
-        {
-          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/types/attachment"
-        }
-      ],
-      "author": [
-        {
-          "embeddable": true,
-          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/users/6"
-        }
-      ],
-      "replies": [
-        {
-          "embeddable": true,
-          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/comments?post=2071"
-        }
-      ]
-    },
     "wordpress_url": "/wp-content/uploads/2020/04/image-2.png",
     "sizes": []
   }

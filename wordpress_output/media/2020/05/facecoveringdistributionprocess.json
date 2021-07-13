@@ -105,35 +105,6 @@
     },
     "post": null,
     "source_url": "/wp-content/uploads/2020/05/facecoveringdistributionprocess.png",
-    "_links": {
-      "self": [
-        {
-          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/media/3037"
-        }
-      ],
-      "collection": [
-        {
-          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/media"
-        }
-      ],
-      "about": [
-        {
-          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/types/attachment"
-        }
-      ],
-      "author": [
-        {
-          "embeddable": true,
-          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/users/8"
-        }
-      ],
-      "replies": [
-        {
-          "embeddable": true,
-          "href": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/comments?post=3037"
-        }
-      ]
-    },
     "wordpress_url": "/wp-content/uploads/2020/05/facecoveringdistributionprocess.png",
     "sizes": [
       {
