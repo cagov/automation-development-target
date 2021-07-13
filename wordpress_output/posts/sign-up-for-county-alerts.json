@@ -23,7 +23,6 @@
     "type": "post",
     "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/06/17/sign-up-for-county-alerts/",
     "title": "Local alerts",
-    "content": "\n<h2>Sign up for local emergency alerts</h2>\n\n\n\n<p>Stay informed of local updates by signing up for your county alert.</p>\n\n\n\n<div class=\"row\">\n  <div class=\"col-md-12\">\n    <form class=\"form-inline js-alert-lookup\">\n      <div class=\"form-group\">\n        <label for=\"location-query\">\n          Please enter your county or zip code:\n        </label>\n        <div class=\"awesomplete\">\n          <div class=\"awesomplete\">\n            <input aria-owns=\"awesomplete_list_1\" aria-controls=\"awesomplete_list_1\" autocomplete=\"off\" class=\"city-search form-control\" data-list=\"\" data-multiple=\"\" id=\"location-query\" role=\"combobox\" type=\"text\" aria-expanded=\"false\">\n          </div>\n        </div>\n        <button class=\"btn btn-primary\" type=\"submit\">\n          Find alerts\n        </button>\n        <div class=\"invalid-feedback\">\n          Please enter a county or zip code in California.\n        </div>\n      </div>\n    </form>\n    <div class=\"js-county-alert\" aria-live=\"polite\">\n      <ul class=\"card-set\" title=\"county alert list\"></ul>\n    </div>\n  </div>\n</div>\n",
     "excerpt": "<p>Sign up for local emergency alerts.</p>\n",
     "author": "Peggy Gartin",
     "featured_media": 0,
