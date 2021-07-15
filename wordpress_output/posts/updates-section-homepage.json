@@ -4,7 +4,7 @@
     "updated_date": "2021-06-15T16:11:27",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
-    "foo": 1,
+    "foo": 2,
     "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
