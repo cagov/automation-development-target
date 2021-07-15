@@ -84,6 +84,7 @@
       {
         "type": "full",
         "path": "2020/03/ms-icon-310x310-1.png",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-content/uploads/2020/03/ms-icon-310x310-1.png",
         "file": "ms-icon-310x310-1.png",
         "width": 310,
         "height": 310,
@@ -93,6 +94,7 @@
       {
         "type": "medium",
         "path": "2020/03/ms-icon-310x310-1-300x300.png",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-content/uploads/2020/03/ms-icon-310x310-1-300x300.png",
         "file": "ms-icon-310x310-1-300x300.png",
         "width": 300,
         "height": 300,
@@ -102,6 +104,7 @@
       {
         "type": "thumbnail",
         "path": "2020/03/ms-icon-310x310-1-150x150.png",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-content/uploads/2020/03/ms-icon-310x310-1-150x150.png",
         "file": "ms-icon-310x310-1-150x150.png",
         "width": 150,
         "height": 150,

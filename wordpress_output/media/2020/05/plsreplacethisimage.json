@@ -98,6 +98,7 @@
       {
         "type": "full",
         "path": "2020/05/plsreplacethisimage.png",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-content/uploads/2020/05/plsreplacethisimage.png",
         "file": "plsreplacethisimage.png",
         "width": 1054,
         "height": 432,
@@ -107,6 +108,7 @@
       {
         "type": "large",
         "path": "2020/05/plsreplacethisimage-1024x420.png",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-content/uploads/2020/05/plsreplacethisimage-1024x420.png",
         "file": "plsreplacethisimage-1024x420.png",
         "width": 1024,
         "height": 420,
@@ -116,6 +118,7 @@
       {
         "type": "medium_large",
         "path": "2020/05/plsreplacethisimage-768x315.png",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-content/uploads/2020/05/plsreplacethisimage-768x315.png",
         "file": "plsreplacethisimage-768x315.png",
         "width": 768,
         "height": 315,
@@ -125,6 +128,7 @@
       {
         "type": "medium",
         "path": "2020/05/plsreplacethisimage-300x123.png",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-content/uploads/2020/05/plsreplacethisimage-300x123.png",
         "file": "plsreplacethisimage-300x123.png",
         "width": 300,
         "height": 123,
@@ -134,6 +138,7 @@
       {
         "type": "thumbnail",
         "path": "2020/05/plsreplacethisimage-150x150.png",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-content/uploads/2020/05/plsreplacethisimage-150x150.png",
         "file": "plsreplacethisimage-150x150.png",
         "width": 150,
         "height": 150,

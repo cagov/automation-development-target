@@ -112,6 +112,7 @@
       {
         "type": "full",
         "path": "2020/03/cropped-thumbnail.png",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-content/uploads/2020/03/cropped-thumbnail.png",
         "file": "cropped-thumbnail.png",
         "width": 512,
         "height": 512,
@@ -121,6 +122,7 @@
       {
         "type": "medium",
         "path": "2020/03/cropped-thumbnail-300x300.png",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-content/uploads/2020/03/cropped-thumbnail-300x300.png",
         "file": "cropped-thumbnail-300x300.png",
         "width": 300,
         "height": 300,
@@ -130,6 +132,7 @@
       {
         "type": "site_icon-270",
         "path": "2020/03/cropped-thumbnail-270x270.png",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-content/uploads/2020/03/cropped-thumbnail-270x270.png",
         "file": "cropped-thumbnail-270x270.png",
         "width": 270,
         "height": 270,
@@ -139,6 +142,7 @@
       {
         "type": "site_icon-192",
         "path": "2020/03/cropped-thumbnail-192x192.png",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-content/uploads/2020/03/cropped-thumbnail-192x192.png",
         "file": "cropped-thumbnail-192x192.png",
         "width": 192,
         "height": 192,
@@ -148,6 +152,7 @@
       {
         "type": "site_icon-180",
         "path": "2020/03/cropped-thumbnail-180x180.png",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-content/uploads/2020/03/cropped-thumbnail-180x180.png",
         "file": "cropped-thumbnail-180x180.png",
         "width": 180,
         "height": 180,
@@ -157,6 +162,7 @@
       {
         "type": "thumbnail",
         "path": "2020/03/cropped-thumbnail-150x150.png",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-content/uploads/2020/03/cropped-thumbnail-150x150.png",
         "file": "cropped-thumbnail-150x150.png",
         "width": 150,
         "height": 150,
@@ -166,6 +172,7 @@
       {
         "type": "site_icon-32",
         "path": "2020/03/cropped-thumbnail-32x32.png",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-content/uploads/2020/03/cropped-thumbnail-32x32.png",
         "file": "cropped-thumbnail-32x32.png",
         "width": 32,
         "height": 32,
