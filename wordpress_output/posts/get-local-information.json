@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2020-03-13T22:27:00",
-    "updated_date": "2021-07-14T01:59:33",
+    "updated_date": "2021-07-22T22:04:47",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
@@ -17,15 +17,15 @@
     "date": "2020-03-13T22:27:00",
     "date_gmt": "2020-03-13T22:27:00",
     "guid": "http://as-go-covid19-d-001.azurewebsites.net/?p=54",
-    "modified": "2021-07-14T01:59:33",
-    "modified_gmt": "2021-07-14T01:59:33",
+    "modified": "2021-07-22T22:04:47",
+    "modified_gmt": "2021-07-22T22:04:47",
     "slug": "get-local-information",
     "status": "publish",
     "type": "post",
     "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/03/13/get-local-information/",
     "title": "Hotlines and local info",
     "excerpt": "<p>Coronavirus / COVID-19 hotlines, websites, and text alerts to help you find timely local info no matter where you are in California.</p>\n",
-    "author": "Liz Nobriga",
+    "author": "Peggy Gartin",
     "featured_media": 0,
     "comment_status": "closed",
     "ping_status": "closed",
@@ -37,6 +37,7 @@
       "local information"
     ],
     "tags": [
+      "staging-only",
       "translate"
     ],
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/03/13/get-local-information/"
