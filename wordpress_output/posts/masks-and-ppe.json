@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2020-05-11T16:40:15",
-    "updated_date": "2021-07-26T17:27:11",
+    "updated_date": "2021-07-26T17:28:18",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
@@ -17,8 +17,8 @@
     "date": "2020-05-11T16:40:15",
     "date_gmt": "2020-05-11T16:40:15",
     "guid": "http://as-go-covid19-d-001.azurewebsites.net/?p=2997",
-    "modified": "2021-07-26T17:27:11",
-    "modified_gmt": "2021-07-26T17:27:11",
+    "modified": "2021-07-26T17:28:18",
+    "modified_gmt": "2021-07-26T17:28:18",
     "slug": "masks-and-ppe",
     "status": "publish",
     "type": "post",
