@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2020-04-15T16:23:16",
-    "updated_date": "2021-07-23T01:16:10",
+    "updated_date": "2021-07-26T17:02:04",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
@@ -17,14 +17,14 @@
     "date": "2020-04-15T16:23:16",
     "date_gmt": "2020-04-15T16:23:16",
     "guid": "http://as-go-covid19-d-001.azurewebsites.net/?p=1392",
-    "modified": "2021-07-23T01:16:10",
-    "modified_gmt": "2021-07-23T01:16:10",
+    "modified": "2021-07-26T17:02:04",
+    "modified_gmt": "2021-07-26T17:02:04",
     "slug": "new",
     "status": "publish",
     "type": "post",
     "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/15/new/",
     "title": "new",
-    "excerpt": "<p>Get vaccinated, no matter what your immigration status is You will not be asked for a green card, passport, or any proof of immigration status. Vaccines are safe and free to everyone 12 or older. Get yours today. Find out more</p>\n",
+    "excerpt": "<p>California puts vaccine verification in effect for healthcare workers and state employees To combat surging cases and hospitalizations, California will now require healthcare workers and state employees to get vaccinated or receive regular COVID-19 testing. Learn more</p>\n",
     "author": "Peggy Gartin",
     "featured_media": 0,
     "comment_status": "closed",
@@ -38,6 +38,7 @@
     ],
     "tags": [
       "fragment",
+      "staging-only",
       "translate"
     ],
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/15/new/"
