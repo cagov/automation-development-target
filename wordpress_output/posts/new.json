@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2020-04-15T16:23:16",
-    "updated_date": "2021-07-26T18:34:49",
+    "updated_date": "2021-07-28T16:34:13",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
@@ -17,14 +17,14 @@
     "date": "2020-04-15T16:23:16",
     "date_gmt": "2020-04-15T16:23:16",
     "guid": "http://as-go-covid19-d-001.azurewebsites.net/?p=1392",
-    "modified": "2021-07-26T18:34:49",
-    "modified_gmt": "2021-07-26T18:34:49",
+    "modified": "2021-07-28T16:34:13",
+    "modified_gmt": "2021-07-28T16:34:13",
     "slug": "new",
     "status": "publish",
     "type": "post",
     "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/15/new/",
     "title": "new",
-    "excerpt": "<p>California puts vaccine verification in effect for healthcare workers and state employees To combat surging cases and hospitalizations, California will now require healthcare workers and state employees to get vaccinated or receive regular COVID-19 testing. Learn more</p>\n",
+    "excerpt": "<p>Do you need help with rent or utilities? You may be eligible for CA COVID-19 rent relief. Get up to 100% of your rent and utilities paid. Apply online or call 833-430-2122. Learn more</p>\n",
     "author": "Peggy Gartin",
     "featured_media": 0,
     "comment_status": "closed",
@@ -38,6 +38,7 @@
     ],
     "tags": [
       "fragment",
+      "staging-only",
       "translate"
     ],
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/15/new/"
