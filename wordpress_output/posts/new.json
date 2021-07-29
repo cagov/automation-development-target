@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2020-04-15T16:23:16",
-    "updated_date": "2021-07-29T18:35:18",
+    "updated_date": "2021-07-29T20:25:27",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
@@ -17,14 +17,14 @@
     "date": "2020-04-15T16:23:16",
     "date_gmt": "2020-04-15T16:23:16",
     "guid": "http://as-go-covid19-d-001.azurewebsites.net/?p=1392",
-    "modified": "2021-07-29T18:35:18",
-    "modified_gmt": "2021-07-29T18:35:18",
+    "modified": "2021-07-29T20:25:27",
+    "modified_gmt": "2021-07-29T20:25:27",
     "slug": "new",
     "status": "publish",
     "type": "post",
     "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/15/new/",
     "title": "new",
-    "excerpt": "<p>Confused about when to wear a mask? There are new guidelines that can help. Wearing a mask in indoor public places is now recommended for everyone, whether you’re vaccinated or not. And some new mask rules for the workplace are in effect. Find out more</p>\n",
+    "excerpt": "<p>Confused about when to wear a mask? There are new guidelines that can help. Wearing a mask in indoor public places is now recommended for everyone, whether you’re vaccinated or not. See new mask rules for the workplace and how to find if your area has further restrictions. Get the latest</p>\n",
     "author": "Peggy Gartin",
     "featured_media": 0,
     "comment_status": "closed",
@@ -38,6 +38,7 @@
     ],
     "tags": [
       "fragment",
+      "staging-only",
       "translate"
     ],
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/15/new/"
