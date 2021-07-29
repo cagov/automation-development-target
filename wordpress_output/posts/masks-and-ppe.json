@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2020-05-11T16:40:15",
-    "updated_date": "2021-07-29T17:44:31",
+    "updated_date": "2021-07-29T20:01:50",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
@@ -17,14 +17,14 @@
     "date": "2020-05-11T16:40:15",
     "date_gmt": "2020-05-11T16:40:15",
     "guid": "http://as-go-covid19-d-001.azurewebsites.net/?p=2997",
-    "modified": "2021-07-29T17:44:31",
-    "modified_gmt": "2021-07-29T17:44:31",
+    "modified": "2021-07-29T20:01:50",
+    "modified_gmt": "2021-07-29T20:01:50",
     "slug": "masks-and-ppe",
     "status": "publish",
     "type": "post",
     "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/05/11/masks-and-ppe/",
     "title": "Masks",
-    "excerpt": "<p>Here are California&#8217;s current mask recommendations and requirements. On this page: Masks in daily life Masks in the workplace Guidance for businesses Questions and answers Masks in daily life Everyone is required to wear masks in the following settings: Public transit Healthcare settings (including long term care facilities) Adult and senior care facilities Indoors in [&hellip;]</p>\n",
+    "excerpt": "<p>Here are California&#8217;s current mask recommendations and requirements. On this page: Masks in daily life Masks in the workplace Guidance for businesses Questions and answers Masks in daily life These are the statewide guidelines for masks. Your local area may have more. Check your area’s COVID-19 website. Everyone is required to wear masks in the [&hellip;]</p>\n",
     "author": "Peggy Gartin",
     "featured_media": 0,
     "comment_status": "closed",
@@ -37,6 +37,7 @@
       "masks and PPE"
     ],
     "tags": [
+      "staging-only",
       "translate"
     ],
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/05/11/masks-and-ppe/"
