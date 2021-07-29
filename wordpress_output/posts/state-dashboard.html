@@ -58,11 +58,13 @@ data2.icu.ICU_SUSPECTED_COVID_PATIENTS_DAILY) | formatNumber(tags)-%}
 {%- endif -%}
 -->
 
+<hr class="wp-block-separator" id="todays-update"/>
+
 <div class="bg-lightblue full-bleed mt-minus-4">
   <div class="container py-2">
     <div class="row pb-4">
       <div class="col-lg-10 mx-auto">
-        <h2 class="text-center color-purple" id="todays update">Update for {{_varStatDate_}}</h2>
+        <h2 class="text-center color-purple">Update for {{_varStatDate_}}</h2>
         <p>As of {{_varStatDateNoYear_}}, California has {{_varStatTotalCases_}} confirmed cases of COVID-19,
           resulting in {{_varStatTotalDeaths_}} deaths.</p>
       </div>
@@ -215,7 +217,9 @@ data2.icu.ICU_SUSPECTED_COVID_PATIENTS_DAILY) | formatNumber(tags)-%}
   <!--END container-->
 </div>
 
-<h2 class="text-center color-purple" id="county-statewide">County and statewide data</h2>
+<hr class="wp-block-separator" id="county-statewide"/>
+
+<h2 class="text-center color-purple">County and statewide data</h2>
 
 <cagov-county-search></cagov-county-search>
 
@@ -391,11 +395,13 @@ data2.icu.ICU_SUSPECTED_COVID_PATIENTS_DAILY) | formatNumber(tags)-%}
     </div> 
   </div>
 
+<hr class="wp-block-separator" id="vaccination"/>
+
 <div class="bg-darkblue py-5 full-bleed mb-5">
             <div class="container py-2">
                 <div class="row pb-4">
                     <div class="col-lg-10 mx-auto color-white">
-                        <h2 class="text-center color-orange" id="vaccination">Vaccination data</h2>
+                        <h2 class="text-center color-orange">Vaccination data</h2>
                         <p>COVID-19 vaccination is one of the most important tools to end the pandemic. We’re tracking the progress of vaccinating Californians across the state.</p>
 
                         <div class="mt-3 text-center">
@@ -409,9 +415,11 @@ data2.icu.ICU_SUSPECTED_COVID_PATIENTS_DAILY) | formatNumber(tags)-%}
             </div><!--END container-->
         </div>
 
+<hr class="wp-block-separator" id="group"/>
+
 <div class="bg-lightblue full-bleed mb-0">
   <div class="container pt-4 pb-5">
-    <h2 class="text-center color-primary" id="group">Cases and deaths by group</h2>
+    <h2 class="text-center color-primary">Cases and deaths by group</h2>
     <div class="col-lg-12 bg-white px-4 py-4">
       <div class="d-flex flex-column flex-md-row justify-content-center my-3">
         <div class="large-tabs">
@@ -535,11 +543,13 @@ data2.icu.ICU_SUSPECTED_COVID_PATIENTS_DAILY) | formatNumber(tags)-%}
   <!--END CONTAINER-->
 </div>
 
+<hr class="wp-block-separator" id="more"/>
+
 <div class="bg-darkblue py-5 full-bleed mb-5">
   <div class="container py-2">
     <div class="row pb-4">
       <div class="col-lg-10 mx-auto color-white">
-        <h2 class="text-center color-orange" id="more">More data and tools</h2>
+        <h2 class="text-center color-orange">More data and tools</h2>
         <p>California has collected a wide range of data to inform its response to COVID-19. We’ve developed tools
           to process and analyze this data. These data and tools are available to the public.</p>
 
