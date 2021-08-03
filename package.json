@@ -1,21 +1,13 @@
 {
-  "name": "covid-static-data",
+  "name": "automation-development-target",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "scripts": {
-    "move": "node src/move.js",
-    "updateSitemap": "node src/updateSitemap.js"
-  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cagov/covid-static-data.git"
+    "url": "git+https://github.com/cagov/automation-development-target.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/cagov/covid-static-data/issues"
-  },
-  "homepage": "https://github.com/cagov/covid-static-data#readme"
+  "homepage": "https://github.com/cagov/automation-development-target#readme"
 }

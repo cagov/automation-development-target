@@ -1,0 +1,183 @@
+{
+  "meta": {
+    "created_date": "2020-05-20T19:38:06",
+    "updated_date": "2020-05-20T19:38:06",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://as-go-covid19-d-001.azurewebsites.net",
+      "deployment_target": "https://github.com/cagov/automation-development-target/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 3592,
+    "date": "2020-05-20T19:38:06",
+    "date_gmt": "2020-05-20T19:38:06",
+    "guid": "/wp-content/uploads/2020/05/CAConnected_Logo_Tag_4C.png",
+    "modified": "2020-05-20T19:38:06",
+    "modified_gmt": "2020-05-20T19:38:06",
+    "slug": "caconnected_logo_tag_4c",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://as-go-covid19-d-001.azurewebsites.net/caconnected_logo_tag_4c/",
+    "title": "CAConnected_Logo_Tag_4C",
+    "author": "Peggy Gartin",
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "description": "<p class=\"attachment\"><a href='/wp-content/uploads/2020/05/CAConnected_Logo_Tag_4C.png'><img width=\"300\" height=\"108\" src=\"/wp-content/uploads/2020/05/CAConnected_Logo_Tag_4C-300x108.png\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"/wp-content/uploads/2020/05/CAConnected_Logo_Tag_4C-300x108.png 300w, /wp-content/uploads/2020/05/CAConnected_Logo_Tag_4C-1024x368.png 1024w, /wp-content/uploads/2020/05/CAConnected_Logo_Tag_4C-768x276.png 768w, /wp-content/uploads/2020/05/CAConnected_Logo_Tag_4C-1536x553.png 1536w, /wp-content/uploads/2020/05/CAConnected_Logo_Tag_4C-2048x737.png 2048w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n",
+    "caption": "",
+    "alt_text": "",
+    "media_type": "image",
+    "mime_type": "image/png",
+    "media_details": {
+      "width": 2265,
+      "height": 815,
+      "file": "2020/05/CAConnected_Logo_Tag_4C.png",
+      "sizes": {
+        "medium": {
+          "file": "CAConnected_Logo_Tag_4C-300x108.png",
+          "width": 300,
+          "height": 108,
+          "mime_type": "image/png",
+          "source_url": "/wp-content/uploads/2020/05/CAConnected_Logo_Tag_4C-300x108.png"
+        },
+        "large": {
+          "file": "CAConnected_Logo_Tag_4C-1024x368.png",
+          "width": 1024,
+          "height": 368,
+          "mime_type": "image/png",
+          "source_url": "/wp-content/uploads/2020/05/CAConnected_Logo_Tag_4C-1024x368.png"
+        },
+        "thumbnail": {
+          "file": "CAConnected_Logo_Tag_4C-150x150.png",
+          "width": 150,
+          "height": 150,
+          "mime_type": "image/png",
+          "source_url": "/wp-content/uploads/2020/05/CAConnected_Logo_Tag_4C-150x150.png"
+        },
+        "medium_large": {
+          "file": "CAConnected_Logo_Tag_4C-768x276.png",
+          "width": 768,
+          "height": 276,
+          "mime_type": "image/png",
+          "source_url": "/wp-content/uploads/2020/05/CAConnected_Logo_Tag_4C-768x276.png"
+        },
+        "1536x1536": {
+          "file": "CAConnected_Logo_Tag_4C-1536x553.png",
+          "width": 1536,
+          "height": 553,
+          "mime_type": "image/png",
+          "source_url": "/wp-content/uploads/2020/05/CAConnected_Logo_Tag_4C-1536x553.png"
+        },
+        "2048x2048": {
+          "file": "CAConnected_Logo_Tag_4C-2048x737.png",
+          "width": 2048,
+          "height": 737,
+          "mime_type": "image/png",
+          "source_url": "/wp-content/uploads/2020/05/CAConnected_Logo_Tag_4C-2048x737.png"
+        },
+        "full": {
+          "file": "CAConnected_Logo_Tag_4C.png",
+          "width": 2265,
+          "height": 815,
+          "mime_type": "image/png",
+          "source_url": "/wp-content/uploads/2020/05/CAConnected_Logo_Tag_4C.png"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      }
+    },
+    "post": null,
+    "source_url": "/wp-content/uploads/2020/05/CAConnected_Logo_Tag_4C.png",
+    "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-content/uploads/2020/05/CAConnected_Logo_Tag_4C.png",
+    "sizes": [
+      {
+        "type": "full",
+        "path": "2020/05/CAConnected_Logo_Tag_4C.png",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-content/uploads/2020/05/CAConnected_Logo_Tag_4C.png",
+        "file": "CAConnected_Logo_Tag_4C.png",
+        "width": 2265,
+        "height": 815,
+        "mime_type": "image/png",
+        "source_url": "/wp-content/uploads/2020/05/CAConnected_Logo_Tag_4C.png"
+      },
+      {
+        "type": "2048x2048",
+        "path": "2020/05/CAConnected_Logo_Tag_4C-2048x737.png",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-content/uploads/2020/05/CAConnected_Logo_Tag_4C-2048x737.png",
+        "file": "CAConnected_Logo_Tag_4C-2048x737.png",
+        "width": 2048,
+        "height": 737,
+        "mime_type": "image/png",
+        "source_url": "/wp-content/uploads/2020/05/CAConnected_Logo_Tag_4C-2048x737.png"
+      },
+      {
+        "type": "1536x1536",
+        "path": "2020/05/CAConnected_Logo_Tag_4C-1536x553.png",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-content/uploads/2020/05/CAConnected_Logo_Tag_4C-1536x553.png",
+        "file": "CAConnected_Logo_Tag_4C-1536x553.png",
+        "width": 1536,
+        "height": 553,
+        "mime_type": "image/png",
+        "source_url": "/wp-content/uploads/2020/05/CAConnected_Logo_Tag_4C-1536x553.png"
+      },
+      {
+        "type": "large",
+        "path": "2020/05/CAConnected_Logo_Tag_4C-1024x368.png",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-content/uploads/2020/05/CAConnected_Logo_Tag_4C-1024x368.png",
+        "file": "CAConnected_Logo_Tag_4C-1024x368.png",
+        "width": 1024,
+        "height": 368,
+        "mime_type": "image/png",
+        "source_url": "/wp-content/uploads/2020/05/CAConnected_Logo_Tag_4C-1024x368.png"
+      },
+      {
+        "type": "medium_large",
+        "path": "2020/05/CAConnected_Logo_Tag_4C-768x276.png",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-content/uploads/2020/05/CAConnected_Logo_Tag_4C-768x276.png",
+        "file": "CAConnected_Logo_Tag_4C-768x276.png",
+        "width": 768,
+        "height": 276,
+        "mime_type": "image/png",
+        "source_url": "/wp-content/uploads/2020/05/CAConnected_Logo_Tag_4C-768x276.png"
+      },
+      {
+        "type": "medium",
+        "path": "2020/05/CAConnected_Logo_Tag_4C-300x108.png",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-content/uploads/2020/05/CAConnected_Logo_Tag_4C-300x108.png",
+        "file": "CAConnected_Logo_Tag_4C-300x108.png",
+        "width": 300,
+        "height": 108,
+        "mime_type": "image/png",
+        "source_url": "/wp-content/uploads/2020/05/CAConnected_Logo_Tag_4C-300x108.png"
+      },
+      {
+        "type": "thumbnail",
+        "path": "2020/05/CAConnected_Logo_Tag_4C-150x150.png",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-content/uploads/2020/05/CAConnected_Logo_Tag_4C-150x150.png",
+        "file": "CAConnected_Logo_Tag_4C-150x150.png",
+        "width": 150,
+        "height": 150,
+        "mime_type": "image/png",
+        "source_url": "/wp-content/uploads/2020/05/CAConnected_Logo_Tag_4C-150x150.png"
+      }
+    ]
+  }
+}

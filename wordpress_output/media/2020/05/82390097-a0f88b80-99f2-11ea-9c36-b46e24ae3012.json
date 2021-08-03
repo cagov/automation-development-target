@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "created_date": "2020-05-20T00:20:37",
+    "updated_date": "2020-05-20T00:20:37",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/pages/",
+    "api_version": "v2",
+    "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://as-go-covid19-d-001.azurewebsites.net",
+      "deployment_target": "https://github.com/cagov/automation-development-target/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 3548,
+    "date": "2020-05-20T00:20:37",
+    "date_gmt": "2020-05-20T00:20:37",
+    "guid": "/wp-content/uploads/2020/05/82390097-a0f88b80-99f2-11ea-9c36-b46e24ae3012.jpg",
+    "modified": "2020-05-20T00:20:37",
+    "modified_gmt": "2020-05-20T00:20:37",
+    "slug": "82390097-a0f88b80-99f2-11ea-9c36-b46e24ae3012",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://as-go-covid19-d-001.azurewebsites.net/82390097-a0f88b80-99f2-11ea-9c36-b46e24ae3012/",
+    "title": "82390097-a0f88b80-99f2-11ea-9c36-b46e24ae3012",
+    "author": "Peggy Gartin",
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "description": "<p class=\"attachment\"><a href='/wp-content/uploads/2020/05/82390097-a0f88b80-99f2-11ea-9c36-b46e24ae3012.jpg'><img width=\"300\" height=\"118\" src=\"/wp-content/uploads/2020/05/82390097-a0f88b80-99f2-11ea-9c36-b46e24ae3012-300x118.jpg\" class=\"attachment-medium size-medium\" alt=\"\" loading=\"lazy\" srcset=\"/wp-content/uploads/2020/05/82390097-a0f88b80-99f2-11ea-9c36-b46e24ae3012-300x118.jpg 300w, /wp-content/uploads/2020/05/82390097-a0f88b80-99f2-11ea-9c36-b46e24ae3012.jpg 603w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n",
+    "caption": "",
+    "alt_text": "",
+    "media_type": "image",
+    "mime_type": "image/jpeg",
+    "media_details": {
+      "width": 603,
+      "height": 238,
+      "file": "2020/05/82390097-a0f88b80-99f2-11ea-9c36-b46e24ae3012.jpg",
+      "sizes": {
+        "medium": {
+          "file": "82390097-a0f88b80-99f2-11ea-9c36-b46e24ae3012-300x118.jpg",
+          "width": 300,
+          "height": 118,
+          "mime_type": "image/jpeg",
+          "source_url": "/wp-content/uploads/2020/05/82390097-a0f88b80-99f2-11ea-9c36-b46e24ae3012-300x118.jpg"
+        },
+        "thumbnail": {
+          "file": "82390097-a0f88b80-99f2-11ea-9c36-b46e24ae3012-150x150.jpg",
+          "width": 150,
+          "height": 150,
+          "mime_type": "image/jpeg",
+          "source_url": "/wp-content/uploads/2020/05/82390097-a0f88b80-99f2-11ea-9c36-b46e24ae3012-150x150.jpg"
+        },
+        "full": {
+          "file": "82390097-a0f88b80-99f2-11ea-9c36-b46e24ae3012.jpg",
+          "width": 603,
+          "height": 238,
+          "mime_type": "image/jpeg",
+          "source_url": "/wp-content/uploads/2020/05/82390097-a0f88b80-99f2-11ea-9c36-b46e24ae3012.jpg"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      }
+    },
+    "post": null,
+    "source_url": "/wp-content/uploads/2020/05/82390097-a0f88b80-99f2-11ea-9c36-b46e24ae3012.jpg",
+    "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-content/uploads/2020/05/82390097-a0f88b80-99f2-11ea-9c36-b46e24ae3012.jpg",
+    "sizes": [
+      {
+        "type": "full",
+        "path": "2020/05/82390097-a0f88b80-99f2-11ea-9c36-b46e24ae3012.jpg",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-content/uploads/2020/05/82390097-a0f88b80-99f2-11ea-9c36-b46e24ae3012.jpg",
+        "file": "82390097-a0f88b80-99f2-11ea-9c36-b46e24ae3012.jpg",
+        "width": 603,
+        "height": 238,
+        "mime_type": "image/jpeg",
+        "source_url": "/wp-content/uploads/2020/05/82390097-a0f88b80-99f2-11ea-9c36-b46e24ae3012.jpg"
+      },
+      {
+        "type": "medium",
+        "path": "2020/05/82390097-a0f88b80-99f2-11ea-9c36-b46e24ae3012-300x118.jpg",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-content/uploads/2020/05/82390097-a0f88b80-99f2-11ea-9c36-b46e24ae3012-300x118.jpg",
+        "file": "82390097-a0f88b80-99f2-11ea-9c36-b46e24ae3012-300x118.jpg",
+        "width": 300,
+        "height": 118,
+        "mime_type": "image/jpeg",
+        "source_url": "/wp-content/uploads/2020/05/82390097-a0f88b80-99f2-11ea-9c36-b46e24ae3012-300x118.jpg"
+      },
+      {
+        "type": "thumbnail",
+        "path": "2020/05/82390097-a0f88b80-99f2-11ea-9c36-b46e24ae3012-150x150.jpg",
+        "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-content/uploads/2020/05/82390097-a0f88b80-99f2-11ea-9c36-b46e24ae3012-150x150.jpg",
+        "file": "82390097-a0f88b80-99f2-11ea-9c36-b46e24ae3012-150x150.jpg",
+        "width": 150,
+        "height": 150,
+        "mime_type": "image/jpeg",
+        "source_url": "/wp-content/uploads/2020/05/82390097-a0f88b80-99f2-11ea-9c36-b46e24ae3012-150x150.jpg"
+      }
+    ]
+  }
+}
