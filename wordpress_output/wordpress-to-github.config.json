@@ -30,7 +30,7 @@
           "_links"
         ],
         "tags_exclude": [
-          "staging",
+          "staging-only",
           "development"
         ]
       },
