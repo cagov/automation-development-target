@@ -1,4 +1,5 @@
 {
+  "$schema": "https://raw.githubusercontent.com/cagov/wordpress-to-github/main/wordpress-to-github/schemas/wordpress-to-github.config.schema.json",
   "meta": {
     "title": "wordpress-to-github endpoints config file",
     "description": "wordpress-to-github endpoints config file"
@@ -15,6 +16,38 @@
         "content",
         "_links"
       ]
-    }
+    },
+    "wordpress_source_url": "https://as-go-covid19-d-001.azurewebsites.net",
+    "github_targets": [
+      {
+        "outputBranch": "main",
+        "disabled": false,
+        "PostPath": "wordpress_output/posts",
+        "PagePath": "wordpress_output/pages",
+        "MediaPath": "wordpress_output/media",
+        "ExcludeProperties": [
+          "content",
+          "_links"
+        ],
+        "tags_exclude": [
+          "staging",
+          "development"
+        ]
+      },
+      {
+        "outputBranch": "staging",
+        "disabled": false,
+        "PostPath": "wordpress_output/posts",
+        "PagePath": "wordpress_output/pages",
+        "MediaPath": "wordpress_output/media",
+        "ExcludeProperties": [
+          "content",
+          "_links"
+        ],
+        "tags_exclude": [
+          "development"
+        ]
+      }
+    ]
   }
 }
