@@ -1,1 +1,45 @@
-null
+{
+  "meta": {
+    "created_date": "2021-03-31T01:57:15",
+    "updated_date": "2021-03-31T01:58:39",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://as-go-covid19-d-001.azurewebsites.net",
+      "deployment_target": "https://github.com/cagov/automation-development-target/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 10891,
+    "date": "2021-03-31T01:57:15",
+    "date_gmt": "2021-03-31T01:57:15",
+    "guid": "http://as-go-covid19-d-001.azurewebsites.net/?p=10891",
+    "modified": "2021-03-31T01:58:39",
+    "modified_gmt": "2021-03-31T01:58:39",
+    "slug": "industry-guidance-search",
+    "status": "publish",
+    "type": "post",
+    "link": "https://as-go-covid19-d-001.azurewebsites.net/2021/03/31/industry-guidance-search/",
+    "title": "Industry Guidance to reduce risk (v2)",
+    "excerpt": "<p>Every business needs to support a safe, clean, and low-risk environment. If you own or manage a business, find the guidance for your industry and follow it to protect your workers and customers.&nbsp; On this page: Find out if your business can open Protect your workers Ventilation for indoor operations Temporary structures for outdoor operations [&hellip;]</p>\n",
+    "author": "Chach Sikes",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "open",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": [],
+    "categories": [
+      "Industry guidance"
+    ],
+    "tags": [
+      "do-not-crawl",
+      "staging-only"
+    ],
+    "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2021/03/31/industry-guidance-search/"
+  }
+}
