@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2021-03-29T19:19:42",
-    "updated_date": "2021-07-23T01:31:12",
+    "updated_date": "2021-08-04T18:37:53",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
@@ -17,14 +17,14 @@
     "date": "2021-03-29T19:19:42",
     "date_gmt": "2021-03-29T19:19:42",
     "guid": "http://as-go-covid19-d-001.azurewebsites.net/?p=10787",
-    "modified": "2021-07-23T01:31:12",
-    "modified_gmt": "2021-07-23T01:31:12",
+    "modified": "2021-08-04T18:37:53",
+    "modified_gmt": "2021-08-04T18:37:53",
     "slug": "homepage-featured",
     "status": "publish",
     "type": "post",
     "link": "https://as-go-covid19-d-001.azurewebsites.net/2021/03/29/homepage-featured/",
     "title": "Homepage featured",
-    "excerpt": "<p>Safely reopening Vaccines Vaccination records Masks Travel Testing Financial help Education Workers and businesses</p>\n",
+    "excerpt": "<p>Current safety measures Vaccines Vaccination records Masks Travel Testing Financial help Education Workers and businesses</p>\n",
     "author": "Peggy Gartin",
     "featured_media": 0,
     "comment_status": "closed",
@@ -38,6 +38,7 @@
     ],
     "tags": [
       "fragment",
+      "staging-only",
       "translate"
     ],
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2021/03/29/homepage-featured/"
