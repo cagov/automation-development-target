@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "api_version": "v2",
+    "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://as-go-covid19-d-001.azurewebsites.net",
+      "deployment_target": "https://github.com/cagov/automation-development-target/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "name": "COVID-19",
+    "description": "Content site for COVID-19",
+    "url": "http://as-go-covid19-d-001.azurewebsites.net",
+    "home": "https://as-go-covid19-d-001.azurewebsites.net",
+    "gmt_offset": "0",
+    "timezone_string": "",
+    "namespaces": [
+      "oembed/1.0",
+      "wp/v2",
+      "wp-site-health/v1"
+    ]
+  }
+}
