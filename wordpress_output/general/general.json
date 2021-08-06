@@ -20,13 +20,6 @@
       "oembed/1.0",
       "wp/v2",
       "wp-site-health/v1"
-    ],
-    "_links": {
-      "help": [
-        {
-          "href": "http://v2.wp-api.org/"
-        }
-      ]
-    }
+    ]
   }
 }
