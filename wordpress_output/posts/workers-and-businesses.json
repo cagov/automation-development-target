@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2020-04-02T17:33:49",
-    "updated_date": "2021-08-09T19:31:32",
+    "updated_date": "2021-08-10T22:51:13",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
@@ -17,8 +17,8 @@
     "date": "2020-04-02T17:33:49",
     "date_gmt": "2020-04-02T17:33:49",
     "guid": "http://as-go-covid19-d-001.azurewebsites.net/?p=725",
-    "modified": "2021-08-09T19:31:32",
-    "modified_gmt": "2021-08-09T19:31:32",
+    "modified": "2021-08-10T22:51:13",
+    "modified_gmt": "2021-08-10T22:51:13",
     "slug": "workers-and-businesses",
     "status": "publish",
     "type": "post",
