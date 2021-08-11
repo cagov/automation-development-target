@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2020-12-07T20:09:53",
-    "updated_date": "2021-08-11T16:11:14",
+    "updated_date": "2021-08-11T17:03:00",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
@@ -17,8 +17,8 @@
     "date": "2020-12-07T20:09:53",
     "date_gmt": "2020-12-07T20:09:53",
     "guid": "http://as-go-covid19-d-001.azurewebsites.net/?p=7482",
-    "modified": "2021-08-11T16:11:14",
-    "modified_gmt": "2021-08-11T16:11:14",
+    "modified": "2021-08-11T17:03:00",
+    "modified_gmt": "2021-08-11T17:03:00",
     "slug": "video-section",
     "status": "publish",
     "type": "post",
@@ -37,7 +37,6 @@
       "Uncategorized"
     ],
     "tags": [
-      "staging-only",
       "table-data",
       "translate"
     ],
