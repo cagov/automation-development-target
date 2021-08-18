@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2020-04-15T16:23:16",
-    "updated_date": "2021-08-18T20:32:54",
+    "updated_date": "2021-08-18T20:38:09",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
@@ -17,8 +17,8 @@
     "date": "2020-04-15T16:23:16",
     "date_gmt": "2020-04-15T16:23:16",
     "guid": "http://as-go-covid19-d-001.azurewebsites.net/?p=1392",
-    "modified": "2021-08-18T20:32:54",
-    "modified_gmt": "2021-08-18T20:32:54",
+    "modified": "2021-08-18T20:38:09",
+    "modified_gmt": "2021-08-18T20:38:09",
     "slug": "new",
     "status": "publish",
     "type": "post",
@@ -38,7 +38,6 @@
     ],
     "tags": [
       "fragment",
-      "staging-only",
       "translate"
     ],
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/15/new/"
