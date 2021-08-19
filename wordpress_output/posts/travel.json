@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2020-12-21T18:26:53",
-    "updated_date": "2021-08-19T22:16:13",
+    "updated_date": "2021-08-19T22:29:15",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
@@ -17,8 +17,8 @@
     "date": "2020-12-21T18:26:53",
     "date_gmt": "2020-12-21T18:26:53",
     "guid": "http://as-go-covid19-d-001.azurewebsites.net/?p=7858",
-    "modified": "2021-08-19T22:16:13",
-    "modified_gmt": "2021-08-19T22:16:13",
+    "modified": "2021-08-19T22:29:15",
+    "modified_gmt": "2021-08-19T22:29:15",
     "slug": "travel",
     "status": "publish",
     "type": "post",
@@ -37,6 +37,7 @@
       "travel"
     ],
     "tags": [
+      "staging-only",
       "translate"
     ],
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/12/21/travel/"
