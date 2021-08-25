@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2020-10-14T21:32:53",
-    "updated_date": "2021-08-25T17:22:18",
+    "updated_date": "2021-08-25T22:42:40",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
@@ -17,8 +17,8 @@
     "date": "2020-10-14T21:32:53",
     "date_gmt": "2020-10-14T21:32:53",
     "guid": "http://as-go-covid19-d-001.azurewebsites.net/?p=6363",
-    "modified": "2021-08-25T17:22:18",
-    "modified_gmt": "2021-08-25T17:22:18",
+    "modified": "2021-08-25T22:42:40",
+    "modified_gmt": "2021-08-25T22:42:40",
     "slug": "equity",
     "status": "publish",
     "type": "post",
@@ -37,6 +37,7 @@
       "health equity"
     ],
     "tags": [
+      "staging-only",
       "translate"
     ],
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/10/14/equity/"
