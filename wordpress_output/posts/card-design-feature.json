@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "created_date": "2021-08-25T18:03:24",
+    "updated_date": "2021-08-25T18:03:24",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://as-go-covid19-d-001.azurewebsites.net",
+      "deployment_target": "https://github.com/cagov/automation-development-target/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 14124,
+    "date": "2021-08-25T18:03:24",
+    "date_gmt": "2021-08-25T18:03:24",
+    "guid": "https://as-go-covid19-d-001.azurewebsites.net/?p=14124",
+    "modified": "2021-08-25T18:03:24",
+    "modified_gmt": "2021-08-25T18:03:24",
+    "slug": "card-design-feature",
+    "status": "publish",
+    "type": "post",
+    "link": "https://as-go-covid19-d-001.azurewebsites.net/2021/08/25/card-design-feature/",
+    "title": "Card design feature",
+    "excerpt": "<p>Current safety measures Reduce the risk of infection. Do what it takes to stay safe until COVID-19 is under control. Vaccinations If you’re 12 or older, get vaccinated. It’s our best tool to end the pandemic. Vaccination is safe, effective, and free. Masks Wearing a mask can keep you from spreading the virus to those [&hellip;]</p>\n",
+    "author": "Peggy Gartin",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "open",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": [],
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [
+      "staging-only"
+    ],
+    "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2021/08/25/card-design-feature/"
+  }
+}
