@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2021-08-25T18:03:24",
-    "updated_date": "2021-08-25T21:07:40",
+    "updated_date": "2021-08-25T21:44:01",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
@@ -17,8 +17,8 @@
     "date": "2021-08-25T18:03:24",
     "date_gmt": "2021-08-25T18:03:24",
     "guid": "https://as-go-covid19-d-001.azurewebsites.net/?p=14124",
-    "modified": "2021-08-25T21:07:40",
-    "modified_gmt": "2021-08-25T21:07:40",
+    "modified": "2021-08-25T21:44:01",
+    "modified_gmt": "2021-08-25T21:44:01",
     "slug": "card-design-feature",
     "status": "publish",
     "type": "post",
