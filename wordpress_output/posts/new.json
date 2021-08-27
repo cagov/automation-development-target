@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2020-04-15T16:23:16",
-    "updated_date": "2021-08-24T00:22:00",
+    "updated_date": "2021-08-27T23:03:15",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
@@ -17,14 +17,14 @@
     "date": "2020-04-15T16:23:16",
     "date_gmt": "2020-04-15T16:23:16",
     "guid": "http://as-go-covid19-d-001.azurewebsites.net/?p=1392",
-    "modified": "2021-08-24T00:22:00",
-    "modified_gmt": "2021-08-24T00:22:00",
+    "modified": "2021-08-27T23:03:15",
+    "modified_gmt": "2021-08-27T23:03:15",
     "slug": "new",
     "status": "publish",
     "type": "post",
     "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/15/new/",
     "title": "new",
-    "excerpt": "<p>Need a COVID-19 test? There are more options than ever COVID-19 testing can now fit your schedule. Book a free test appointment, find a walk-in test clinic, or buy a self-test kit from your local drugstore. See your options</p>\n",
+    "excerpt": "<p>Let your phone tell you if you’ve been exposed Turn on “Exposure notifications” in your Apple or Android phone. Then CA Notify can tell you if you’ve been near someone who may have exposed you to COVID-19. It’s anonymous and free. Read more about CA Notify</p>\n",
     "author": "Peggy Gartin",
     "featured_media": 0,
     "comment_status": "closed",
@@ -38,6 +38,7 @@
     ],
     "tags": [
       "fragment",
+      "staging-only",
       "translate"
     ],
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/15/new/"
