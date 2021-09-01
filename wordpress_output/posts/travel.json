@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2020-12-21T18:26:53",
-    "updated_date": "2021-08-19T22:33:20",
+    "updated_date": "2021-09-01T23:53:33",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
@@ -17,14 +17,14 @@
     "date": "2020-12-21T18:26:53",
     "date_gmt": "2020-12-21T18:26:53",
     "guid": "http://as-go-covid19-d-001.azurewebsites.net/?p=7858",
-    "modified": "2021-08-19T22:33:20",
-    "modified_gmt": "2021-08-19T22:33:20",
+    "modified": "2021-09-01T23:53:33",
+    "modified_gmt": "2021-09-01T23:53:33",
     "slug": "travel",
     "status": "publish",
     "type": "post",
     "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/12/21/travel/",
     "title": "Travel",
-    "excerpt": "<p>Travel increases your risk of getting COVID-19 and infecting others. For this reason, the California Department of Public Health asks that you limit your travel during the pandemic. Read this page for further details.</p>\n",
+    "excerpt": "<p>California has no travel restrictions or requirements at this time. Whether your travel is domestic or international, follow CDC travel guidelines for testing, masking, and quarantine.</p>\n",
     "author": "Peggy Gartin",
     "featured_media": 0,
     "comment_status": "closed",
@@ -37,6 +37,7 @@
       "travel"
     ],
     "tags": [
+      "staging-only",
       "translate"
     ],
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/12/21/travel/"
