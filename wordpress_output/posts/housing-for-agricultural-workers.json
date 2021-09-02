@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2020-07-23T22:39:39",
-    "updated_date": "2021-09-02T17:41:18",
+    "updated_date": "2021-09-02T17:52:01",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
@@ -17,8 +17,8 @@
     "date": "2020-07-23T22:39:39",
     "date_gmt": "2020-07-23T22:39:39",
     "guid": "http://as-go-covid19-d-001.azurewebsites.net/?p=4992",
-    "modified": "2021-09-02T17:41:18",
-    "modified_gmt": "2021-09-02T17:41:18",
+    "modified": "2021-09-02T17:52:01",
+    "modified_gmt": "2021-09-02T17:52:01",
     "slug": "housing-for-agricultural-workers",
     "status": "publish",
     "type": "post",
@@ -37,7 +37,6 @@
       "housing for agricultural workers"
     ],
     "tags": [
-      "staging-only",
       "translate"
     ],
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/07/23/housing-for-agricultural-workers/"
