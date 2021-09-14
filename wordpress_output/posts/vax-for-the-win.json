@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2021-05-23T17:03:11",
-    "updated_date": "2021-08-09T22:15:41",
+    "updated_date": "2021-09-14T16:54:01",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
@@ -17,14 +17,14 @@
     "date": "2021-05-23T17:03:11",
     "date_gmt": "2021-05-23T17:03:11",
     "guid": "https://as-go-covid19-d-001.azurewebsites.net/?p=12592",
-    "modified": "2021-08-09T22:15:41",
-    "modified_gmt": "2021-08-09T22:15:41",
+    "modified": "2021-09-14T16:54:01",
+    "modified_gmt": "2021-09-14T16:54:01",
     "slug": "vax-for-the-win",
     "status": "publish",
     "type": "post",
     "link": "https://as-go-covid19-d-001.azurewebsites.net/2021/05/23/vax-for-the-win/",
     "title": "Vax for the Win",
-    "excerpt": "<p>Vax for the Win California’s vaccine incentive program Get vaccinated, get rewarded Did you get vaccinated between May 27 and July 18? You are still eligible to collect your $50 incentive card! Free tickets to Six Flags are also available at select locations. Don’t wait any longer! $50 cards Tickets to Six Flags $50 cards [&hellip;]</p>\n",
+    "excerpt": "<p>Vax for the Win California’s vaccine incentive program Get vaccinated, get rewarded Did you get vaccinated between May 27 and July 18? You are still eligible to collect your $50 incentive card! Free tickets to Six Flags are also available at select locations. Don’t wait any longer! Trouble getting or redeeming your code? Call 1-833-993-3873. [&hellip;]</p>\n",
     "author": "Peggy Gartin",
     "featured_media": 0,
     "comment_status": "closed",
@@ -37,6 +37,7 @@
       "Vax for the Win"
     ],
     "tags": [
+      "staging-only",
       "translate"
     ],
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2021/05/23/vax-for-the-win/"
