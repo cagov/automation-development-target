@@ -5,7 +5,6 @@
 <ul class="toc"><li><strong><a href="#todays-update">Today’s update</a></strong></li><li><a href="#postvax-status"><strong>Unvaccinated and vaccinated cases</strong></a></li><li><strong><a href="#county-statewide">County and statewide data</a></strong></li><li><strong><a href="#ethnicity-gender-age">Cases and deaths by ethnicity, gender, and age</a></strong></li><li><strong><a href="#more">More data and tools</a></strong></li></ul>
 
 <!--
-
 {# {%-set data = tableauCovidMetrics[0] -%}  #}
 {%-set data2 = dailyStatsV2.data -%}
 {%-set datavax = vaccineSparkData.data -%}
@@ -68,7 +67,6 @@ data2.icu.ICU_SUSPECTED_COVID_PATIENTS_DAILY) | formatNumber(tags)-%}
 {%-set _varDosesDailyAverage_ = datavax.time_series.VACCINE_DOSES.DOSES_DAILY_AVERAGE | formatNumber(tags,0)-%}
 
 -->
-
 
 <style>
   <!-- {% include "../../docs/img/generated/sparkline.css" %} -->
