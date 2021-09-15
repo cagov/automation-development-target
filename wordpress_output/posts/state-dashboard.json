@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2021-08-25T18:27:52",
-    "updated_date": "2021-09-15T16:39:48",
+    "updated_date": "2021-09-15T19:11:20",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
@@ -17,8 +17,8 @@
     "date": "2021-08-25T18:27:52",
     "date_gmt": "2021-08-25T18:27:52",
     "guid": "https://as-go-covid19-d-001.azurewebsites.net/?p=14128",
-    "modified": "2021-09-15T16:39:48",
-    "modified_gmt": "2021-09-15T16:39:48",
+    "modified": "2021-09-15T19:11:20",
+    "modified_gmt": "2021-09-15T19:11:20",
     "slug": "state-dashboard",
     "status": "publish",
     "type": "post",
