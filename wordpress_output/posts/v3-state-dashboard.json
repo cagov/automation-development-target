@@ -1,7 +1,7 @@
 {
   "meta": {
-    "created_date": "2021-08-25T18:27:52",
-    "updated_date": "2021-09-15T02:24:21",
+    "created_date": "2021-04-05T16:30:05",
+    "updated_date": "2021-09-15T16:39:34",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
@@ -13,19 +13,19 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 14128,
-    "date": "2021-08-25T18:27:52",
-    "date_gmt": "2021-08-25T18:27:52",
-    "guid": "https://as-go-covid19-d-001.azurewebsites.net/?p=14128",
-    "modified": "2021-09-15T02:24:21",
-    "modified_gmt": "2021-09-15T02:24:21",
-    "slug": "v5-state-dashboard",
+    "id": 11040,
+    "date": "2021-04-05T16:30:05",
+    "date_gmt": "2021-04-05T16:30:05",
+    "guid": "http://as-go-covid19-d-001.azurewebsites.net/?p=11040",
+    "modified": "2021-09-15T16:39:34",
+    "modified_gmt": "2021-09-15T16:39:34",
+    "slug": "v3-state-dashboard",
     "status": "publish",
     "type": "post",
-    "link": "https://as-go-covid19-d-001.azurewebsites.net/2021/08/25/v5-state-dashboard/",
-    "title": "Tracking COVID-19 in California (V5 sparklines)",
+    "link": "https://as-go-covid19-d-001.azurewebsites.net/2021/04/05/v3-state-dashboard/",
+    "title": "Tracking COVID-19 in California (V3)",
     "excerpt": "<p>California is tracking county and statewide data to understand the spread of COVID-19.</p>\n",
-    "author": "James Bumgardner",
+    "author": "Michael Sullivan",
     "featured_media": 0,
     "comment_status": "closed",
     "ping_status": "open",
@@ -40,6 +40,6 @@
       "do-not-crawl",
       "translate"
     ],
-    "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2021/08/25/v5-state-dashboard/"
+    "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2021/04/05/v3-state-dashboard/"
   }
 }
