@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2020-03-13T21:09:39",
-    "updated_date": "2021-09-04T00:01:46",
+    "updated_date": "2021-09-15T01:28:14",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
@@ -17,8 +17,8 @@
     "date": "2020-03-13T21:09:39",
     "date_gmt": "2020-03-13T21:09:39",
     "guid": "http://as-go-covid19-d-001.azurewebsites.net/?p=36",
-    "modified": "2021-09-04T00:01:46",
-    "modified_gmt": "2021-09-04T00:01:46",
+    "modified": "2021-09-15T01:28:14",
+    "modified_gmt": "2021-09-15T01:28:14",
     "slug": "education",
     "status": "publish",
     "type": "post",
@@ -37,7 +37,7 @@
       "education"
     ],
     "tags": [
-      "staging-only"
+      "translate"
     ],
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/03/13/education/"
   }
