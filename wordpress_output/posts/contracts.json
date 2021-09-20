@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2020-05-15T02:25:43",
-    "updated_date": "2021-09-03T17:27:08",
+    "updated_date": "2021-09-20T18:57:55",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
@@ -17,8 +17,8 @@
     "date": "2020-05-15T02:25:43",
     "date_gmt": "2020-05-15T02:25:43",
     "guid": "http://as-go-covid19-d-001.azurewebsites.net/?p=3305",
-    "modified": "2021-09-03T17:27:08",
-    "modified_gmt": "2021-09-03T17:27:08",
+    "modified": "2021-09-20T18:57:55",
+    "modified_gmt": "2021-09-20T18:57:55",
     "slug": "contracts",
     "status": "publish",
     "type": "post",
@@ -37,7 +37,7 @@
       "contracts"
     ],
     "tags": [
-      "translate"
+      "staging-only"
     ],
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/05/15/contracts/"
   }
