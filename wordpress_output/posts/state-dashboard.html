@@ -2,7 +2,7 @@
 
 <p>On this page you’ll find:</p>
 
-<ul class="toc"><li><strong><a href="#todays-update">Today’s update</a></strong></li><li><a href="#postvax-status"><strong>Unvaccinated and vaccinated cases</strong></a></li><li><strong><a href="#county-statewide">County and statewide data</a></strong></li><li><strong><a href="#ethnicity-gender-age">Cases and deaths by ethnicity, gender, and age</a></strong></li><li><strong><a href="#more">More data and tools</a></strong></li></ul>
+<ul class="toc"><li><strong><a href="#todays-update">Today’s update</a></strong></li><li><a href="#postvax-status"><strong>Unvaccinated and vaccinated data</strong></a></li><li><strong><a href="#county-statewide">County and statewide data</a></strong></li><li><strong><a href="#ethnicity-gender-age">Cases and deaths by ethnicity, gender, and age</a></strong></li><li><strong><a href="#more">More data and tools</a></strong></li></ul>
 
 <!--
 {# {%-set data = tableauCovidMetrics[0] -%}  #}
@@ -194,21 +194,22 @@ data2.icu.ICU_SUSPECTED_COVID_PATIENTS_DAILY) | formatNumber(tags)-%}
 
 <hr class="wp-block-separator noborder mt-0" id="postvax-status"/>
 
-<h2 class="text-center color-purple">Unvaccinated and vaccinated cases</h2>
+<h2 class="text-center color-purple">Unvaccinated and vaccinated data</h2>
 
 <div id="postvax-chart-intro">Vaccines prevent serious illness, save lives, and reduce further spread of COVID-19. As more people are vaccinated, the virus is less likely to spread, mutate, and potentially become even more dangerous. Vaccines will help put an end to the pandemic.
 <!--  From {POSTVAX_START_DATE} to {POSTVAX_END_DATE} there were {POSTVAX_UNVAX_RATIO} cases among unvaccinated people for every 1 case among vaccinated people. This shows that vaccination is the best way to protect yourself and your loved ones. The more fully vaccinated Californians there are, the less COVID-19 can spread in our communities. -->
 </div>
 
-<!-- omitting tabs for now...
 <div class="d-flex flex-column flex-md-row justify-content-center my-3">
     <div class="large-tabs">
       <button class="large-tab toggle-active js-toggle-group-postvax cases">Cases</button>
+<!-- omitting hospitalizations tab for now...
       <button class="large-tab js-toggle-group-postvax hospitalizations">Hospitalizations</button>
+-->
       <button class="large-tab js-toggle-group-postvax deaths">Deaths</button>
     </div>
   </div>
--->
+
 
 <cagov-chart-dashboard-postvax-chart class="chart" id="postvax-cases-chart" data-chart-config-filter="weeks" data-chart-config-key="cases">
   <ul class="d-none">
@@ -251,7 +252,7 @@ data2.icu.ICU_SUSPECTED_COVID_PATIENTS_DAILY) | formatNumber(tags)-%}
 <cagov-chart-dashboard-postvax-chart class="chart" id="postvax-deaths-chart" data-chart-config-filter="weeks" data-chart-config-key="deaths" style="display:none;">
   <ul class="d-none">
     <li data-label="chartTitleState">COVID-19 deaths over the last four months</li>
-    <li data-label="chartImpactStatement">Deaths statement: From {BEGIN_IMPACT_DATE} to {END_IMPACT_DATE}, unvaccinated people were <strong>{RATE_RATIO} times more likely</strong> to die from COVID-19 than fully vaccinated people.</li>
+    <li data-label="chartImpactStatement">From {BEGIN_IMPACT_DATE} to {END_IMPACT_DATE}, unvaccinated people were <strong>{RATE_RATIO} times more likely</strong> to die from COVID-19 than fully vaccinated people.</li>
     <li data-label="yaxis_legend">Weekly deaths per million</li>
     <li data-label="yaxis_legend_daily">Deaths per million (7-day running average)</li>
     <li data-label="xaxis_legend"></li>
