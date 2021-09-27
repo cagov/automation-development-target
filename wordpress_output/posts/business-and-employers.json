@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "created_date": "2021-09-27T16:20:55",
+    "updated_date": "2021-09-27T16:20:55",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://as-go-covid19-d-001.azurewebsites.net",
+      "deployment_target": "https://github.com/cagov/automation-development-target/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 14431,
+    "date": "2021-09-27T16:20:55",
+    "date_gmt": "2021-09-27T16:20:55",
+    "guid": "https://as-go-covid19-d-001.azurewebsites.net/?p=14431",
+    "modified": "2021-09-27T16:20:55",
+    "modified_gmt": "2021-09-27T16:20:55",
+    "slug": "business-and-employers",
+    "status": "publish",
+    "type": "post",
+    "link": "https://as-go-covid19-d-001.azurewebsites.net/2021/09/27/business-and-employers/",
+    "title": "Financial help for businesses",
+    "excerpt": "<p>Business owners who have been financially affected by COVID-19 can: Prevent layoffs and bring back furloughed or laid-off workers at reduced hours through the Work Sharing Program Workers can keep their job and get partial unemployment benefits to supplement reduced work hours. This helps you avoid hiring and training expenses.&nbsp;&nbsp; Get relief and extensions for [&hellip;]</p>\n",
+    "author": "Elisabeth Nobriga",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "open",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": [],
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [
+      "staging-only"
+    ],
+    "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2021/09/27/business-and-employers/"
+  }
+}
