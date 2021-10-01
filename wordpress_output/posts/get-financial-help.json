@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2020-03-25T20:19:47",
-    "updated_date": "2021-09-30T22:07:53",
+    "updated_date": "2021-10-01T19:31:55",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
@@ -17,8 +17,8 @@
     "date": "2020-03-25T20:19:47",
     "date_gmt": "2020-03-25T20:19:47",
     "guid": "http://as-go-covid19-d-001.azurewebsites.net/?p=606",
-    "modified": "2021-09-30T22:07:53",
-    "modified_gmt": "2021-09-30T22:07:53",
+    "modified": "2021-10-01T19:31:55",
+    "modified_gmt": "2021-10-01T19:31:55",
     "slug": "get-financial-help",
     "status": "publish",
     "type": "post",
@@ -37,7 +37,7 @@
       "get financial help"
     ],
     "tags": [
-      "staging-only"
+      "translate"
     ],
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/03/25/get-financial-help/"
   }
