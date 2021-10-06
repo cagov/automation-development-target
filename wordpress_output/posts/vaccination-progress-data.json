@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2021-04-08T20:51:30",
-    "updated_date": "2021-10-05T16:07:41",
+    "updated_date": "2021-10-06T15:41:55",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
@@ -17,14 +17,14 @@
     "date": "2021-04-08T20:51:30",
     "date_gmt": "2021-04-08T20:51:30",
     "guid": "http://as-go-covid19-d-001.azurewebsites.net/?p=11214",
-    "modified": "2021-10-05T16:07:41",
-    "modified_gmt": "2021-10-05T16:07:41",
+    "modified": "2021-10-06T15:41:55",
+    "modified_gmt": "2021-10-06T15:41:55",
     "slug": "vaccination-progress-data",
     "status": "publish",
     "type": "post",
     "link": "https://as-go-covid19-d-001.azurewebsites.net/2021/04/08/vaccination-progress-data/",
     "title": "Vaccination progress data",
-    "excerpt": "<p>We&#8217;re tracking data on California&#8217;s efforts to vaccinate people across the state.</p>\n",
+    "excerpt": "<p>Data on California&#8217;s efforts to vaccinate people across the state.</p>\n",
     "author": "Michael Sullivan",
     "featured_media": 0,
     "comment_status": "closed",
@@ -37,6 +37,7 @@
       "vaccines"
     ],
     "tags": [
+      "staging-only",
       "translate"
     ],
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2021/04/08/vaccination-progress-data/"
