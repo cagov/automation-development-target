@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2021-10-13T19:53:52",
-    "updated_date": "2021-10-13T19:54:27",
+    "updated_date": "2021-10-13T19:57:19",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
@@ -17,14 +17,14 @@
     "date": "2021-10-13T19:53:52",
     "date_gmt": "2021-10-13T19:53:52",
     "guid": "https://as-go-covid19-d-001.azurewebsites.net/?p=14618",
-    "modified": "2021-10-13T19:54:27",
-    "modified_gmt": "2021-10-13T19:54:27",
+    "modified": "2021-10-13T19:57:19",
+    "modified_gmt": "2021-10-13T19:57:19",
     "slug": "sandbox",
     "status": "publish",
     "type": "post",
     "link": "https://as-go-covid19-d-001.azurewebsites.net/2021/10/13/sandbox/",
     "title": "sandbox",
-    "excerpt": "<p>test sandbox page</p>\n",
+    "excerpt": "<p>California is tracking data to understand the spread of COVID-19. On this page you’ll find: Today’s update Unvaccinated and vaccinated data County and statewide data Cases and deaths by ethnicity, gender, and age Explore more data Update for {{_varStatDate_}} To date, California has confirmed a total of {{_varStatTotalCases_}} COVID-19 casesand {{_varStatTotalDeaths_}} deaths. &nbsp; Vaccines Administered [&hellip;]</p>\n",
     "author": "James Bumgardner",
     "featured_media": 0,
     "comment_status": "closed",
@@ -37,7 +37,8 @@
       "Uncategorized"
     ],
     "tags": [
-      "do-not-crawl"
+      "do-not-crawl",
+      "staging-only"
     ],
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2021/10/13/sandbox/"
   }
