@@ -9,7 +9,7 @@
     "github_targets": [
       {
         "outputBranch": "main",
-        "disabled": false,
+        "disabled": true,
         "PostPath": "wordpress_output/posts",
         "PagePath": "wordpress_output/pages",
         "MediaPath": "wordpress_output/media",
@@ -25,7 +25,7 @@
       },
       {
         "outputBranch": "staging",
-        "disabled": false,
+        "disabled": true,
         "PostPath": "wordpress_output/posts",
         "PagePath": "wordpress_output/pages",
         "MediaPath": "wordpress_output/media",
