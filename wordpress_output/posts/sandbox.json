@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "created_date": "2021-10-13T19:53:52",
+    "updated_date": "2021-10-13T19:53:52",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
+    "api_version": "v2",
+    "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
+    "process": {
+      "source_code": "https://github.com/cagov/wordpress-to-github",
+      "source_data": "https://as-go-covid19-d-001.azurewebsites.net",
+      "deployment_target": "https://github.com/cagov/automation-development-target/tree/main"
+    },
+    "refresh_frequency": "as needed"
+  },
+  "data": {
+    "id": 14618,
+    "date": "2021-10-13T19:53:52",
+    "date_gmt": "2021-10-13T19:53:52",
+    "guid": "https://as-go-covid19-d-001.azurewebsites.net/?p=14618",
+    "modified": "2021-10-13T19:53:52",
+    "modified_gmt": "2021-10-13T19:53:52",
+    "slug": "sandbox",
+    "status": "publish",
+    "type": "post",
+    "link": "https://as-go-covid19-d-001.azurewebsites.net/2021/10/13/sandbox/",
+    "title": "sandbox",
+    "excerpt": "<p>test sandbox page</p>\n",
+    "author": "James Bumgardner",
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "open",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": [],
+    "categories": [
+      "Uncategorized"
+    ],
+    "tags": [],
+    "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2021/10/13/sandbox/"
+  }
+}
