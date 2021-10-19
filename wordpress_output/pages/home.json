@@ -10,7 +10,7 @@
       "source_data": "https://as-go-covid19-d-001.azurewebsites.net",
       "deployment_target": "https://github.com/cagov/automation-development-target/tree/main"
     },
-    "refresh_frequency": "as needed"
+    "refresh_frequency": "as needed change 2"
   },
   "data": {
     "id": 8932,
