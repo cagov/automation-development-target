@@ -22,21 +22,6 @@
           "staging-only",
           "development"
         ]
-      },
-      {
-        "outputBranch": "staging",
-        "disabled": false,
-        "PostPath": "wordpress_output/posts",
-        "PagePath": "wordpress_output/pages",
-        "MediaPath": "wordpress_output/media",
-        "GeneralFilePath": "wordpress_output/general/general.json",
-        "ExcludeProperties": [
-          "content",
-          "_links"
-        ],
-        "tags_exclude": [
-          "development"
-        ]
       }
     ]
   }
