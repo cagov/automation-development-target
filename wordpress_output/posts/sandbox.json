@@ -1,14 +1,14 @@
 {
   "meta": {
     "created_date": "2021-10-13T19:53:52",
-    "updated_date": "2021-10-13T21:57:14",
+    "updated_date": "2021-10-19T21:18:12",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://as-go-covid19-d-001.azurewebsites.net",
-      "deployment_target": "https://github.com/cagov/automation-development-target/tree/main"
+      "deployment_target": "https://github.com/cagov/automation-development-target/tree/staging"
     },
     "refresh_frequency": "as needed"
   },
@@ -17,8 +17,8 @@
     "date": "2021-10-13T19:53:52",
     "date_gmt": "2021-10-13T19:53:52",
     "guid": "https://as-go-covid19-d-001.azurewebsites.net/?p=14618",
-    "modified": "2021-10-13T21:57:14",
-    "modified_gmt": "2021-10-13T21:57:14",
+    "modified": "2021-10-19T21:18:12",
+    "modified_gmt": "2021-10-19T21:18:12",
     "slug": "sandbox",
     "status": "publish",
     "type": "post",

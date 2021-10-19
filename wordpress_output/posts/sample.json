@@ -1,7 +1,7 @@
 {
   "meta": {
-    "created_date": "2020-06-25T01:42:13",
-    "updated_date": "2021-10-13T22:57:30",
+    "created_date": "2020-11-12T22:39:44",
+    "updated_date": "2021-05-24T21:59:41",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
@@ -13,19 +13,19 @@
     "refresh_frequency": "as needed"
   },
   "data": {
-    "id": 4397,
-    "date": "2020-06-25T01:42:13",
-    "date_gmt": "2020-06-25T01:42:13",
-    "guid": "http://as-go-covid19-d-001.azurewebsites.net/?p=4397",
-    "modified": "2021-10-13T22:57:30",
-    "modified_gmt": "2021-10-13T22:57:30",
-    "slug": "data-and-tools",
+    "id": 6854,
+    "date": "2020-11-12T22:39:44",
+    "date_gmt": "2020-11-12T22:39:44",
+    "guid": "http://as-go-covid19-d-001.azurewebsites.net/?p=6854",
+    "modified": "2021-05-24T21:59:41",
+    "modified_gmt": "2021-05-24T21:59:41",
+    "slug": "sample",
     "status": "publish",
     "type": "post",
-    "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/06/25/data-and-tools/",
-    "title": "Data and tools",
-    "excerpt": "<p>California has collected a wide range of data to inform its response to COVID-19.</p>\n",
-    "author": "Michael Sullivan",
+    "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/11/12/sample/",
+    "title": "Examples",
+    "excerpt": "<p>Test Page</p>\n",
+    "author": "Konstantin Koryaka",
     "featured_media": 0,
     "comment_status": "closed",
     "ping_status": "open",
@@ -34,11 +34,12 @@
     "format": "standard",
     "meta": [],
     "categories": [
-      "data and tools"
+      "Uncategorized"
     ],
     "tags": [
-      "translate"
+      "do-not-crawl",
+      "staging-only"
     ],
-    "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/06/25/data-and-tools/"
+    "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/11/12/sample/"
   }
 }
