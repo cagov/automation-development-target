@@ -13,7 +13,6 @@
     "ExcludeProperties": ["content", "_links"],
     "github_targets": [
       {
-        "outputBranch": "main",
         "disabled": false,
         "PostPath": "wordpress_output/posts",
         "PagePath": "wordpress_output/pages",
