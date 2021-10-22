@@ -6,7 +6,7 @@
   },
   "data": {
     "disabled": false,
-    "PostPath": "wordpress_output/posts",
+    "PostPath": "wordpress_output/posts2",
     "PagePath": "wordpress_output/pages",
     "MediaPath": "wordpress_output/media",
     "GeneralFilePath": "wordpress_output/general/general.json",
