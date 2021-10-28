@@ -6,10 +6,10 @@
   },
   "data": {
     "disabled": false,
-    "PostPath": "jon_test/posts",
-    "PagePath": "jon_test/pages",
-    "MediaPath": "jon_test/media",
-    "GeneralFilePath": "jon_test/general/general.json",
+    "PostPath": "menu_test/posts",
+    "PagePath": "menu_test/pages",
+    "MediaPath": "menu_test/media",
+    "GeneralFilePath": "menu_test/general/general.json",
     "ExcludeProperties": ["content", "_links"]
   }
 }
