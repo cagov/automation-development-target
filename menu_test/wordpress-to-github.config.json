@@ -9,6 +9,8 @@
     "PostPath": "menu_test/posts",
     "PagePath": "menu_test/pages",
     "MediaPath": "menu_test/media",
+    "MenuPath": "menu_test/menus",
+    "MenuSlugs": ["header-menu"],
     "GeneralFilePath": "menu_test/general/general.json",
     "ExcludeProperties": ["content", "_links"]
   }
