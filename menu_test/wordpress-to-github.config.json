@@ -9,7 +9,7 @@
     "PostPath": "menu_test/posts",
     "PagePath": "menu_test/pages",
     "MediaPath": "menu_test/media",
-    "Requests": [
+    "ApiRequests": [
       {
         "Destination": "menu_test/menus/header-menu.json",
         "Source": "/wp-json/menus/v1/menus/header-menu"
