@@ -13,6 +13,10 @@
       {
         "Destination": "menu_test/menus/header-menu.json",
         "Source": "/wp-json/menus/v1/menus/header-menu"
+      },
+      {
+        "Destination": "menu_test/menus/content-menu.json",
+        "Source": "/wp-json/menus/v1/menus/content-menu"
       }
     ],
     "GeneralFilePath": "menu_test/general/general.json",
