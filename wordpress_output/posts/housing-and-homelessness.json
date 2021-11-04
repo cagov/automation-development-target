@@ -1,11 +1,10 @@
 {
   "meta": {
     "created_date": "2021-09-30T19:20:48",
-    "updated_date": "2021-10-01T19:07:59",
+    "updated_date": "2021-11-03T17:42:24",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
-    "object_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/posts/14487",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://as-go-covid19-d-001.azurewebsites.net",
@@ -18,8 +17,8 @@
     "date": "2021-09-30T19:20:48",
     "date_gmt": "2021-09-30T19:20:48",
     "guid": "https://as-go-covid19-d-001.azurewebsites.net/?p=14487",
-    "modified": "2021-10-01T19:07:59",
-    "modified_gmt": "2021-10-01T19:07:59",
+    "modified": "2021-11-03T17:42:24",
+    "modified_gmt": "2021-11-03T17:42:24",
     "slug": "housing-and-homelessness",
     "status": "publish",
     "type": "post",
@@ -38,7 +37,7 @@
       "Uncategorized"
     ],
     "tags": [
-      "translate"
+      "staging-only"
     ],
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2021/09/30/housing-and-homelessness/"
   }

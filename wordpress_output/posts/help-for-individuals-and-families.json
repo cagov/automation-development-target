@@ -1,11 +1,10 @@
 {
   "meta": {
     "created_date": "2021-09-30T23:26:25",
-    "updated_date": "2021-10-22T16:46:59",
+    "updated_date": "2021-11-04T00:53:38",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
-    "object_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/posts/14496",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://as-go-covid19-d-001.azurewebsites.net",
@@ -18,8 +17,8 @@
     "date": "2021-09-30T23:26:25",
     "date_gmt": "2021-09-30T23:26:25",
     "guid": "https://as-go-covid19-d-001.azurewebsites.net/?p=14496",
-    "modified": "2021-10-22T16:46:59",
-    "modified_gmt": "2021-10-22T16:46:59",
+    "modified": "2021-11-04T00:53:38",
+    "modified_gmt": "2021-11-04T00:53:38",
     "slug": "help-for-individuals-and-families",
     "status": "publish",
     "type": "post",
