@@ -15,6 +15,11 @@
         "Destination": "wordpress_output/categories/categories.json",
         "Source": "/wp-json/wp/v2/categories",
         "ExcludeProperties": ["description"]
+      },
+      {
+        "Destination": "wordpress_output/categories/tags.json",
+        "Source": "/wp-json/wp/v2/tags",
+        "ExcludeProperties": ["description"]
       }
     ],
     "ExcludeProperties": ["content", "_links"]
