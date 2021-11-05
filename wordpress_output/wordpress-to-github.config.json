@@ -20,6 +20,11 @@
         "Destination": "wordpress_output/categories/tags.json",
         "Source": "/wp-json/wp/v2/tags",
         "ExcludeProperties": ["description"]
+      },
+      {
+        "Destination": "categoriesAtRoot.json",
+        "Source": "/wp-json/wp/v2/categories",
+        "ExcludeProperties": ["description"]
       }
     ],
     "ExcludeProperties": ["content", "_links"]
