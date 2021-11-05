@@ -13,7 +13,7 @@
     "ApiRequests": [
       {
         "Destination": "wordpress_output/categories/categories.json",
-        "Source": "/xxxX",
+        "Source": "/wp-json/wp/v2/categories",
         "ExcludeProperties": ["description"]
       }
     ],
