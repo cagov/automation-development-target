@@ -10,6 +10,13 @@
     "PagePath": "wordpress_output/pages",
     "MediaPath": "wordpress_output/media",
     "GeneralFilePath": "wordpress_output/general/general.json",
+    "ApiRequests": [
+      {
+        "Destination": "wordpress_output/categories/categories.json",
+        "Source": "/wp-json/wp/v2/categories",
+        "ExcludeProperties": ["description"]
+      }
+    ],
     "ExcludeProperties": ["content", "_links"]
   }
 }
