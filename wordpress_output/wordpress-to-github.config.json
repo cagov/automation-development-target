@@ -12,17 +12,17 @@
     "GeneralFilePath": "wordpress_output/general/general.json",
     "ApiRequests": [
       {
-        "Destination": "wordpress_output/categories/categories.json",
+        "Destination": "wordpress_output/categories/categories2.json",
         "Source": "/wp-json/wp/v2/categories",
         "ExcludeProperties": ["description"]
       },
       {
-        "Destination": "wordpress_output/categories/tags.json",
+        "Destination": "wordpress_output/categories/tags2.json",
         "Source": "/wp-json/wp/v2/tags",
         "ExcludeProperties": ["description"]
       },
       {
-        "Destination": "categoriesAtRoot.json",
+        "Destination": "categoriesAtRoot2.json",
         "Source": "/wp-json/wp/v2/categories",
         "ExcludeProperties": ["description"]
       }
