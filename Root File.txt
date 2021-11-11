@@ -1,3 +1,1 @@
-{
-  "content": "Root File Data"
-}
+Root File Data
