@@ -1,3 +1,1 @@
-{
-  "content": "Target File.txt DATA"
-}
+Target File.txt DATA
