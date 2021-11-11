@@ -1,1 +1,3 @@
-fileAB2.txt DATA
+{
+  "content": "fileAB2.txt DATA"
+}
