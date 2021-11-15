@@ -1,1 +1,1 @@
-fileAA1.txt DATA2 17
+fileAA1.txt DATA2 18
