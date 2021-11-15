@@ -1,1 +1,1 @@
-My Buffer Textfunction now() { [native code] }
+My Buffer Text 2
