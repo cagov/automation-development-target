@@ -1,1 +1,1 @@
-fileAB2.txt DATATue Nov 16 2021 08:23:57 GMT-0800 (Pacific Standard Time)
+fileAB2.txt DATA
