@@ -1,1 +1,1 @@
-fileAA1.txt DATA2 2
+fileAA1.txt DATA2 2Mon Nov 15 2021 17:43:19 GMT-0800 (Pacific Standard Time)
