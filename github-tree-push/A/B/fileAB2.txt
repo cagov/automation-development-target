@@ -1,1 +1,1 @@
-fileAB2.txt DATA1
+fileAB2.txt DATA
