@@ -17,7 +17,7 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Runs a single command using the runners shell
-      - name: Sleep for 60 seconds
+      - name: Sleep for 2 mins
         uses: jakejarvis/wait-action@master
         with:
-          time: "60s"
+          time: "2m"
