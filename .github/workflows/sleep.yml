@@ -31,6 +31,4 @@ jobs:
         uses: jakejarvis/wait-action@master
         with:
           time: "20s"
-      - name: Try to fail
-        run: exit 1
 
