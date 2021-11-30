@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2020-08-26T05:25:37",
-    "updated_date": "2021-11-04T18:29:40",
+    "updated_date": "2021-11-19T18:29:21",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
@@ -17,8 +17,8 @@
     "date": "2020-08-26T05:25:37",
     "date_gmt": "2020-08-26T05:25:37",
     "guid": "http://as-go-covid19-d-001.azurewebsites.net/?p=5563",
-    "modified": "2021-11-04T18:29:40",
-    "modified_gmt": "2021-11-04T18:29:40",
+    "modified": "2021-11-19T18:29:21",
+    "modified_gmt": "2021-11-19T18:29:21",
     "slug": "safely-reopening",
     "status": "publish",
     "type": "post",
@@ -37,9 +37,7 @@
       "current safety measures",
       "safely reopening"
     ],
-    "tags": [
-      "translate"
-    ],
+    "tags": [],
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/08/26/safely-reopening/"
   }
 }

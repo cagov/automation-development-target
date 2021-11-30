@@ -83,7 +83,7 @@ data2.icu.ICU_SUSPECTED_COVID_PATIENTS_DAILY) | formatNumber(tags)-%}
 <!----- Begin Summary Boxes -->
 <div class="row d-flex justify-content-md-center summary-boxes">
   <!-- Blue Summary Box 1 -->
-     <div class="col-md-3 px-10px">
+    <div class="col-md-6 col-lg-3 px-10px">							
        <div class="bg-blue bd-rounded-10 px-6px py-2 text-center mt-3 summary-box d-flex flex-column">
          <div class="h5 text-uppercase color-white line-height-1-2 mt-1 mb-auto">Vaccines Administered</div>
          <div id="total-vaccines-number" class="text-white font-size-1-2em mb-2"><strong>{{_varStatVaccines_}}</strong>
@@ -93,7 +93,12 @@ data2.icu.ICU_SUSPECTED_COVID_PATIENTS_DAILY) | formatNumber(tags)-%}
            <strong>{{_varDosesDailyAverage_}}</strong> <span class="text-300">daily avg.</span>
          </div>
          <div class="text-white text-xs mb-2">
-           <span class="text-300"><strong>{{_varTotalVaxedPercent_}}%</strong> of population vaccinated</span>
+           <div>
+             <span class="text-300"><strong>{{_varTotalVaxedPercent_}}%</strong> of population vaccinated</span>
+           </div>
+           <div>
+            <span class="text-300">(5+ with at least one dose)</span>
+           </div>
          </div>
          <!--Chart and Label -->
          <div class="mt-auto px-2">
@@ -107,7 +112,7 @@ data2.icu.ICU_SUSPECTED_COVID_PATIENTS_DAILY) | formatNumber(tags)-%}
      </div>
 
    <!-- Blue Summary Box 2 -->
-    <div class="col-md-3 px-10px">
+    <div class="col-md-6 col-lg-3 px-10px">							
        <div class="bg-blue bd-rounded-10 px-6px py-2 text-center mt-3 summary-box d-flex flex-column">
          <div class="h5 text-uppercase color-white line-height-1-2 mt-1 mb-auto">Cases</div>
 
@@ -118,7 +123,9 @@ data2.icu.ICU_SUSPECTED_COVID_PATIENTS_DAILY) | formatNumber(tags)-%}
            <strong>{{_varCasesDailyAverage_}}</strong> <span class="text-300">daily avg.</span>
          </div>
          <div class="text-white text-xs mb-2">
-           <strong>{{_varStatNewCasesPer100k_}}</strong> <span class="text-300">new cases (per 100K)</span>
+           <div>
+             <strong>{{_varStatNewCasesPer100k_}}</strong> <span class="text-300">new cases (per 100K)</span>
+           </div><div>&nbsp;</div>
          </div>
          <!--Chart and Label -->
          <div class="mt-auto px-2">
@@ -131,7 +138,7 @@ data2.icu.ICU_SUSPECTED_COVID_PATIENTS_DAILY) | formatNumber(tags)-%}
        </div>
      </div>
   <!-- Blue Summary Box 3 -->
-     <div class="col-md-3 px-10px">
+    <div class="col-md-6 col-lg-3 px-10px">							
        <div class="bg-blue bd-rounded-10 px-6px py-2 text-center mt-3 summary-box d-flex flex-column">
          <div class="h5 text-uppercase color-white line-height-1-2 mt-1 mb-auto">Deaths</div>
 
@@ -142,7 +149,9 @@ data2.icu.ICU_SUSPECTED_COVID_PATIENTS_DAILY) | formatNumber(tags)-%}
            <strong>{{_varDeathsDailyAverage_}}</strong> <span class="text-300">daily avg.</span>
          </div>
          <div class="text-white text-xs mb-2">
-           <strong>{{_varStatNewDeathsPer100k_}}</strong> <span class="text-300">new deaths (per 100K)</span>
+           <div>
+             <strong>{{_varStatNewDeathsPer100k_}}</strong> <span class="text-300">new deaths (per 100K)</span>
+           </div><div>&nbsp;</div>
          </div>
 
          <!--Chart and Label -->
@@ -156,7 +165,7 @@ data2.icu.ICU_SUSPECTED_COVID_PATIENTS_DAILY) | formatNumber(tags)-%}
        </div>
      </div>
    <!-- Blue Summary Box 4 -->
-    <div class="col-md-3 px-10px">
+    <div class="col-md-6 col-lg-3 px-10px">							
        <div class="bg-blue bd-rounded-10 px-6px py-2 text-center mt-3 summary-box d-flex flex-column">
          <div class="h5 text-uppercase color-white line-height-1-2 mt-1 mb-auto">Tests</div>
          <div id="total-tests-number" class="text-white font-size-1-2em mb-2">
@@ -436,7 +445,7 @@ data2.icu.ICU_SUSPECTED_COVID_PATIENTS_DAILY) | formatNumber(tags)-%}
     </div> 
   </div>
 
-<p class="small-text mt-2"><a href="https://data.chhs.ca.gov/dataset/covid-19-time-series-metrics-by-county-and-state">Total tests source data</a></p>
+<p class="small-text mt-2"><a href="https://data.chhs.ca.gov/dataset/covid-19-time-series-metrics-by-county-and-state">Total tests and positivity rate source data</a></p>
 
 <div class="wp-block-cgb-block-chart-drawer"><cagov-accordion class="chart-drawer"><div class="card"><button class="card-header accordion-alpha" type="button" aria-expanded="false"><div class="plus-munus"><cagov-plus></cagov-plus><cagov-minus></cagov-minus></div><div class="accordion-title">Chart information</div></button><div class="card-container" aria-hidden="true"><div class="card-body">
 <p class="small-text">Testing date is the date the test was administered. Reported date is the date the event was reported to the California Department of Public Health. Reported date data is not available for tests before May 5, 2020. Testing date data excludes out-of-state and unknown jurisdiction tests and total numbers may not match reporting date numbers. Positivity rate is calculated as the number of positive molecular tests divided by the total molecular tests performed. Positivity rate includes people in state and federal prisons, US Immigration and Customs Enforcement facilities, US Marshal detention facilities, and Department of State Hospitals facilities. Positivity rate was previously reported as a 14-day average. The population denominators in these charts come from the California Department of Finance’s population projections for 2020.</p>

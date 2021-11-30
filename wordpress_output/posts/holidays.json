@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2021-10-22T22:35:08",
-    "updated_date": "2021-11-03T00:38:32",
+    "updated_date": "2021-11-30T01:24:59",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
@@ -17,8 +17,8 @@
     "date": "2021-10-22T22:35:08",
     "date_gmt": "2021-10-22T22:35:08",
     "guid": "https://as-go-covid19-d-001.azurewebsites.net/?p=14684",
-    "modified": "2021-11-03T00:38:32",
-    "modified_gmt": "2021-11-03T00:38:32",
+    "modified": "2021-11-30T01:24:59",
+    "modified_gmt": "2021-11-30T01:24:59",
     "slug": "holidays",
     "status": "publish",
     "type": "post",
