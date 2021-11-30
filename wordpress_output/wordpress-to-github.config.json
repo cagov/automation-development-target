@@ -27,7 +27,6 @@
         "ExcludeProperties": ["description"]
       }
     ],
-    "ExcludeProperties": ["content", "_links"],
-    "HideAuthorName": true
+    "ExcludeProperties": ["content", "_links"]
   }
 }
