@@ -28,6 +28,6 @@
       }
     ],
     "ExcludeProperties": ["content", "_links"],
-    "HideAuthors": false
+    "HideAuthors": true
   }
 }
