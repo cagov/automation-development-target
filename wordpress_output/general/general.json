@@ -1,6 +1,6 @@
 {
   "meta": {
-    "api_version": "v2flurry",
+    "api_version": "v2",
     "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
     "object_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json?_fields=description,gmt_offset,name,namespaces,timezone_string,home,url",
     "process": {
