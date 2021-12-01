@@ -1,10 +1,11 @@
 {
   "meta": {
     "created_date": "2020-06-25T01:42:13",
-    "updated_date": "2021-11-24T16:41:49",
+    "updated_date": "2021-12-01T18:12:25",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
-    "api_version": "v2",
+    "api_version": "v2x",
     "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
+    "object_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/posts/4397",
     "process": {
       "source_code": "https://github.com/cagov/wordpress-to-github",
       "source_data": "https://as-go-covid19-d-001.azurewebsites.net",
@@ -17,8 +18,8 @@
     "date": "2020-06-25T01:42:13",
     "date_gmt": "2020-06-25T01:42:13",
     "guid": "http://as-go-covid19-d-001.azurewebsites.net/?p=4397",
-    "modified": "2021-11-24T16:41:49",
-    "modified_gmt": "2021-11-24T16:41:49",
+    "modified": "2021-12-01T18:12:25",
+    "modified_gmt": "2021-12-01T18:12:25",
     "slug": "data-and-tools",
     "status": "publish",
     "type": "post",
