@@ -11,7 +11,7 @@
       "source_data": "https://as-go-covid19-d-001.azurewebsites.net",
       "deployment_target": "https://github.com/cagov/automation-development-target/tree/main"
     },
-    "refresh_frequency": "as needed"
+    "refresh_frequency": "as neededx"
   },
   "data": {
     "id": 1205,
@@ -34,13 +34,8 @@
     "template": "",
     "format": "standard",
     "meta": [],
-    "categories": [
-      "error page"
-    ],
-    "tags": [
-      "do-not-crawl",
-      "machine-translated"
-    ],
+    "categories": ["error page"],
+    "tags": ["do-not-crawl", "machine-translated"],
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/04/13/500/"
   }
 }
