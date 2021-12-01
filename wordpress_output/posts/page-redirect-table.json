@@ -3,7 +3,7 @@
     "created_date": "2020-04-23T16:26:23",
     "updated_date": "2021-10-22T19:26:18",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
-    "api_version": "v2x",
+    "api_version": "v2",
     "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
     "object_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/posts/1933",
     "process": {
