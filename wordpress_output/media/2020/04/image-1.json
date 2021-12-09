@@ -2,7 +2,7 @@
   "meta": {
     "created_date": "2020-04-28T19:00:09",
     "updated_date": "2020-04-28T19:00:09",
-    "field_reference": "https://developer.wordpress.org/rest-api/reference/media/6",
+    "field_reference": "https://developer.wordpress.org/rest-api/reference/media/",
     "api_version": "v2",
     "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
     "object_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/media/2245",
