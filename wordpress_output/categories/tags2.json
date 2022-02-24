@@ -79,7 +79,7 @@
   },
   {
     "id": 56,
-    "count": 15,
+    "count": 13,
     "description": "Tells the build to exclude this page in sitemaps, and adds the \"noindex\" meta tag to tell search engines to bug off.",
     "link": "https://as-go-covid19-d-001.azurewebsites.net/tag/do-not-crawl/",
     "name": "do-not-crawl",
