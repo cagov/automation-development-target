@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2020-04-07T02:12:34",
-    "updated_date": "2021-09-22T19:46:51",
+    "updated_date": "2022-01-20T23:15:08",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
@@ -18,8 +18,8 @@
     "date": "2020-04-07T02:12:34",
     "date_gmt": "2020-04-07T02:12:34",
     "guid": "http://as-go-covid19-d-001.azurewebsites.net/?p=839",
-    "modified": "2021-09-22T19:46:51",
-    "modified_gmt": "2021-09-22T19:46:51",
+    "modified": "2022-01-20T23:15:08",
+    "modified_gmt": "2022-01-20T23:15:08",
     "slug": "resources-for-emotional-support-and-well-being",
     "status": "publish",
     "type": "post",

@@ -1,7 +1,7 @@
 {
   "meta": {
     "created_date": "2020-05-11T16:40:15",
-    "updated_date": "2021-11-19T18:27:10",
+    "updated_date": "2022-02-16T00:48:15",
     "field_reference": "https://developer.wordpress.org/rest-api/reference/posts/",
     "api_version": "v2",
     "api_url": "https://as-go-covid19-d-001.azurewebsites.net/wp-json/wp/v2/",
@@ -18,14 +18,14 @@
     "date": "2020-05-11T16:40:15",
     "date_gmt": "2020-05-11T16:40:15",
     "guid": "http://as-go-covid19-d-001.azurewebsites.net/?p=2997",
-    "modified": "2021-11-19T18:27:10",
-    "modified_gmt": "2021-11-19T18:27:10",
+    "modified": "2022-02-16T00:48:15",
+    "modified_gmt": "2022-02-16T00:48:15",
     "slug": "masks-and-ppe",
     "status": "publish",
     "type": "post",
     "link": "https://as-go-covid19-d-001.azurewebsites.net/2020/05/11/masks-and-ppe/",
     "title": "Masks",
-    "excerpt": "<p>Here are California&#8217;s current mask recommendations and requirements. On this page: Masks in daily life Masks in the workplace Guidance for businesses Questions and answers Masks in daily life These are the statewide guidelines for masks. Your local area may have more. Check your area’s COVID-19 website. Everyone is required to wear masks in the [&hellip;]</p>\n",
+    "excerpt": "<p>Get free N95 masks The U.S. government is now giving 3 free adult-size N95 masks to anyone that needs them. You can pick up yours at community health centers or pharmacies like CVS, Walgreens, and Krogers. Walmart and Sam’s Club will start distributing free masks in mid-February. Here are California&#8217;s current mask recommendations and requirements. [&hellip;]</p>\n",
     "author": "Peggy Gartin",
     "featured_media": 0,
     "comment_status": "closed",
@@ -37,7 +37,9 @@
     "categories": [
       "masks and PPE"
     ],
-    "tags": [],
+    "tags": [
+      "translate"
+    ],
     "wordpress_url": "https://as-go-covid19-d-001.azurewebsites.net/2020/05/11/masks-and-ppe/"
   }
 }
